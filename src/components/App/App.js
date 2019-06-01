@@ -4,7 +4,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>Smoke test!</p>
+      <div className="flashcard">
+        <div className="kanji"></div>
+        <div className="def"></div>
+        <div className="romaji"></div>
+        <div className="speech-part"></div>
+      </div>
     </div>
   );
 }
