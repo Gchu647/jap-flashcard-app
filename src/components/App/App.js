@@ -5,10 +5,18 @@ function App() {
   return (
     <div className="App">
       <div className="flashcard">
-        <div className="kanji"></div>
-        <div className="def"></div>
-        <div className="romaji"></div>
-        <div className="speech-part"></div>
+        <div className="kanji-wrap">
+          <div className="kanji">使う</div>
+        </div>
+        <div className="def-wrap">
+          <div className="def">Use, make use of</div>
+        </div>
+        <div className="romaji-wrap">
+          <div className="romaji">[Tsukau]</div>
+        </div>
+        <div className="speech-part-wrap">
+          <div className="speech-part">VERB</div>
+        </div>
       </div>
     </div>
   );
