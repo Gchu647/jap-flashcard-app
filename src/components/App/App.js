@@ -4,11 +4,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <div className="flashcard">
+      <div className="flashcard-top">
         <div className="kanji-wrap">
           <div className="kanji">使う</div>
         </div>
-        <div className="def-wrap">
+      </div>
+      <div className="flashcard-btm">
+      <div className="def-wrap">
           <div className="def">Use, make use of</div>
         </div>
         <div className="romaji-wrap">
