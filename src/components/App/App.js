@@ -1,23 +1,26 @@
 import React from 'react';
 import './App.css';
+import JapData from '../../data/data';
 
 function App() {
   return (
     <div className="App">
       <div className="flashcard-top">
         <div className="kanji-wrap">
-          <div className="kanji">使う</div>
+          {JapData.map(vocab => (
+            <div className="kanji">{vocab.kanji}</div>
+          ))}
         </div>
       </div>
       <div className="flashcard-btm">
       <div className="def-wrap">
-          <div className="def">Use, make use of</div>
+          <div className="def"></div>
         </div>
         <div className="romaji-wrap">
-          <div className="romaji">[Tsukau]</div>
+          <div className="romaji"></div>
         </div>
         <div className="speech-part-wrap">
-          <div className="speech-part">VERB</div>
+          <div className="speech-part"></div>
         </div>
       </div>
     </div>
