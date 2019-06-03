@@ -1,0 +1,33 @@
+.flashcard-btm {
+  border: solid 1px #ffffff;
+  border-radius: 0 0 11% 11%;
+  width: 300px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1%;
+  background-color: #ffffff;
+}
+
+.def-wrap, .romaji-wrap, .speech-part-wrap {
+  width: 80%;
+  height: auto;
+}
+
+.def-wrap {
+  margin-top: 15%
+}
+
+.def {
+  font-size: 32px;
+  text-align: center;
+}
+
+.romaji-wrap, .speech-part-wrap {
+  margin-top: 5%;
+}
+
+.romaji, .speech-part {
+  text-align: center;
+}
