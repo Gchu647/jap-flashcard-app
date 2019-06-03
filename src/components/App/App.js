@@ -8,13 +8,25 @@ class App extends Component {
     super(props);
   
     this.state = {
-      vocab: {}
+      vocab: {},
+      condition: 'set'
     }
 
     this.quiz = this.quiz.bind(this);
+    this.pickWord = this.pickWord.bind(this);
   }
 
   quiz() {
+    switch(this.state.condition) {
+      case 'set':
+        this.pickWord();
+        break;
+      default:
+        break;
+    }
+  }
+
+  pickWord() {
     let vocabLength = JapData.length;
     let randomIndex = Math.floor(Math.random() * vocabLength);
     let vocabObj = JapData.find((element, index) => {
