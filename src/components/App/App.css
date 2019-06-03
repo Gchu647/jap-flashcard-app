@@ -12,7 +12,7 @@
   border: solid 1px #ffffff;
   border-radius: 11% 11% 0 0;
   width: 300px;
-  height: 250px; /* total height 450px */ 
+  height: 200px; /* total height 450px */ 
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -39,7 +39,7 @@
 }
 
 .kanji-wrap {
-  margin-top: 35%;
+  margin-top: 20%;
 }
 
 .kanji {
@@ -62,4 +62,21 @@
 
 .romaji, .speech-part {
   text-align: center;
+}
+
+.btn {
+  background-color: #1E90FF;
+  border: none;
+  color: white;
+  margin-top: 30px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #4CAF50;
 }

@@ -9,13 +9,18 @@ class App extends Component {
     this.state = {
       vocab: {}
     }
+
+    this.quiz = this.quiz.bind(this);
   }
 
-  componentDidMount() {
-    let vocabObj = JapData.find(vocab => {
-      return vocab.id === 10;
+  quiz() {
+    let vocabLength = JapData.length;
+    let randomIndex = Math.floor(Math.random() * vocabLength);
+    let vocabObj = JapData.find((element, index) => {
+      return index === randomIndex;
     });
 
+    console.log(randomIndex);
     this.setState({ vocab: vocabObj });
   }
   
@@ -46,6 +51,7 @@ class App extends Component {
             </div>
           </div>
         </div>
+        <div className="btn" onClick={this.quiz}>Quiz</div>
       </div>
     );
   }

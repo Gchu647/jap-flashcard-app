@@ -8,14 +8,14 @@ const JapData = [
   },
   {
     kanji: '見る',
-    def: 'See, look at',
+    def: 'see, look at',
     romaji: '[Miru]',
     speech_part: 'VERB',
     id:2
   },
   {
     kanji: '多い',
-    def: 'A lot of, many',
+    def: 'a lot of, many',
     romaji: '[Ōi]',
     speech_part: 'ADJ.',
     id:3
@@ -23,63 +23,63 @@ const JapData = [
   {
     kanji: '家',
     def: 'home, household',
-    romaji: '[Ie]',
+    romaji: '[ie]',
     speech_part: 'NOUN',
     id:4
   },
   {
     kanji: 'これ',
     def: 'this, this one',
-    romaji: '[Kore]',
+    romaji: '[kore]',
     speech_part: 'PRONOUN',
     id:5
   },
   {
     kanji: 'それ',
     def: 'that, that one',
-    romaji: '[Sore]',
+    romaji: '[sore]',
     speech_part: 'PRONOUN',
     id:6
   },
   {
     kanji: '私',
     def: 'I (general)',
-    romaji: '[Watashi]',
+    romaji: '[watashi]',
     speech_part: 'PRONOUN',
     id:7
   },
   {
     kanji: '仕事',
-    def: 'Work, job',
-    romaji: '[Shigoto]',
+    def: 'work, job',
+    romaji: '[shigoto]',
     speech_part: 'VERBAL NOUN',
     id:8
   },
   {
     kanji: 'いつ',
-    def: 'When',
-    romaji: '[Itsu]',
+    def: 'when',
+    romaji: '[itsu]',
     speech_part: 'INTEROGATIVE',
     id:9
   },
   {
     kanji: 'する',
-    def: 'Do, make',
-    romaji: '[Suru]',
+    def: 'do, make',
+    romaji: '[suru]',
     speech_part: 'VERB',
     id:10
   },
   {
     kanji: '出る',
-    def: 'Go out, leave',
-    romaji: '[Deru]',
+    def: 'go out, leave',
+    romaji: '[deru]',
     speech_part: 'VERB',
     id:11
   },
   {
     kanji: '使う',
-    def: 'Use, make use of',
-    romaji: '[Tsukau]',
+    def: 'use, make use of',
+    romaji: '[tsukau]',
     speech_part: 'VERB',
     id:12
   },
