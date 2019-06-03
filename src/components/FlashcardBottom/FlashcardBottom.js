@@ -1,7 +1,13 @@
 import React from 'react';
 import './FlashcardBottom.css';
 
-const FlashcardBottom = ({definition, romaji,speechPart }) => {
+const FlashcardBottom = ({definition, romaji, speechPart, display}) => {
+  if (display === false) {
+    return (
+      <div className="flashcard-btm"></div>
+    );
+  } 
+  
   return (
     <div className="flashcard-btm">
       <div className="def-wrap">

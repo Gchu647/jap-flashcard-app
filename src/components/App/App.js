@@ -9,17 +9,23 @@ class App extends Component {
   
     this.state = {
       vocab: {},
-      condition: 'set'
+      quizSteps: 'set',
+      displayBottom: false
     }
 
     this.quiz = this.quiz.bind(this);
     this.pickWord = this.pickWord.bind(this);
   }
 
-  quiz() {
-    switch(this.state.condition) {
+  quiz() { // procedures of the quiz
+    switch(this.state.quizSteps) {
       case 'set':
         this.pickWord();
+        this.setState({ quizSteps: 'bottom'});
+        break;
+      case 'bottom':
+        this.setState({ displayBottom: true});
+        this.setState({ quizSteps: 'set'});
         break;
       default:
         break;
@@ -51,6 +57,7 @@ class App extends Component {
           definition = {this.state.vocab.def}
           romaji = {this.state.vocab.romaji}
           speechPart = {this.state.vocab.speech_part}
+          display = {this.state.displayBottom}
         />
         <div className="btn" onClick={this.quiz}>Quiz</div>
       </div>
