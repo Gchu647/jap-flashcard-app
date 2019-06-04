@@ -13,16 +13,18 @@ class App extends Component {
       quizSteps: 'top',
       displayTop: false,
       displayBottom: false,
+      // learnCount: 0
     }
 
     this.quiz = this.quiz.bind(this);
-    this.pickWord = this.pickWord.bind(this);
+    this.pickQuizWord = this.pickQuizWord.bind(this);
+    this.picklearnWord = this.pickLearnWord.bind(this);
   }
 
   quiz() { // procedures of the quiz
     switch(this.state.quizSteps) {
       case 'top':
-        this.pickWord();
+        this.pickQuizWord();
         this.setState({
           displayTop: true,
           quizSteps: 'bottom'
@@ -46,19 +48,32 @@ class App extends Component {
     }
   }
 
-  pickWord() { // pick a word if the word list is longer than 0
+  pickQuizWord() { // pick a random word for the quiz
     let vocabLength = JapData.length;
 
     if (vocabLength > 0) {
       let randomIndex = Math.floor(Math.random() * vocabLength);
       let vocabObj = JapData.splice(randomIndex, 1)[0];
   
-      console.log(vocabLength);
       this.setState({ vocab: vocabObj });
     } else {
       let vocabObj = {kanji: 'END'}
       this.setState({ vocab: vocabObj });
     }
+  }
+
+  pickLearnWord() {
+    // let vocabLength = JapData.length;
+    // console.log(vocabLength);
+    // console.log(this.state.learnCount);
+    
+    // if (this.state.learnCount < vocabLength) {
+    //   let vocabObj = JapData[this.state.learnCount];
+    //   this.setState({
+    //     vocab: vocabObj,
+    //     learnCount: this.state.learnCount++
+    //   });
+    // }
   }
   
   render() {
@@ -75,6 +90,7 @@ class App extends Component {
           display = {this.state.displayBottom}
         />
         <div className="btn" onClick={this.quiz}>Quiz</div>
+        <div className="btn" onClick={this.pickLearnWord}>Learn</div>
       </div>
     );
   }
