@@ -48,13 +48,17 @@ class App extends Component {
 
   pickWord() {
     let vocabLength = JapData.length;
-    let randomIndex = Math.floor(Math.random() * vocabLength);
-    let vocabObj = JapData.find((element, index) => {
-      return index === randomIndex;
-    });
 
-    console.log(randomIndex);
-    this.setState({ vocab: vocabObj });
+    if (vocabLength > 0) {
+      let randomIndex = Math.floor(Math.random() * vocabLength);
+      let vocabObj = JapData.splice(randomIndex, 1)[0];
+  
+      console.log(vocabLength);
+      this.setState({ vocab: vocabObj });
+    } else {
+      let vocabObj = {kanji: 'END'}
+      this.setState({ vocab: vocabObj });
+    }
   }
   
   render() {
