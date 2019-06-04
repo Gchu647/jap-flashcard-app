@@ -11,7 +11,8 @@ class App extends Component {
     this.state = {
       vocab: {},
       quizSteps: 'set',
-      displayBottom: false
+      displayTop: false,
+      displayBottom: false,
     }
 
     this.quiz = this.quiz.bind(this);
@@ -49,6 +50,7 @@ class App extends Component {
       <div className="App">
         <FlashcardTop 
           kanji = {this.state.vocab.kanji}
+          display = {this.state.displayTop}
         />
         <FlashcardBottom 
           definition = {this.state.vocab.def}
