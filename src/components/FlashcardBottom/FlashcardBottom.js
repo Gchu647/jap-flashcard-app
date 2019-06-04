@@ -26,7 +26,7 @@ const FlashcardBottom = ({definition, romaji, speechPart, display}) => {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
 export default FlashcardBottom;

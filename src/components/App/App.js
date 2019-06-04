@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import JapData from '../../data/data';
+import FlashcardTop from '../FlascardTop/FlashcardTop';
 import FlashcardBottom from '../FlashcardBottom/FlashcardBottom';
 
 class App extends Component {
@@ -46,13 +47,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="flashcard-top">
-          <div className="kanji-wrap">
-            <div className="kanji">
-              {this.state.vocab.kanji}
-            </div>
-          </div>
-        </div>
+        <FlashcardTop 
+          kanji = {this.state.vocab.kanji}
+        />
         <FlashcardBottom 
           definition = {this.state.vocab.def}
           romaji = {this.state.vocab.romaji}
