@@ -13,15 +13,16 @@ class App extends Component {
       quizSteps: 'top',
       displayTop: false,
       displayBottom: false,
-      // learnCount: 0
+      learnCount: 0
     }
 
     this.quiz = this.quiz.bind(this);
     this.pickQuizWord = this.pickQuizWord.bind(this);
-    this.picklearnWord = this.pickLearnWord.bind(this);
+    this.pickLearnWord = this.pickLearnWord.bind(this);
   }
 
   quiz() { // procedures of the quiz
+    console.log(this.state.quizSteps);
     switch(this.state.quizSteps) {
       case 'top':
         this.pickQuizWord();
@@ -62,18 +63,22 @@ class App extends Component {
     }
   }
 
-  pickLearnWord() {
-    // let vocabLength = JapData.length;
-    // console.log(vocabLength);
-    // console.log(this.state.learnCount);
-    
-    // if (this.state.learnCount < vocabLength) {
-    //   let vocabObj = JapData[this.state.learnCount];
-    //   this.setState({
-    //     vocab: vocabObj,
-    //     learnCount: this.state.learnCount++
-    //   });
-    // }
+  pickLearnWord() { // still needs a proper way to end method
+    let vocabLength = JapData.length;
+
+    if (this.state.learnCount < vocabLength) {
+      let vocabObj = JapData[this.state.learnCount];
+      this.setState({ // set state for the new vocab word
+        vocab: vocabObj,
+        displayTop: true,
+        displayBottom: true,
+      });
+      this.setState((prevState) => { // proper way to increment
+        return {learnCount: prevState.learnCount + 1}
+      });
+      console.log(this.state.learnCount + 1);
+    }
+
   }
   
   render() {
