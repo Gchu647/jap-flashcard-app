@@ -10,7 +10,7 @@ class App extends Component {
   
     this.state = {
       vocab: {},
-      quizSteps: 'set',
+      quizSteps: 'top',
       displayTop: false,
       displayBottom: false,
     }
@@ -21,13 +21,25 @@ class App extends Component {
 
   quiz() { // procedures of the quiz
     switch(this.state.quizSteps) {
-      case 'set':
+      case 'top':
         this.pickWord();
-        this.setState({ quizSteps: 'bottom'});
+        this.setState({
+          displayTop: true,
+          quizSteps: 'bottom'
+        });
         break;
       case 'bottom':
-        this.setState({ displayBottom: true});
-        this.setState({ quizSteps: 'set'});
+        this.setState({
+          displayBottom: true,
+          quizSteps: 'clear'
+        });
+        break;
+      case 'clear':
+        this.setState({
+          displayTop: false,
+          displayBottom: false,
+          quizSteps: 'top'
+        });
         break;
       default:
         break;
