@@ -46,7 +46,7 @@ class App extends Component {
     }
   }
 
-  pickWord() {
+  pickWord() { // pick a word if the word list is longer than 0
     let vocabLength = JapData.length;
 
     if (vocabLength > 0) {
