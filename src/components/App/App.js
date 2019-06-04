@@ -83,7 +83,7 @@ class App extends Component {
   
   render() {
     return (
-      <div className="App">
+      <div className='App'>
         <FlashcardTop 
           kanji = {this.state.vocab.kanji}
           display = {this.state.displayTop}
@@ -94,8 +94,22 @@ class App extends Component {
           speechPart = {this.state.vocab.speech_part}
           display = {this.state.displayBottom}
         />
-        <div className="btn" onClick={this.quiz}>Quiz</div>
-        <div className="btn" onClick={this.pickLearnWord}>Learn</div>
+        <div className='ctrl-panel'>
+          <form className=''>
+            <input 
+              type='number'
+              name='startId' 
+              className='start-id'
+            />
+            <label> to </label>
+            <input type='number' 
+              name='endId' 
+              className='end-id' 
+            />
+          </form>
+          <div className='btn btn-quiz' onClick={this.quiz}>Quiz</div>
+          <div className='btn btn-learn' onClick={this.pickLearnWord}>Learn</div>
+        </div>
       </div>
     );
   }
