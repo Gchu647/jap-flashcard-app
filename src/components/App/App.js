@@ -13,16 +13,35 @@ class App extends Component {
       quizSteps: 'top',
       displayTop: false,
       displayBottom: false,
-      learnCount: 0
+      learnCount: 0,
+      startId: 0,
+      endId: 100,
     }
 
     this.quiz = this.quiz.bind(this);
+    this.changeHandler = this.changeHandler.bind(this);
     this.pickQuizWord = this.pickQuizWord.bind(this);
     this.pickLearnWord = this.pickLearnWord.bind(this);
   }
 
+
+  changeHandler(event) {
+    switch(event.target.name) {
+      case 'startId':
+        this.setState({ startId: event.target.value });
+        break;
+      case 'endId':
+        this.setState({ endId: event.target.value });
+        break;
+      default:
+        break;
+    }
+  }
+
   quiz() { // procedures of the quiz
     console.log(this.state.quizSteps);
+    console.log('start: ' + this.state.startId + ' end: '+ this.state.endId); // test changeHandler
+
     switch(this.state.quizSteps) {
       case 'top':
         this.pickQuizWord();
@@ -100,11 +119,13 @@ class App extends Component {
               type='number'
               name='startId' 
               className='start-id'
+              onChange={this.changeHandler}
             />
             <label> to </label>
             <input type='number' 
               name='endId' 
-              className='end-id' 
+              className='end-id'
+              onChange={this.changeHandler}
             />
           </form>
           <div className='btn btn-quiz' onClick={this.quiz}>Quiz</div>
