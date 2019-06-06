@@ -16,7 +16,7 @@ class App extends Component {
       displayBottom: false, // FlashcardBottom
       learnCount: 0, // when to stop pickLearnWord method
       startId: 1, // start of our vocab list
-      endId: 20, // end of our vocab list
+      endId: 10, // end of our vocab list
     }
 
     this.quiz = this.quiz.bind(this);
@@ -38,6 +38,12 @@ class App extends Component {
   //   }
 
   //   // create vocabList here, but need asynchronous function
+  }
+
+  componentDidMount() { // create a clone of japData and store it to our state
+    this.setState((prevState) => { // proper way to increment
+      return {vocabList: JapData.slice(prevState.startId-1, prevState.endId)}
+    });
   }
 
   quiz() { // procedures of the quiz
@@ -71,11 +77,11 @@ class App extends Component {
   }
 
   pickQuizWord() { // pick a random word for the quiz
-    let vocabLength = JapData.length;
+    let vocabLength = this.state.vocabList.length;
 
     if (vocabLength > 0) {
       let randomIndex = Math.floor(Math.random() * vocabLength);
-      let vocabObj = JapData.splice(randomIndex, 1)[0];
+      let vocabObj = this.state.vocabList.splice(randomIndex, 1)[0];
   
       this.setState({ vocab: vocabObj });
     } else {
@@ -85,10 +91,10 @@ class App extends Component {
   }
 
   pickLearnWord() { // still needs a proper way to end method
-    let vocabLength = JapData.length;
+    let vocabLength = this.state.vocabList.length;
 
     if (this.state.learnCount < vocabLength) {
-      let vocabObj = JapData[this.state.learnCount];
+      let vocabObj = this.state.vocabList[this.state.learnCount];
       this.setState({ // set state for the new vocab word
         vocab: vocabObj,
         displayTop: true,
