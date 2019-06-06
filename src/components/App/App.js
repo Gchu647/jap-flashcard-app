@@ -10,12 +10,13 @@ class App extends Component {
   
     this.state = {
       vocab: {},
+      vocabList: [],
       quizSteps: 'top',
-      displayTop: false,
-      displayBottom: false,
-      learnCount: 0,
-      startId: 0,
-      endId: 100,
+      displayTop: false, // FlashcardTop
+      displayBottom: false, // FlashcardBottom
+      learnCount: 0, // when to stop pickLearnWord method
+      startId: 1, // start of our vocab list
+      endId: 20, // end of our vocab list
     }
 
     this.quiz = this.quiz.bind(this);
@@ -24,18 +25,19 @@ class App extends Component {
     this.pickLearnWord = this.pickLearnWord.bind(this);
   }
 
+  changeHandler(event) { // determines the startId and endId of our vocab list
+  //   switch(event.target.name) {
+  //     case 'startId':
+  //       this.setState({ startId: event.target.value });
+  //       break;
+  //     case 'endId':
+  //       this.setState({ endId: event.target.value });
+  //       break;
+  //     default:
+  //       break;
+  //   }
 
-  changeHandler(event) {
-    switch(event.target.name) {
-      case 'startId':
-        this.setState({ startId: event.target.value });
-        break;
-      case 'endId':
-        this.setState({ endId: event.target.value });
-        break;
-      default:
-        break;
-    }
+  //   // create vocabList here, but need asynchronous function
   }
 
   quiz() { // procedures of the quiz
@@ -119,12 +121,14 @@ class App extends Component {
               type='number'
               name='startId' 
               className='start-id'
+              placeholder={this.state.startId}
               onChange={this.changeHandler}
             />
             <label> to </label>
             <input type='number' 
               name='endId' 
               className='end-id'
+              placeholder={this.state.endId}
               onChange={this.changeHandler}
             />
           </form>
