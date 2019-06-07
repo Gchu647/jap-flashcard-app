@@ -139,6 +139,202 @@ const JapData = [
     speech_part: 'ADJ. NOUN',
     id:20
   },
+  {
+    kanji: '今',
+    def: 'now',
+    romaji: '[ima]',
+    speech_part: 'ADV.',
+    id:21
+  },
+  {
+    kanji: '新しい',
+    def: 'new',
+    romaji: '[atarashi]',
+    speech_part: 'ADJ.',
+    id:22
+  },
+  {
+    kanji: 'なる',
+    def: 'become',
+    romaji: '[naru]',
+    speech_part: 'VERB',
+    id:23
+  },
+  {
+    kanji: 'まだ',
+    def: '(not) yet, still',
+    romaji: '[mada]',
+    speech_part: 'ADV.',
+    id:24
+  },
+  {
+    kanji: 'あと',
+    def: 'after',
+    romaji: '[ato]',
+    speech_part: 'NOUN',
+    id:25
+  },
+  {
+    kanji: '聞く',
+    def: 'hear, ask, listen',
+    romaji: '[kiku]',
+    speech_part: 'VERB',
+    id:26
+  },
+  {
+    kanji: '言う',
+    def: 'say, tell',
+    romaji: '[iu]',
+    speech_part: 'VERB',
+    id:27
+  },
+  {
+    kanji: '少ない',
+    def: 'few, little',
+    romaji: '[sukunai]',
+    speech_part: 'ADJ.',
+    id:28
+  },
+  {
+    kanji: '高い',
+    def: 'high, tall',
+    romaji: '[takai]',
+    speech_part: 'ADJ.',
+    id:29
+  },
+  {
+    kanji: '子供',
+    def: 'child',
+    romaji: '[kodomo]',
+    speech_part: 'NOUN',
+    id:30
+  },
+  {
+    kanji: 'そう',
+    def: 'so, that way',
+    romaji: '[sō]',
+    speech_part: 'ADV.',
+    id:31
+  },
+  {
+    kanji: 'もう',
+    def: 'already, yet',
+    romaji: '[mō]',
+    speech_part: 'ADV.',
+    id:32
+  },
+  {
+    kanji: '学生',
+    def: 'student',
+    romaji: '[gakusei]',
+    speech_part: 'NOUN',
+    id:33
+  },
+  {
+    kanji: '熱い',
+    def: 'hot (to touch)',
+    romaji: '[atsui]',
+    speech_part: 'ADJ.',
+    id:34
+  },
+  {
+    kanji: 'どうぞ',
+    def: 'please',
+    romaji: '[kudazai]',
+    speech_part: 'ADV.',
+    id:35
+  },
+  {
+    kanji: '午後',
+    def: 'afternoon, p.m.',
+    romaji: '[gogo]',
+    speech_part: 'NOUN',
+    id:36
+  },
+  {
+    kanji: '長い',
+    def: 'long',
+    romaji: '[nagai]',
+    speech_part: 'ADJ.',
+    id:37
+  },
+  {
+    kanji: '本',
+    def: 'book',
+    romaji: '[hon]',
+    speech_part: 'NOUN',
+    id:38
+  },
+  {
+    kanji: '今年',
+    def: 'this year (casual)',
+    romaji: '[kotoshi]',
+    speech_part: 'NOUN',
+    id:39
+  },
+  {
+    kanji: 'よく',
+    def: 'often, well',
+    romaji: '[yoku]',
+    speech_part: 'ADV.',
+    id:40
+  },
+  {
+    kanji: '彼女',
+    def: 'she, girlfriend',
+    romaji: '[kanojo]',
+    speech_part: 'PRONOUN',
+    id:41
+  },
+  {
+    kanji: 'どう',
+    def: 'how, what',
+    romaji: '[dō]',
+    speech_part: 'INTERROGATIVE',
+    id:42
+  },
+  {
+    kanji: '言葉',
+    def: 'word, language',
+    romaji: '[kotoba]',
+    speech_part: 'NOUN',
+    id:43
+  },
+  {
+    kanji: '顔',
+    def: 'face',
+    romaji: '[kao]',
+    speech_part: 'NOUN',
+    id:44
+  },
+  {
+    kanji: '終わる',
+    def: 'finish, end',
+    romaji: '[owaru]',
+    speech_part: 'VERB',
+    id:45
+  },
+  {
+    kanji: '一つ ',
+    def: 'one (thing)',
+    romaji: '[hitotsu]',
+    speech_part: 'NOUN',
+    id:46
+  },
+  {
+    kanji: 'あげる',
+    def: 'give, offer (casual)',
+    romaji: '[ageru]',
+    speech_part: 'VERB',
+    id:47
+  },
+  {
+    kanji: 'こう',
+    def: 'like this, such',
+    romaji: '[kō]',
+    speech_part: 'ADV.',
+    id:48
+  },
   // {
   //   kanji: '',
   //   def: '',
