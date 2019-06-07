@@ -16,7 +16,7 @@ class App extends Component {
       displayBottom: false, // FlashcardBottom
       learnCount: 0, // when to stop pickLearnWord method
       startId: 1, // start of our vocab list
-      endId: 10, // end of our vocab list
+      endId: 12, // end of our vocab list
     }
 
     this.quiz = this.quiz.bind(this);
@@ -47,8 +47,8 @@ class App extends Component {
   }
 
   quiz() { // procedures of the quiz
-    console.log(this.state.quizSteps);
-    console.log('start: ' + this.state.startId + ' end: '+ this.state.endId); // test changeHandler
+    // console.log(this.state.quizSteps);
+    // console.log('start: ' + this.state.startId + ' end: '+ this.state.endId); // test changeHandler
 
     switch(this.state.quizSteps) {
       case 'top':
@@ -82,6 +82,7 @@ class App extends Component {
     if (vocabLength > 0) {
       let randomIndex = Math.floor(Math.random() * vocabLength);
       let vocabObj = this.state.vocabList.splice(randomIndex, 1)[0];
+      console.log('id: ', vocabObj.id); // test id
   
       this.setState({ vocab: vocabObj });
     } else {
@@ -95,15 +96,16 @@ class App extends Component {
 
     if (this.state.learnCount < vocabLength) {
       let vocabObj = this.state.vocabList[this.state.learnCount];
+      console.log('id: ', vocabObj.id); // test id
+
       this.setState({ // set state for the new vocab word
         vocab: vocabObj,
         displayTop: true,
-        displayBottom: true,
+        displayBottom: true, // change to false for studying
       });
       this.setState((prevState) => { // proper way to increment
         return {learnCount: prevState.learnCount + 1}
       });
-      console.log(this.state.learnCount + 1);
     }
 
   }
@@ -138,8 +140,10 @@ class App extends Component {
               onChange={this.changeHandler}
             />
           </form>
-          <div className='btn btn-quiz' onClick={this.quiz}>Quiz</div>
-          <div className='btn btn-learn' onClick={this.pickLearnWord}>Learn</div>
+          <div className='btn-wrap'>
+            <div className='btn btn-quiz' onClick={this.quiz}>Quiz</div>
+            <div className='btn btn-learn' onClick={this.pickLearnWord}>Learn</div>
+          </div>
         </div>
       </div>
     );

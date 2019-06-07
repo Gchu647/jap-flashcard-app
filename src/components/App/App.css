@@ -8,10 +8,26 @@
   color: #464443;
 }
 
+.ctrl-panel {
+  /* border: 1px solid #464443; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+input[type=number] {
+  width: 110px;
+  height: 20px;
+  margin: 5px;
+  text-align: center;
+  font-size: 18px;
+}
+
 .btn {
   border: none;
   color: #ffffff;
-  margin-top: 30px;
+  margin-top: 20px;
   width: 50px;
   padding: 10px 32px;
   text-align: center;
