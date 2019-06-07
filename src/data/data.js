@@ -83,6 +83,62 @@ const JapData = [
     speech_part: 'VERB',
     id:12
   },
+  {
+    kanji: '所 ',
+    def: 'place',
+    romaji: '[tokoro]',
+    speech_part: 'NOUN',
+    id:13
+  },
+  {
+    kanji: '作る',
+    def: 'make, create',
+    romaji: '[tsukuru]',
+    speech_part: 'VERB',
+    id:14
+  },
+  {
+    kanji: '思う',
+    def: 'think',
+    romaji: '[omou]',
+    speech_part: 'VERB',
+    id:15
+  },
+  {
+    kanji: '持つ',
+    def: 'have, possess',
+    romaji: '[motsu]',
+    speech_part: 'VERB',
+    id:16
+  },
+  {
+    kanji: '買う',
+    def: 'buy',
+    romaji: '[kau]',
+    speech_part: 'VERB',
+    id:17
+  },
+  {
+    kanji: '時間',
+    def: 'time, hour',
+    romaji: '[jikan]',
+    speech_part: 'NOUN',
+    id:18
+  },
+  {
+    kanji: '知る',
+    def: 'know',
+    romaji: '[shiru]',
+    speech_part: 'VERB',
+    id:19
+  },
+  {
+    kanji: '同じ ',
+    def: 'same, identical',
+    romaji: '[onaji]',
+    speech_part: 'ADJ. NOUN',
+    id:20
+  },
   // {
   //   kanji: '',
   //   def: '',
