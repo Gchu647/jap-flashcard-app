@@ -335,6 +335,90 @@ const JapData = [
     speech_part: 'ADV.',
     id:48
   },
+  {
+    kanji: '学校',
+    def: 'school',
+    romaji: '[gakkō]',
+    speech_part: 'NOUN',
+    id:49
+  },
+  {
+    kanji: 'くれる',
+    def: 'be given',
+    romaji: '[kureru]',
+    speech_part: 'VERB',
+    id:50
+  },
+  {
+    kanji: '始める',
+    def: 'start (something)',
+    romaji: '[hajimeru]',
+    speech_part: 'VERB',
+    id:51
+  },
+  {
+    kanji: '起きる',
+    def: 'get up, get out of bed',
+    romaji: '[okiru]',
+    speech_part: 'VERB',
+    id:52
+  },
+  {
+    kanji: '春',
+    def: 'spring',
+    romaji: '[haru]',
+    speech_part: 'NOUN',
+    id:53
+  },
+  {
+    kanji: '午前',
+    def: 'morning, a.m.',
+    romaji: '[gozen]',
+    speech_part: 'NOUN',
+    id:54
+  },
+  {
+    kanji: '別',
+    def: 'another, different',
+    romaji: '[betsu]',
+    speech_part: 'ADJ. NOUN',
+    id:55
+  },
+  {
+    kanji: 'どこ',
+    def: 'Where',
+    romaji: '[doko]',
+    speech_part: 'INTERROGATIVE',
+    id:56
+  },
+  {
+    kanji: '部屋',
+    def: 'room',
+    romaji: '[heya]',
+    speech_part: 'NOUN',
+    id:57
+  },
+  {
+    kanji: '若い',
+    def: 'young',
+    romaji: '[wakai]',
+    speech_part: 'ADJ.',
+    id:58
+  },
+  {
+    kanji: '車',
+    def: 'car, automobile',
+    romaji: '[kuruma]',
+    speech_part: 'NOUN',
+    id:59
+  },
+  {
+    kanji: '置く',
+    def: 'put, place',
+    romaji: '[oku]',
+    speech_part: 'VERB',
+    id:60
+  },
   // {
   //   kanji: '',
   //   def: '',
