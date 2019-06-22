@@ -106,7 +106,7 @@ const JapData = [
   },
   {
     kanji: '持つ',
-    def: 'have, possess',
+    def: 'possess, own, have',
     romaji: '[motsu]',
     speech_part: 'VERB',
     id:16

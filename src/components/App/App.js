@@ -15,7 +15,7 @@ class App extends Component {
       displayTop: false, // FlashcardTop
       displayBottom: false, // FlashcardBottom
       learnCount: 0, // when to stop pickLearnWord method
-      startId: 11, // start of our vocab list
+      startId: 1, // start of our vocab list
       endId: 30, // end of our vocab list
     }
 
