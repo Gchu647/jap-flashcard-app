@@ -386,7 +386,7 @@ const JapData = [
   },
   {
     kanji: 'どこ',
-    def: 'Where',
+    def: 'where',
     romaji: '[doko]',
     speech_part: 'INTERROGATIVE',
     id:56
@@ -418,6 +418,293 @@ const JapData = [
     romaji: '[oku]',
     speech_part: 'VERB',
     id:60
+  },
+  {
+    kanji: '住む',
+    def: 'live, reside',
+    romaji: '[sumu]',
+    speech_part: 'VERB',
+    id:61
+  },
+  {
+    kanji: '働く',
+    def: 'work',
+    romaji: '[hataraku]',
+    speech_part: 'VERB',
+    id:62
+  },
+  {
+    kanji: '難しい',
+    def: 'difficult',
+    romaji: '[muzukashi]',
+    speech_part: 'ADJ.',
+    id:63
+  },
+  {
+    kanji: '先生',
+    def: 'teacher',
+    romaji: '[sensei]',
+    speech_part: 'NOUN',
+    id:64
+  },
+  {
+    kanji: '立つ',
+    def: 'stand, rise',
+    romaji: '[tatsu]',
+    speech_part: 'VERN',
+    id:65
+  },
+  {
+    kanji: '呼ぶ',
+    def: 'call, name',
+    romaji: '[yobu]',
+    speech_part: 'VERB',
+    id:66
+  },
+  {
+    kanji: '大学',
+    def: 'university, college',
+    romaji: '[daigeku]',
+    speech_part: 'NOUN',
+    id:67
+  },
+  {
+    kanji: '安い',
+    def: 'cheap, inexpansive',
+    romaji: '[yasui]',
+    speech_part: 'ADJ.',
+    id:68
+  },
+  {
+    kanji: 'もっと',
+    def: 'more',
+    romaji: '[motto]',
+    speech_part: 'ADV.',
+    id:69
+  },
+  {
+    kanji: '帰る',
+    def: 'go back home',
+    romaji: '[kaeru]',
+    speech_part: 'VERB',
+    id:70
+  },
+  {
+    kanji: '分かる',
+    def: 'understand',
+    romaji: '[wakaru]',
+    speech_part: 'VERB',
+    id:71
+  },
+  {
+    kanji: '広い',
+    def: 'wide, big',
+    romaji: '[hiroi]',
+    speech_part: 'ADJ.',
+    id:72
+  },
+  {
+    kanji: '数',
+    def: 'number',
+    romaji: '[kazu]',
+    speech_part: 'NOUN',
+    id:73
+  },
+  {
+    kanji: '近い',
+    def: 'near, close',
+    romaji: '[chikai]',
+    speech_part: 'ADJ.',
+    id:74
+  },
+  {
+    kanji: 'そこ',
+    def: 'there',
+    romaji: '[soko]',
+    speech_part: 'PRONOUN',
+    id:75
+  },
+  {
+    kanji: '走る',
+    def: 'run',
+    romaji: '[hashiru]',
+    speech_part: 'VERB',
+    id:76
+  },
+  {
+    kanji: '入れる',
+    def: 'put in',
+    romaji: '[ireru]',
+    speech_part: 'VERB',
+    id:77
+  },
+  {
+    kanji: '教える',
+    def: 'teach, tell',
+    romaji: '[oshieru]',
+    speech_part: 'VERB',
+    id:78
+  },
+  {
+    kanji: '歩く',
+    def: 'walk',
+    romaji: '[aruku]',
+    speech_part: 'VERB',
+    id:79
+  },
+  {
+    kanji: '会う',
+    def: 'meet',
+    romaji: '[au]',
+    speech_part: 'VERB',
+    id:80
+  },
+  {
+    kanji: '書く',
+    def: 'write',
+    romaji: '[kaku]',
+    speech_part: 'VERB',
+    id:81
+  },
+  {
+    kanji: '頭',
+    def: 'head',
+    romaji: '[atama]',
+    speech_part: 'NOUN',
+    id:82
+  },
+  {
+    kanji: '売る',
+    def: 'sell',
+    romaji: '[uru]',
+    speech_part: 'VERB',
+    id:83
+  },
+  {
+    kanji: '大好き',
+    def: 'like (something) alot',
+    romaji: '[daisuki]',
+    speech_part: 'ADJ. NOUN',
+    id:84
+  },
+  {
+    kanji: '体',
+    def: 'body, physique, physical condition',
+    romaji: '[karada]',
+    speech_part: 'NOUN',
+    id:85
+  },
+  {
+    kanji: '直ぐ',
+    def: 'at once, soon',
+    romaji: '[sugu]',
+    speech_part: 'ADV.',
+    id:86
+  },
+  {
+    kanji: '飛ぶ',
+    def: 'fly',
+    romaji: '[tobu]',
+    speech_part: 'VERB',
+    id:87
+  },
+  {
+    kanji: 'とても',
+    def: 'very',
+    romaji: '[totemo]',
+    speech_part: 'ADV.',
+    id:88
+  },
+  {
+    kanji: '誰',
+    def: 'who',
+    romaji: '[dare]',
+    speech_part: 'INTERROGATIVE',
+    id:89
+  },
+  {
+    kanji: '好き',
+    def: 'favorite, like',
+    romaji: '[suki]',
+    speech_part: 'ADJ. NOUN',
+    id:90
+  },
+  {
+    kanji: '読む',
+    def: 'read',
+    romaji: '[yomu]',
+    speech_part: 'VERB',
+    id:91
+  },
+  {
+    kanji: '次',
+    def: 'next',
+    romaji: '[tsugi]',
+    speech_part: 'NOUN',
+    id:92
+  },
+  {
+    kanji: 'あなた',
+    def: 'you',
+    romaji: '[anata]',
+    speech_part: 'PRONOUN',
+    id:93
+  },
+  {
+    kanji: '飲む',
+    def: 'drink',
+    romaji: '[nomu]',
+    speech_part: 'VERB',
+    id:94
+  },
+  {
+    kanji: '質問',
+    def: 'question',
+    romaji: '[shitsumon]',
+    speech_part: 'VERBAL NOUN',
+    id:95
+  },
+  {
+    kanji: '今日',
+    def: 'today',
+    romaji: '[kyō]',
+    speech_part: 'NOUN',
+    id:96
+  },
+  {
+    kanji: '友達',
+    def: 'friend, companion',
+    romaji: '[tomotachi]',
+    speech_part: 'NOUN',
+    id:97
+  },
+  {
+    kanji: '早い',
+    def: 'early',
+    romaji: '[hayai]',
+    speech_part: 'ADJ.',
+    id:98
+  },
+  {
+    kanji: 'どれ',
+    def: 'what, which',
+    romaji: '[dore]',
+    speech_part: 'INTERROGATIVE',
+    id:99
+  },
+  {
+    kanji: '美しい',
+    def: 'beautiful',
+    romaji: '[utsukushi]',
+    speech_part: 'ADJ.',
+    id:100
+  },
+  {
+    kanji: 'いつも',
+    def: 'always',
+    romaji: '[itsumo]',
+    speech_part: '',
+    id:0
   },
   // {
   //   kanji: '',

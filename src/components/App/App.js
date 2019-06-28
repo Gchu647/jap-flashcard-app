@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import JapData from '../../data/data';
+import JapData from '../../data/jap1to100';
 import FlashcardTop from '../FlascardTop/FlashcardTop';
 import FlashcardBottom from '../FlashcardBottom/FlashcardBottom';
 
@@ -15,8 +15,8 @@ class App extends Component {
       displayTop: false, // FlashcardTop
       displayBottom: false, // FlashcardBottom
       learnCount: 0, // when to stop pickLearnWord method
-      startId: 31, // start of our vocab list
-      endId: 40, // end of our vocab list
+      startId: 61, // start of our vocab list
+      endId: 70, // end of our vocab list
     }
 
     this.quiz = this.quiz.bind(this);
