@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import JapData from '../../data/jap1to100';
+import JapData from '../../data/jap200';
 import FlashcardTop from '../FlascardTop/FlashcardTop';
 import FlashcardBottom from '../FlashcardBottom/FlashcardBottom';
 
@@ -15,8 +15,8 @@ class App extends Component {
       displayTop: false, // FlashcardTop
       displayBottom: false, // FlashcardBottom
       learnCount: 0, // when to stop pickLearnWord method
-      startId: 61, // start of our vocab list
-      endId: 70, // end of our vocab list
+      startId: 101, // start of our vocab list
+      endId: 103, // end of our vocab list
     }
 
     this.quiz = this.quiz.bind(this);
@@ -42,7 +42,8 @@ class App extends Component {
 
   componentDidMount() { // create a clone of japData and store it to our state
     this.setState((prevState) => { // proper way to increment
-      return {vocabList: JapData.slice(prevState.startId-1, prevState.endId)}
+      // this needs to be changed when working with jap 200 and above
+      return {vocabList: JapData.slice(prevState.startId-101, prevState.endId-100)}
     });
   }
 
@@ -93,6 +94,7 @@ class App extends Component {
 
   pickLearnWord() { // still needs a proper way to end method
     let vocabLength = this.state.vocabList.length;
+    console.log(this.state.vocabList);
 
     if (this.state.learnCount < vocabLength) {
       let vocabObj = this.state.vocabList[this.state.learnCount];

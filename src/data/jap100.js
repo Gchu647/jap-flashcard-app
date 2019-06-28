@@ -698,21 +698,7 @@ const JapData = [
     romaji: '[utsukushi]',
     speech_part: 'ADJ.',
     id:100
-  },
-  {
-    kanji: 'いつも',
-    def: 'always',
-    romaji: '[itsumo]',
-    speech_part: '',
-    id:0
-  },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:0
-  // },
+  }
 ];
 
 export default JapData;
