@@ -279,6 +279,76 @@ const JapData = [
     speech_part: 'VERB',
     id:140
   },
+  {
+    kanji: '紙',
+    def: 'paper',
+    romaji: '[kami]',
+    speech_part: 'NOUN',
+    id:141
+  },
+  {
+    kanji: '歌う',
+    def: 'sing',
+    romaji: '[utau]',
+    speech_part: 'VERB',
+    id:142
+  },
+  {
+    kanji: '遅い',
+    def: 'slow, late',
+    romaji: '[osoi]',
+    speech_part: 'ADV.',
+    id:143
+  },
+  {
+    kanji: '首',
+    def: 'neck',
+    romaji: '[kubi]',
+    speech_part: 'NOUN',
+    id:144
+  },
+  {
+    kanji: '速い',
+    def: 'fast',
+    romaji: '[hayai]',
+    speech_part: 'ADV.',
+    id:145
+  },
+  {
+    kanji: '一緒に',
+    def: 'together, at the same time',
+    romaji: '[issho ni]',
+    speech_part: 'ADV.',
+    id:146
+  },
+  {
+    kanji: '今月',
+    def: 'this month',
+    romaji: '[kongetsu]',
+    speech_part: 'NOUN',
+    id:147
+  },
+  {
+    kanji: '遊ぶ',
+    def: 'play',
+    romaji: '[asobu]',
+    speech_part: 'VERB',
+    id:148
+  },
+  {
+    kanji: '遠い',
+    def: 'far, distant',
+    romaji: '[tōi]',
+    speech_part: 'ADJ.',
+    id:149
+  },
+  {
+    kanji: '弱い',
+    def: 'weak',
+    romaji: '[yowai]',
+    speech_part: 'ADJ.',
+    id:150
+  },
   // {
   //   kanji: '',
   //   def: '',
