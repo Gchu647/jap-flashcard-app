@@ -29,7 +29,7 @@ const JapData = [
   },
   {
     kanji: '娘',
-    def: 'show',
+    def: 'daughter',
     romaji: '[musume]',
     speech_part: 'NOUN',
     id:105
@@ -57,7 +57,7 @@ const JapData = [
   },
   {
     kanji: '取る',
-    def: 'take, out',
+    def: 'take, get',
     romaji: '[toru]',
     speech_part: '',
     id:109
@@ -148,7 +148,7 @@ const JapData = [
   },
   {
     kanji: '払う',
-    def: 'pay (money, respect, attention, etc.)',
+    def: 'pay (money, respect, attention)',
     romaji: '[harau]',
     speech_part: 'VERB',
     id:122
@@ -198,7 +198,7 @@ const JapData = [
   {
     kanji: '覚える',
     def: 'memorize, learn',
-    romaji: '[oboeru]',
+    romaji: '[obo eru]',
     speech_part: 'VERB',
     id:129
   },
