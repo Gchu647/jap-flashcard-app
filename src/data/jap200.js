@@ -349,6 +349,146 @@ const JapData = [
     speech_part: 'ADJ.',
     id:150
   },
+  {
+    kanji: '耳',
+    def: 'ear',
+    romaji: '[mimi]',
+    speech_part: 'NOUN',
+    id:151
+  },
+  {
+    kanji: '座る',
+    def: 'sit, sit down',
+    romaji: '[suwaru]',
+    speech_part: 'VERB',
+    id:152
+  },
+  {
+    kanji: '右',
+    def: 'right',
+    romaji: '[migi]',
+    speech_part: 'NOUN',
+    id:153
+  },
+  {
+    kanji: '浴びる',
+    def: 'take (a shower)',
+    romaji: '[abiru]',
+    speech_part: 'VERB',
+    id:154
+  },
+  {
+    kanji: '肩',
+    def: 'shoulder',
+    romaji: '[kata]',
+    speech_part: 'NOUN',
+    id:155
+  },
+  {
+    kanji: '寝る',
+    def: 'sleep, go to sleep',
+    romaji: '[neru]',
+    speech_part: 'VERB',
+    id:156
+  },
+  {
+    kanji: '消す',
+    def: 'switch off, turn off',
+    romaji: '[kesu]',
+    speech_part: 'VERB',
+    id:157
+  },
+  {
+    kanji: '元気',
+    def: 'healthy, energetic',
+    romaji: '[genki]',
+    speech_part: 'ADJ.',
+    id:158
+  },
+  {
+    kanji: '全部',
+    def: 'all, whole',
+    romaji: '[zenbu]',
+    speech_part: 'NOUN',
+    id:159
+  },
+  {
+    kanji: '去年',
+    def: 'last year',
+    romaji: '[kyonen]',
+    speech_part: 'NOUN',
+    id:160
+  },
+  {
+    kanji: '引く',
+    def: 'draw, pull',
+    romaji: '[hiku]',
+    speech_part: 'VERB',
+    id:161
+  },
+  {
+    kanji: '図書館',
+    def: 'library',
+    romaji: '[toshokan]',
+    speech_part: 'NOUN',
+    id:162
+  },
+  {
+    kanji: '上げる',
+    def: 'raise, lift',
+    romaji: '[ageru]',
+    speech_part: 'VERB',
+    id:163
+  },
+  {
+    kanji: '緑',
+    def: 'green',
+    romaji: '[midori]',
+    speech_part: 'NOUN',
+    id:164
+  },
+  {
+    kanji: '腕',
+    def: 'arm',
+    romaji: '[ude]',
+    speech_part: 'VERB',
+    id:165
+  },
+  {
+    kanji: 'ドア',
+    def: 'door',
+    romaji: '[doa]',
+    speech_part: 'NOUN',
+    id:166
+  },
+  {
+    kanji: '女の子',
+    def: 'little girl',
+    romaji: '[onanoko]',
+    speech_part: 'NOUN',
+    id:167
+  },
+  {
+    kanji: '男の子',
+    def: 'boy',
+    romaji: '[otokonoko]',
+    speech_part: 'NOUN',
+    id:168
+  },
+  {
+    kanji: '私たち',
+    def: 'we',
+    romaji: '[watashitachi]',
+    speech_part: 'PRONOUN',
+    id:169
+  },
+  {
+    kanji: '近く',
+    def: 'near, close to',
+    romaji: '[chikaku]',
+    speech_part: 'NOUN',
+    id:170
+  },
   // {
   //   kanji: '',
   //   def: '',
