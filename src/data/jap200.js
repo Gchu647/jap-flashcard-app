@@ -421,7 +421,7 @@ const JapData = [
   },
   {
     kanji: '引く',
-    def: 'draw, pull',
+    def: 'pull, draw',
     romaji: '[hiku]',
     speech_part: 'VERB',
     id:161
