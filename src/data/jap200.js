@@ -489,6 +489,146 @@ const JapData = [
     speech_part: 'NOUN',
     id:170
   },
+  {
+    kanji: 'やる',
+    def: 'do, give',
+    romaji: '[do, give]',
+    speech_part: 'VERB',
+    id:171
+  },
+  {
+    kanji: 'かなり',
+    def: 'fairly. rather',
+    romaji: '[kanari]',
+    speech_part: 'ADV.',
+    id:172
+  },
+  {
+    kanji: '国',
+    def: 'country',
+    romaji: '[kuni]',
+    speech_part: 'NOUN',
+    id:173
+  },
+  {
+    kanji: '起こる',
+    def: 'happen',
+    romaji: '[okoru]',
+    speech_part: 'VERB',
+    id:174
+  },
+  {
+    kanji: '秋',
+    def: 'autumn, fall',
+    romaji: '[aki]',
+    speech_part: 'NOUN',
+    id:175
+  },
+  {
+    kanji: '送る',
+    def: 'send',
+    romaji: '[okuru]',
+    speech_part: 'VERB',
+    id:176
+  },
+  {
+    kanji: '死ぬ',
+    def: 'die',
+    romaji: '[shinu]',
+    speech_part: 'VERB',
+    id:177
+  },
+  {
+    kanji: '気持ち',
+    def: 'feeling, sensation',
+    romaji: '[kimochi]',
+    speech_part: 'NOUN',
+    id:178
+  },
+  {
+    kanji: '乗る',
+    def: 'ride, take',
+    romaji: '[noru]',
+    speech_part: 'VERB',
+    id:179
+  },
+  {
+    kanji: 'いる',
+    def: 'be present, stay',
+    romaji: '[iru]',
+    speech_part: 'VERB',
+    id:180
+  },
+  {
+    kanji: '木',
+    def: 'tree, wood',
+    romaji: '[ki]',
+    speech_part: 'NOUN',
+    id:181
+  },
+  {
+    kanji: '開ける',
+    def: 'open, unlock',
+    romaji: '[akeru]',
+    speech_part: 'VERB',
+    id:182
+  },
+  {
+    kanji: '閉める',
+    def: 'shut, close',
+    romaji: '[shimeru]',
+    speech_part: 'VERB',
+    id:183
+  },
+  {
+    kanji: '続く',
+    def: 'continue, follow',
+    romaji: "[tsu'dzu'ku]",
+    speech_part: 'VERB',
+    id:184
+  },
+  {
+    kanji: 'お医者さん',
+    def: 'doctor',
+    romaji: '[oishasan]',
+    speech_part: 'NOUN',
+    id:185
+  },
+  {
+    kanji: '円',
+    def: 'Japanese yen',
+    romaji: '[yen]',
+    speech_part: 'NOUN',
+    id:186
+  },
+  {
+    kanji: 'ここ',
+    def: 'here',
+    romaji: '[koko]',
+    speech_part: 'PRONOUN',
+    id:187
+  },
+  {
+    kanji: '待つ',
+    def: 'wait, wait for,',
+    romaji: '[matsu]',
+    speech_part: 'VERB',
+    id:188
+  },
+  {
+    kanji: '低い',
+    def: 'low, short',
+    romaji: '[hikui]',
+    speech_part: 'ADJ.',
+    id:189
+  },
+  {
+    kanji: 'もらう',
+    def: 'recieve, get (from someone)',
+    romaji: '[morau]',
+    speech_part: 'VERB',
+    id:190
+  },
   // {
   //   kanji: '',
   //   def: '',
