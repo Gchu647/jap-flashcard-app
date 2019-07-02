@@ -492,13 +492,13 @@ const JapData = [
   {
     kanji: 'やる',
     def: 'do, give',
-    romaji: '[do, give]',
+    romaji: '[yaru]',
     speech_part: 'VERB',
     id:171
   },
   {
     kanji: 'かなり',
-    def: 'fairly. rather',
+    def: 'fairly, rather',
     romaji: '[kanari]',
     speech_part: 'ADV.',
     id:172
@@ -575,7 +575,7 @@ const JapData = [
   },
   {
     kanji: '閉める',
-    def: 'shut, close',
+    def: 'shut, close (doors, windows, etc.)',
     romaji: '[shimeru]',
     speech_part: 'VERB',
     id:183
@@ -628,6 +628,76 @@ const JapData = [
     romaji: '[morau]',
     speech_part: 'VERB',
     id:190
+  },
+  {
+    kanji: '食べる',
+    def: 'eat',
+    romaji: '[taberu]',
+    speech_part: 'VERB',
+    id:191
+  },
+  {
+    kanji: '兄',
+    def: "(one's own) older brother",
+    romaji: '[ani]',
+    speech_part: 'NOUN',
+    id:192
+  },
+  {
+    kanji: '名前 ',
+    def: 'name',
+    romaji: '[namae]',
+    speech_part: 'NOUN',
+    id:193
+  },
+  {
+    kanji: '夫',
+    def: 'husband',
+    romaji: '[otto]',
+    speech_part: 'NOUN',
+    id:194
+  },
+  {
+    kanji: '一',
+    def: 'one',
+    romaji: '[ichi]',
+    speech_part: 'NOUN',
+    id:195
+  },
+  {
+    kanji: '結婚',
+    def: 'marriage',
+    romaji: '[kekkon]',
+    speech_part: 'VERBAL NOUN',
+    id:196
+  },
+  {
+    kanji: '親',
+    def: 'parent',
+    romaji: '[oya]',
+    speech_part: 'NOUN',
+    id:197
+  },
+  {
+    kanji: '話す',
+    def: 'speak, talk',
+    romaji: '[hanasu]',
+    speech_part: 'VERB',
+    id:198
+  },
+  {
+    kanji: '少し',
+    def: 'a bit, a little while',
+    romaji: '[sukushi]',
+    speech_part: 'ADV.',
+    id:199
+  },
+  {
+    kanji: '閉じる',
+    def: 'shut, close (books, eyes, etc.)',
+    romaji: '[tojru]',
+    speech_part: 'VERB',
+    id:200
   },
   // {
   //   kanji: '',
