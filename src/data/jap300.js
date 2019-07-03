@@ -213,7 +213,7 @@ const JapData = [
     kanji: '晩',
     def: 'evening, night',
     romaji: '[ban]',
-    speech_part: '',
+    speech_part: 'NOUN',
     id:231
   },
   {
