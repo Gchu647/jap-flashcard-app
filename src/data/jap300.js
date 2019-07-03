@@ -349,13 +349,160 @@ const JapData = [
     speech_part: 'VERB',
     id:250
   },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:0
-  // },
+  {
+    kanji: '茶色',
+    def: 'brown',
+    romaji: '[chairo]',
+    speech_part: 'ADJ.',
+    id:251
+  },
+  {
+    kanji: '汚い',
+    def: 'dirty',
+    romaji: '[kitanai]',
+    speech_part: 'ADJ.',
+    id:252
+  },
+  {
+    kanji: '空く',
+    def: 'be empty, become less crowded',
+    romaji: '[suku]',
+    speech_part: 'VERB',
+    id:253
+  },
+  {
+    kanji: '上る',
+    def: 'go up, climb',
+    romaji: '[noboru]',
+    speech_part: 'VERB',
+    id:254
+  },
+  {
+    kanji: 'ご飯 ',
+    def: 'meal, cooked rice',
+    romaji: '[gohan]',
+    speech_part: 'NOUN',
+    id:255
+  },
+  {
+    kanji: '日',
+    def: 'counter for days',
+    romaji: '[nichi]',
+    speech_part: 'NOUN',
+    id:256
+  },
+  {
+    kanji: '髪の毛',
+    def: 'hair',
+    romaji: '[kaminoke]',
+    speech_part: 'NOUN',
+    id:257
+  },
+  {
+    kanji: 'つける',
+    def: 'switch on, turn on',
+    romaji: '[tsukeru]',
+    speech_part: 'VERB',
+    id:258
+  },
+  {
+    kanji: '月曜日',
+    def: 'monday',
+    romaji: '[getsuyobi]',
+    speech_part: 'NOUN',
+    id:259
+  },
+  {
+    kanji: '入る',
+    def: 'enter',
+    romaji: '[hairu]',
+    speech_part: 'VERB',
+    id:260
+  },
+  {
+    kanji: 'カタカナ',
+    def: 'katakkana',
+    romaji: '[katakkana]',
+    speech_part: 'NOUN',
+    id:261
+  },
+  {
+    kanji: '今週',
+    def: 'this week',
+    romaji: '[konshū]',
+    speech_part: 'NOUN',
+    id:262
+  },
+  {
+    kanji: '開く',
+    def: 'open (books, eyes)',
+    romaji: '[hiraku]',
+    speech_part: 'VERB',
+    id:263
+  },
+  {
+    kanji: '水',
+    def: 'water',
+    romaji: '[mizu]',
+    speech_part: 'NOUN',
+    id:264
+  },
+  {
+    kanji: 'あれ',
+    def: 'that (over there)',
+    romaji: '[are]',
+    speech_part: 'PRONOUN',
+    id:265
+  },
+  {
+    kanji: '二',
+    def: 'two',
+    romaji: '[ni]',
+    speech_part: 'NOUN',
+    id:266
+  },
+  {
+    kanji: '閉まる',
+    def: 'be shut, be closed',
+    romaji: '[shimaru]',
+    speech_part: 'VERB',
+    id:267
+  },
+  {
+    kanji: '締める',
+    def: 'tighten, fasten',
+    romaji: '[shimeru]',
+    speech_part: 'VERB',
+    id:266
+  },
+  {
+    kanji: 'まずい',
+    def: 'bad (taste), distasteful',
+    romaji: '[mazui]',
+    speech_part: 'ADJ.',
+    id:267
+  },
+  {
+    kanji: '平仮名',
+    def: 'hiragana',
+    romaji: '[hiragana]',
+    speech_part: 'NOUN',
+    id:268
+  },
+  {
+    kanji: '曇る',
+    def: 'become cloudy',
+    romaji: '[kumoru]',
+    speech_part: 'VERB',
+    id:269
+  },
+  {
+    kanji: '触る',
+    def: 'touch, feel',
+    romaji: '[sawaru]',
+    speech_part: 'VERB',
+    id:270
+  },
 ];
 
 export default JapData;
