@@ -209,13 +209,146 @@ const JapData = [
     speech_part: 'ADJ.',
     id:230
   },
-  // {
-  //   kanji: '晩',
-  //   def: 'evening, night',
-  //   romaji: '[ban]',
-  //   speech_part: '',
-  //   id:0
-  // },
+  {
+    kanji: '晩',
+    def: 'evening, night',
+    romaji: '[ban]',
+    speech_part: '',
+    id:231
+  },
+  {
+    kanji: '土曜日',
+    def: 'saturday',
+    romaji: '[doyōbi]',
+    speech_part: 'NOUN',
+    id:232
+  },
+  {
+    kanji: '痛い ',
+    def: 'sore, painful',
+    romaji: '[itai]',
+    speech_part: 'ADJ.',
+    id:233
+  },
+  {
+    kanji: 'お父さん',
+    def: 'father, dad',
+    romaji: '[otōsan]',
+    speech_part: 'NOUN',
+    id:234
+  },
+  {
+    kanji: '多分',
+    def: 'probably, perhaps',
+    romaji: '[tabun]',
+    speech_part: 'ADV.',
+    id:235
+  },
+  {
+    kanji: '時計',
+    def: 'clock, watch',
+    romaji: '[tokei]',
+    speech_part: 'NOUN',
+    id:236
+  },
+  {
+    kanji: '泊まる',
+    def: 'stay overnight',
+    romaji: '[tomaru]',
+    speech_part: 'VERB',
+    id:237
+  },
+  {
+    kanji: 'どうして',
+    def: 'how come',
+    romaji: '[dōshite]',
+    speech_part: 'INTERROGATIVE',
+    id:238
+  },
+  {
+    kanji: '掛ける',
+    def: 'hang, put on',
+    romaji: '[kakeru]',
+    speech_part: 'VERB',
+    id:239
+  },
+  {
+    kanji: '曲がる',
+    def: 'make a turn, turn',
+    romaji: '[magaru]',
+    speech_part: 'VERB',
+    id:240
+  },
+  {
+    kanji: 'お腹',
+    def: 'stomach, belly',
+    romaji: '[onaka]',
+    speech_part: 'NOUN',
+    id:241
+  },
+  {
+    kanji: 'ミーティング',
+    def: 'meeting',
+    romaji: '[mītingu]',
+    speech_part: 'NOUN',
+    id:242
+  },
+  {
+    kanji: '嫌い',
+    def: 'hate, dislike',
+    romaji: '[kirai]',
+    speech_part: 'ADJ. NOUN',
+    id:243
+  },
+  {
+    kanji: '金曜日',
+    def: 'friday',
+    romaji: "[kin'yōbi]",
+    speech_part: 'NOUN',
+    id:244
+  },
+  {
+    kanji: '要る',
+    def: 'need, require',
+    romaji: '[iru]',
+    speech_part: 'VERB',
+    id:245
+  },
+  {
+    kanji: '無い',
+    def: 'to not be',
+    romaji: '[nai]',
+    speech_part: 'ADJ.',
+    id:246
+  },
+  {
+    kanji: '黄色い',
+    def: 'yellow',
+    romaji: '[kiiroi]',
+    speech_part: 'ADJ.',
+    id:247
+  },
+  {
+    kanji: '風邪 ',
+    def: 'cold (illness)',
+    romaji: '[kaze]',
+    speech_part: 'NOUN',
+    id:248
+  },
+  {
+    kanji: '優しい',
+    def: 'gentle, kind',
+    romaji: '[yasashi]',
+    speech_part: 'ADJ.',
+    id:249
+  },
+  {
+    kanji: '晴れる',
+    def: 'be sunny, clear up',
+    romaji: '[hareru]',
+    speech_part: 'VERB',
+    id:250
+  },
   // {
   //   kanji: '',
   //   def: '',
