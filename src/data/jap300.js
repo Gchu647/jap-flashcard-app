@@ -698,35 +698,7 @@ const JapData = [
     romaji: '[yasahi] (2nd)',
     speech_part: 'ADJ.',
     id:300
-  },
-  {
-    kanji: '辺',
-    def: 'vicinity',
-    romaji: '[hen] (1st)',
-    speech_part: 'NOUN',
-    id:301
-  },
-  {
-    kanji: 'お兄さん',
-    def: 'older brother',
-    romaji: '[onisan]',
-    speech_part: 'NOUN',
-    id:302
-  },
-  {
-    kanji: '辛い',
-    def: 'spicy, hot',
-    romaji: '[karai]',
-    speech_part: '',
-    id:303
-  },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:0
-  // },
+  }
 ];
 
 export default JapData;
