@@ -589,7 +589,7 @@ const JapData = [
   },
   {
     kanji: '千',
-    def: 'thousdan',
+    def: 'thousand',
     romaji: '[sen]',
     speech_part: 'NOUN',
     id:285
