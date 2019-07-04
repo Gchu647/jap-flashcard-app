@@ -576,7 +576,7 @@ const JapData = [
   {
     kanji: '閉める',
     def: 'shut, close (doors, windows, etc.)',
-    romaji: '[shimeru]',
+    romaji: '[shimeru] (1st)',
     speech_part: 'VERB',
     id:183
   },

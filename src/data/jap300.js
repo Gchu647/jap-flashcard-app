@@ -218,7 +218,7 @@ const JapData = [
   },
   {
     kanji: '土曜日',
-    def: 'saturday',
+    def: 'Saturday',
     romaji: '[doyōbi]',
     speech_part: 'NOUN',
     id:232
@@ -302,7 +302,7 @@ const JapData = [
   },
   {
     kanji: '金曜日',
-    def: 'friday',
+    def: 'Friday',
     romaji: "[kin'yōbi]",
     speech_part: 'NOUN',
     id:244
@@ -407,7 +407,7 @@ const JapData = [
   },
   {
     kanji: '月曜日',
-    def: 'monday',
+    def: 'Monday',
     romaji: '[getsuyobi]',
     speech_part: 'NOUN',
     id:259
@@ -471,7 +471,7 @@ const JapData = [
   {
     kanji: '締める',
     def: 'tighten, fasten',
-    romaji: '[shimeru]',
+    romaji: '[shimeru] (2nd)',
     speech_part: 'VERB',
     id:266
   },
@@ -503,6 +503,118 @@ const JapData = [
     speech_part: 'VERB',
     id:270
   },
+  {
+    kanji: '駄目',
+    def: 'no good',
+    romaji: '[dame]',
+    speech_part: 'ADJ. NOUN',
+    id:271
+  },
+  {
+    kanji: '飲み物',
+    def: 'beverage, drink',
+    romaji: '[nomimono]',
+    speech_part: 'NOUN',
+    id:272
+  },
+  {
+    kanji: '木曜日',
+    def: 'Thursday',
+    romaji: '[mokuyōbi]',
+    speech_part: 'NOUN',
+    id:273
+  },
+  {
+    kanji: '曜日',
+    def: 'day of the week',
+    romaji: '[yōbi]',
+    speech_part: 'NOUN',
+    id:274
+  },
+  {
+    kanji: 'そば',
+    def: 'side, vicinity',
+    romaji: '[soba] (1st)',
+    speech_part: 'NOUN',
+    id:275
+  },
+  {
+    kanji: 'こっち',
+    def: 'here, this way',
+    romaji: '[kotchi]',
+    speech_part: 'PRONOUN',
+    id:276
+  },
+  {
+    kanji: '火曜日',
+    def: 'Tuesday',
+    romaji: '[kayōbi]',
+    speech_part: 'NOUN',
+    id:277
+  },
+  {
+    kanji: '渇く ',
+    def: 'be thirsty',
+    romaji: '[kawaku]',
+    speech_part: 'VERB',
+    id:278
+  },
+  {
+    kanji: '三',
+    def: 'three',
+    romaji: '[san]',
+    speech_part: 'NOUN',
+    id:279
+  },
+  {
+    kanji: '水曜日',
+    def: 'Wednesday',
+    romaji: '[suiyōbi]',
+    speech_part: 'NOUN',
+    id:280
+  },
+  {
+    kanji: '二つ',
+    def: 'two (things)',
+    romaji: '[futatsu]',
+    speech_part: 'NOUN',
+    id:281
+  },
+  {
+    kanji: '今晩',
+    def: 'this evening, tonight',
+    romaji: '[konban]',
+    speech_part: 'NOUN',
+    id:282
+  },
+  {
+    kanji: '千',
+    def: 'thousdan',
+    romaji: '[sen]',
+    speech_part: 'NOUN',
+    id:283
+  },
+  {
+    kanji: '六日',
+    def: 'six days, sixth of the month',
+    romaji: '[muika]',
+    speech_part: 'NOUN',
+    id:284
+  },
+  {
+    kanji: 'お姉さん',
+    def: 'older sister',
+    romaji: '[onesan]',
+    speech_part: 'NOUN',
+    id:285
+  },
+  // {
+  //   kanji: '',
+  //   def: '',
+  //   romaji: '',
+  //   speech_part: '',
+  //   id:0
+  // },
 ];
 
 export default JapData;
