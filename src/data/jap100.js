@@ -99,7 +99,7 @@ const JapData = [
   },
   {
     kanji: '思う',
-    def: 'think',
+    def: 'think (subjective or emotional)',
     romaji: '[omou]',
     speech_part: 'VERB',
     id:15

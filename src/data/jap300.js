@@ -338,7 +338,7 @@ const JapData = [
   {
     kanji: '優しい',
     def: 'gentle, kind',
-    romaji: '[yasashi]',
+    romaji: '[yasashi] (1st)',
     speech_part: 'ADJ.',
     id:249
   },
@@ -473,140 +473,252 @@ const JapData = [
     def: 'tighten, fasten',
     romaji: '[shimeru] (2nd)',
     speech_part: 'VERB',
-    id:266
+    id:268
   },
   {
     kanji: 'まずい',
     def: 'bad (taste), distasteful',
     romaji: '[mazui]',
     speech_part: 'ADJ.',
-    id:267
+    id:269
   },
   {
     kanji: '平仮名',
     def: 'hiragana',
     romaji: '[hiragana]',
     speech_part: 'NOUN',
-    id:268
+    id:270
   },
   {
     kanji: '曇る',
     def: 'become cloudy',
     romaji: '[kumoru]',
     speech_part: 'VERB',
-    id:269
+    id:271
   },
   {
     kanji: '触る',
     def: 'touch, feel',
     romaji: '[sawaru]',
     speech_part: 'VERB',
-    id:270
+    id:272
   },
   {
     kanji: '駄目',
     def: 'no good',
     romaji: '[dame]',
     speech_part: 'ADJ. NOUN',
-    id:271
+    id:273
   },
   {
     kanji: '飲み物',
     def: 'beverage, drink',
     romaji: '[nomimono]',
     speech_part: 'NOUN',
-    id:272
+    id:274
   },
   {
     kanji: '木曜日',
     def: 'Thursday',
     romaji: '[mokuyōbi]',
     speech_part: 'NOUN',
-    id:273
+    id:275
   },
   {
     kanji: '曜日',
     def: 'day of the week',
     romaji: '[yōbi]',
     speech_part: 'NOUN',
-    id:274
+    id:276
   },
   {
     kanji: 'そば',
     def: 'side, vicinity',
     romaji: '[soba] (1st)',
     speech_part: 'NOUN',
-    id:275
+    id:277
   },
   {
     kanji: 'こっち',
     def: 'here, this way',
     romaji: '[kotchi]',
     speech_part: 'PRONOUN',
-    id:276
+    id:278
   },
   {
     kanji: '火曜日',
     def: 'Tuesday',
     romaji: '[kayōbi]',
     speech_part: 'NOUN',
-    id:277
+    id:279
   },
   {
     kanji: '渇く ',
     def: 'be thirsty',
     romaji: '[kawaku]',
     speech_part: 'VERB',
-    id:278
+    id:280
   },
   {
     kanji: '三',
     def: 'three',
     romaji: '[san]',
     speech_part: 'NOUN',
-    id:279
+    id:281
   },
   {
     kanji: '水曜日',
     def: 'Wednesday',
     romaji: '[suiyōbi]',
     speech_part: 'NOUN',
-    id:280
+    id:282
   },
   {
     kanji: '二つ',
     def: 'two (things)',
     romaji: '[futatsu]',
     speech_part: 'NOUN',
-    id:281
+    id:283
   },
   {
     kanji: '今晩',
     def: 'this evening, tonight',
     romaji: '[konban]',
     speech_part: 'NOUN',
-    id:282
+    id:284
   },
   {
     kanji: '千',
     def: 'thousdan',
     romaji: '[sen]',
     speech_part: 'NOUN',
-    id:283
+    id:285
   },
   {
     kanji: '六日',
     def: 'six days, sixth of the month',
     romaji: '[muika]',
     speech_part: 'NOUN',
-    id:284
+    id:286
   },
   {
     kanji: 'お姉さん',
     def: 'older sister',
     romaji: '[onesan]',
     speech_part: 'NOUN',
-    id:285
+    id:287
+  },
+  {
+    kanji: '直る',
+    def: 'be repaired, get fixed',
+    romaji: '[naoru]',
+    speech_part: 'VERB',
+    id:288
+  },
+  {
+    kanji: 'ちょっと',
+    def: 'just a moment, just a little',
+    romaji: '[chotto]',
+    speech_part: 'ADV.',
+    id:289
+  },
+  {
+    kanji: '四',
+    def: 'four (Jap origin)',
+    romaji: '[yon]',
+    speech_part: 'NOUN',
+    id:290
+  },
+  {
+    kanji: 'これから',
+    def: 'from now on, after this',
+    romaji: '[kore kara]',
+    speech_part: 'NOUN',
+    id:291
+  },
+  {
+    kanji: '考える',
+    def: 'think, consider (objective and logical)',
+    romaji: '[kangaeru]',
+    speech_part: 'VERB',
+    id:292
+  },
+  {
+    kanji: '戻る',
+    def: 'return to a point of departure',
+    romaji: '[modoru]',
+    speech_part: 'VERB',
+    id:293
+  },
+  {
+    kanji: '変える',
+    def: 'change (something), alter',
+    romaji: '[kaeru]',
+    speech_part: 'VERB',
+    id:294
+  },
+  {
+    kanji: '朝',
+    def: 'morning',
+    romaji: '[asa]',
+    speech_part: 'NOUN',
+    id:295
+  },
+  {
+    kanji: '歯',
+    def: 'tooth',
+    romaji: '[ha]',
+    speech_part: 'NOUN',
+    id:296
+  },
+  {
+    kanji: '頑張る',
+    def: "work hard, do one's best",
+    romaji: '[ganbaru]',
+    speech_part: 'VERB',
+    id:297
+  },
+  {
+    kanji: '携帯電話',
+    def: 'cellphone',
+    romaji: "[ketaitai'denwa]",
+    speech_part: 'NOUN',
+    id:298
+  },
+  {
+    kanji: '雨',
+    def: 'rain',
+    romaji: '[ame]',
+    speech_part: 'NOUN',
+    id:299
+  },
+  {
+    kanji: '易しい',
+    def: 'easy, simple (colloquial)',
+    romaji: '[yasahi] (2nd)',
+    speech_part: 'ADJ.',
+    id:300
+  },
+  {
+    kanji: '辺',
+    def: 'vicinity',
+    romaji: '[hen] (1st)',
+    speech_part: 'NOUN',
+    id:301
+  },
+  {
+    kanji: 'お兄さん',
+    def: 'older brother',
+    romaji: '[onisan]',
+    speech_part: 'NOUN',
+    id:302
+  },
+  {
+    kanji: '辛い',
+    def: 'spicy, hot',
+    romaji: '[karai]',
+    speech_part: '',
+    id:303
   },
   // {
   //   kanji: '',
