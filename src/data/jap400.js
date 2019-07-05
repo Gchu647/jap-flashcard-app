@@ -279,13 +279,153 @@ const JapData = [
     speech_part: 'PRONOUN',
     id:340
   },
+  {
+    kanji: '昨日',
+    def: 'yesterday',
+    romaji: '[kinō]',
+    speech_part: 'NOUN',
+    id:341
+  },
+  {
+    kanji: '綺麗',
+    def: 'pretty, clean',
+    romaji: '[kirei]',
+    speech_part: 'ADJ.',
+    id:342
+  },
+  {
+    kanji: '口',
+    def: 'mouth',
+    romaji: '[kuchi]',
+    speech_part: 'NOUN',
+    id:343
+  },
+  {
+    kanji: '五',
+    def: 'five',
+    romaji: '[go]',
+    speech_part: 'NOUN',
+    id:344
+  },
+  {
+    kanji: '九日',
+    def: 'nine days, 9th of the month',
+    romaji: '[kokonoka]',
+    speech_part: 'NOUN',
+    id:345
+  },
+  {
+    kanji: '九つ',
+    def: 'nine (things)',
+    romaji: '[kokonotsu]',
+    speech_part: 'NOUN',
+    id:346
+  },
+  {
+    kanji: '答える',
+    def: 'give an answer',
+    romaji: '[kotaeru]',
+    speech_part: 'VERB',
+    id:347
+  },
+  {
+    kanji: '先',
+    def: 'ahead, first',
+    romaji: '[saki]',
+    speech_part: 'NOUN',
+    id:348
+  },
+  {
+    kanji: '寒い',
+    def: 'cold (temperature)',
+    romaji: '[samui]',
+    speech_part: 'ADJ.',
+    id:349
+  },
+  {
+    kanji: '四',
+    def: 'four (Chinese)',
+    romaji: '[shi]',
+    speech_part: 'NOUN',
+    id:350
+  },
+  {
+    kanji: '下',
+    def: 'under, below',
+    romaji: '[shita]',
+    speech_part: 'NOUN',
+    id:351
+  },
+  {
+    kanji: '大丈夫',
+    def: 'alright, okay',
+    romaji: '[daijōbu]',
+    speech_part: 'ADJ. NOUN',
+    id:352
+  },
+  {
+    kanji: '出す',
+    def: 'take out',
+    romaji: '[dasu]',
+    speech_part: 'VERB',
+    id:353
+  },
+  {
+    kanji: '小さい',
+    def: 'small',
+    romaji: '[chīsai]',
+    speech_part: 'ADJ.',
+    id:354
+  },
+  {
+    kanji: '父',
+    def: "(one's own) father",
+    romaji: '[chichi]',
+    speech_part: 'NOUN',
+    id:355
+  },
+  {
+    kanji: '一日',
+    def: 'first of the month',
+    romaji: '[tsuitachi]',
+    speech_part: 'NOUN',
+    id:356
+  },
+  {
+    kanji: '月',
+    def: 'moon',
+    romaji: '[tsuki]',
+    speech_part: 'NOUN',
+    id:357
+  },
+  {
+    kanji: '妻',
+    def: "(one's own) wife",
+    romaji: '[tsuma]',
+    speech_part: 'NOUN',
+    id:358
+  },
+  {
+    kanji: '冷たい',
+    def: 'cold (to touch)',
+    romaji: '[tsumetai]',
+    speech_part: 'ADJ.',
+    id:359
+  },
+  {
+    kanji: '手',
+    def: 'hand',
+    romaji: '[te]',
+    speech_part: '',
+    id:360
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
   //   id:0
-  // }
+  // },
 ];
 
 export default JapData;
