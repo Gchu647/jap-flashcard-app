@@ -211,7 +211,7 @@ const JapData = [
   },
   {
     kanji: '晩',
-    def: 'evening, night',
+    def: 'evening, night (sunset to bedtime)',
     romaji: '[ban]',
     speech_part: 'NOUN',
     id:231

@@ -559,6 +559,146 @@ const JapData = [
     speech_part: 'NOUN',
     id:380
   },
+  {
+    kanji: '止める',
+    def: 'stop, give up',
+    romaji: '[yameru]',
+    speech_part: 'VERB',
+    id:381
+  },
+  {
+    kanji: '四日',
+    def: 'four days, 4th of the month',
+    romaji: '[yoka]',
+    speech_part: 'NOUN',
+    id:382
+  },
+  {
+    kanji: '夜',
+    def: 'night (sunset to sunrise)',
+    romaji: '[yoru]',
+    speech_part: 'NOUN',
+    id:383
+  },
+  {
+    kanji: '来年',
+    def: 'next year',
+    romaji: '[rainen]',
+    speech_part: 'NOUN',
+    id:384
+  },
+  {
+    kanji: '六',
+    def: 'six',
+    romaji: '[roku]',
+    speech_part: 'NOUN',
+    id:385
+  },
+  {
+    kanji: '悪い',
+    def: 'bad',
+    romaji: '[warui]',
+    speech_part: 'ADJ.',
+    id:386
+  },
+  {
+    kanji: 'お手洗い',
+    def: 'restroom',
+    romaji: '[ote arai]',
+    speech_part: 'NOUN',
+    id:387
+  },
+  {
+    kanji: 'ご主人',
+    def: '(someone else) husband',
+    romaji: '[goshujin]',
+    speech_part: 'NOUN',
+    id:388
+  },
+  {
+    kanji: '本当に',
+    def: 'really, truly',
+    romaji: '[hontōni]',
+    speech_part: 'ADV.',
+    id:389
+  },
+  {
+    kanji: '自分',
+    def: 'self, oneself',
+    romaji: '[jibun]',
+    speech_part: 'NOUN',
+    id:390
+  },
+  {
+    kanji: 'ため',
+    def: 'purpose, sake',
+    romaji: '[tame]',
+    speech_part: 'NOUN',
+    id:391
+  },
+  {
+    kanji: '見つかる',
+    def: 'be found, be caught',
+    romaji: '[mitsukaru]',
+    speech_part: 'VERB',
+    id:392
+  },
+  {
+    kanji: '休む',
+    def: 'take a rest, take a break',
+    romaji: '[yasumu]',
+    speech_part: 'VERB',
+    id:393
+  },
+  {
+    kanji: 'ゆっくり',
+    def: 'slowly',
+    romaji: '[yukkuri]',
+    speech_part: 'VERB',
+    id:394
+  },
+  {
+    kanji: '六つ',
+    def: 'six (things)',
+    romaji: '[muttsu]',
+    speech_part: 'NOUN',
+    id:395
+  },
+  {
+    kanji: '花',
+    def: 'flower',
+    romaji: '[hana]',
+    speech_part: 'NOUN',
+    id:396
+  },
+  {
+    kanji: '線',
+    def: 'line',
+    romaji: '[sen]',
+    speech_part: 'NOUN',
+    id:397
+  },
+  {
+    kanji: '問題',
+    def: 'problem, question',
+    romaji: '[mondai]',
+    speech_part: 'NOUN',
+    id:398
+  },
+  {
+    kanji: '必要',
+    def: 'need, necessary',
+    romaji: '[hitsuyō]',
+    speech_part: 'ADJ. NOUN',
+    id:399
+  },
+  {
+    kanji: 'もつ',
+    def: 'last long',
+    romaji: '[motsu]',
+    speech_part: 'VERB',
+    id:400
+  }
   // {
   //   kanji: '',
   //   def: '',
