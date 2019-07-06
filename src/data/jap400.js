@@ -416,8 +416,148 @@ const JapData = [
     kanji: '手',
     def: 'hand',
     romaji: '[te]',
-    speech_part: '',
+    speech_part: 'NOUN',
     id:360
+  },
+  {
+    kanji: '十日',
+    def: 'ten days, 10th of the month',
+    romaji: '[tōka]',
+    speech_part: 'NOUN',
+    id:361
+  },
+  {
+    kanji: '時々',
+    def: 'sometimes',
+    romaji: '[toki doki]',
+    speech_part: 'ADV.',
+    id:362
+  },
+  {
+    kanji: '夏',
+    def: 'summer',
+    romaji: '[natsu]',
+    speech_part: 'NOUN',
+    id:363
+  },
+  {
+    kanji: '七つ',
+    def: 'seven (things)',
+    romaji: '[nanatsu]',
+    speech_part: 'NOUN',
+    id:364
+  },
+  {
+    kanji: '何',
+    def: 'what',
+    romaji: '[nani]',
+    speech_part: 'INTERROGATIVE',
+    id:365
+  },
+  {
+    kanji: '七日',
+    def: 'seven days, 7th of the month',
+    romaji: '[nanoka]',
+    speech_part: 'NOUN',
+    id:366
+  },
+  {
+    kanji: '母',
+    def: "(one's own) mother",
+    romaji: '[haha]',
+    speech_part: 'NOUN',
+    id:367
+  },
+  {
+    kanji: '人',
+    def: 'person',
+    romaji: '[hito]',
+    speech_part: 'NOUN',
+    id:368
+  },
+  {
+    kanji: '一人',
+    def: 'one person',
+    romaji: '[hitori]',
+    speech_part: 'NOUN',
+    id:369
+  },
+  {
+    kanji: '百',
+    def: 'hundred',
+    romaji: '[hayku]',
+    speech_part: 'NOUN',
+    id:370
+  },
+  {
+    kanji: '方',
+    def: 'direction, side',
+    romaji: '[hō]',
+    speech_part: '[NOUN]',
+    id:371
+  },
+  {
+    kanji: '他',
+    def: 'other (Japanese origin)',
+    romaji: '[hoka]',
+    speech_part: 'NOUN',
+    id:372
+  },
+  {
+    kanji: '僕',
+    def: 'I, me (used by young males)',
+    romaji: '[boku]',
+    speech_part: 'NOUN',
+    id:373
+  },
+  {
+    kanji: '欲しい',
+    def: 'want, desire',
+    romaji: '[hoshi]',
+    speech_part: 'VERB',
+    id:374
+  },
+  {
+    kanji: '万',
+    def: 'ten thousand',
+    romaji: '[man]',
+    speech_part: 'NOUN',
+    id:375
+  },
+  {
+    kanji: '見える',
+    def: 'be visible, can see',
+    romaji: '[mieru]',
+    speech_part: 'VERB',
+    id:376
+  },
+  {
+    kanji: '店',
+    def: 'shop, store',
+    romaji: '[mise]',
+    speech_part: 'NOUN',
+    id:377
+  },
+  {
+    kanji: '道',
+    def: 'street, way',
+    romaji: '[michi]',
+    speech_part: 'NOUN',
+    id:378
+  },
+  {
+    kanji: '目',
+    def: 'eye',
+    romaji: '[me]',
+    speech_part: 'NOUN',
+    id:379
+  },
+  {
+    kanji: '八つ',
+    def: 'eight (things)',
+    romaji: '[yatsu]',
+    speech_part: 'NOUN',
+    id:380
   },
   // {
   //   kanji: '',
