@@ -22,8 +22,8 @@ const JapData = [
   },
   {
     kanji: '家',
-    def: 'home, household',
-    romaji: '[ie]',
+    def: 'home',
+    romaji: '[wuchi]',
     speech_part: 'NOUN',
     id:4
   },

@@ -582,7 +582,7 @@ const JapData = [
   },
   {
     kanji: '続く',
-    def: 'continue, follow',
+    def: 'continue (same state/condition), follow',
     romaji: "[tsu'dzu'ku]",
     speech_part: 'VERB',
     id:184
