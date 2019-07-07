@@ -568,7 +568,7 @@ const JapData = [
   },
   {
     kanji: '開ける',
-    def: 'open, unlock',
+    def: 'open (transitive, concrete), unlock',
     romaji: '[akeru]',
     speech_part: 'VERB',
     id:182

@@ -695,17 +695,10 @@ const JapData = [
   {
     kanji: 'もつ',
     def: 'last long',
-    romaji: '[motsu]',
+    romaji: '[motsu] (2nd)',
     speech_part: 'VERB',
     id:400
   }
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:0
-  // },
 ];
 
 export default JapData;

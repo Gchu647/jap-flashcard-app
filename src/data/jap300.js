@@ -112,8 +112,8 @@ const JapData = [
     id:216
   },
   {
-    kanji: '起きる',
-    def: "occur, happen (2nd def)",
+    kanji: '起きる (2)',
+    def: "occur, happen",
     romaji: '[okiru]',
     speech_part: 'VERB',
     id:217
@@ -140,8 +140,8 @@ const JapData = [
     id:220
   },
   {
-    kanji: '近く',
-    def: 'in the near future, before long (2nd def)',
+    kanji: '近く (2)',
+    def: 'in the near future, before long',
     romaji: '[chikaku]',
     speech_part: 'ADV.',
     id:221

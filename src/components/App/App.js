@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import JapData from '../../data/jap400';
+import JapData from '../../data/jap500';
 import FlashcardTop from '../FlascardTop/FlashcardTop';
 import FlashcardBottom from '../FlashcardBottom/FlashcardBottom';
 
@@ -15,8 +15,8 @@ class App extends Component {
       displayTop: false, // FlashcardTop
       displayBottom: false, // FlashcardBottom
       learnCount: 0, // when to stop pickLearnWord method
-      startId: 381, // start of our vocab list
-      endId: 390, // end of our vocab list
+      startId: 401, // start of our vocab list
+      endId: 403, // end of our vocab list
     }
 
     this.quiz = this.quiz.bind(this);
@@ -43,7 +43,7 @@ class App extends Component {
   componentDidMount() { // create a clone of japData and store it to our state
     this.setState((prevState) => { // proper way to increment
       // this needs to be changed when working with jap 200 and above
-      return {vocabList: JapData.slice(prevState.startId-301, prevState.endId-300)}
+      return {vocabList: JapData.slice(prevState.startId-401, prevState.endId-400)}
     });
   }
 
