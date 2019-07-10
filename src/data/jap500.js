@@ -139,6 +139,146 @@ const JapData = [
     speech_part: 'NOUN',
     id:420
   },
+  {
+    kanji: '話',
+    def: 'story, talk',
+    romaji: '[hanashi]',
+    speech_part: 'NOUN',
+    id:421
+  },
+  {
+    kanji: '上がる ',
+    def: 'go up, rise (physical movement)',
+    romaji: '[agaru]',
+    speech_part: 'VERB',
+    id:422
+  },
+  {
+    kanji: 'もう',
+    def: 'another, again',
+    romaji: '[mō]',
+    speech_part: 'ADV.',
+    id:423
+  },
+  {
+    kanji: '集める',
+    def: 'collect, gather',
+    romaji: '[atsumeru]',
+    speech_part: 'VERB',
+    id:424
+  },
+  {
+    kanji: '声',
+    def: 'voice, sound',
+    romaji: '[koe]',
+    speech_part: 'NOUN',
+    id:425
+  },
+  {
+    kanji: '初めて',
+    def: 'for the first time',
+    romaji: '[hajimete]',
+    speech_part: 'ADV.',
+    id:426
+  },
+  {
+    kanji: '変わる',
+    def: 'change, turn into',
+    romaji: '[kawaru]',
+    speech_part: 'VERB',
+    id:427
+  },
+  {
+    kanji: 'まず',
+    def: 'first of all, to begin with',
+    romaji: '[mazu]',
+    speech_part: 'ADV.',
+    id:428
+  },
+  {
+    kanji: '社会',
+    def: 'society',
+    romaji: '[shakai]',
+    speech_part: 'NOUN',
+    id:429
+  },
+  {
+    kanji: 'プログラム',
+    def: 'program booklet',
+    romaji: '[puroguramu]',
+    speech_part: 'NOUN',
+    id:430
+  },
+  {
+    kanji: '力',
+    def: 'strength, power',
+    romaji: '[chikara]',
+    speech_part: 'NOUN',
+    id:431
+  },
+  {
+    kanji: '今回',
+    def: 'this time',
+    romaji: '[konkai]',
+    speech_part: 'NOUN',
+    id:432
+  },
+  {
+    kanji: '予定',
+    def: 'schedule, plan',
+    romaji: '[yotei]',
+    speech_part: 'VERBAL NOUN',
+    id:433
+  },
+  {
+    kanji: 'よく (2)',
+    def: 'well, wonderfully',
+    romaji: '[yoku]',
+    speech_part: 'ADV.',
+    id:434
+  },
+  {
+    kanji: 'まま',
+    def: 'as is, still',
+    romaji: '[mama]',
+    speech_part: 'NOUN',
+    id:435
+  },
+  {
+    kanji: 'テレビ',
+    def: 'television',
+    romaji: '[terebi]',
+    speech_part: 'NOUN',
+    id:436
+  },
+  {
+    kanji: '減る',
+    def: 'decrease, diminish',
+    romaji: '[heru]',
+    speech_part: 'VERB',
+    id:437
+  },
+  {
+    kanji: '消える',
+    def: 'be extinguished, disappear',
+    romaji: '[kieru]',
+    speech_part: 'VERB',
+    id:438
+  },
+  {
+    kanji: '家族',
+    def: 'family, household',
+    romaji: '[kazoku]',
+    speech_part: 'NOUN',
+    id:439
+  },
+  {
+    kanji: '比べる',
+    def: 'compare, contrast',
+    romaji: '[kuraberu]',
+    speech_part: 'VERB',
+    id:440
+  },
   // {
   //   kanji: '',
   //   def: '',
