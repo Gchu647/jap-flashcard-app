@@ -198,7 +198,7 @@ const JapData = [
   {
     kanji: '暑い',
     def: 'hot (of weather)',
-    romaji: '[atsui]',
+    romaji: '[atsui] 2nd',
     speech_part: 'ADJ.',
     id:229
   },

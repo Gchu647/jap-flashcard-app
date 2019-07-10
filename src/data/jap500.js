@@ -279,6 +279,146 @@ const JapData = [
     speech_part: 'VERB',
     id:440
   },
+  {
+    kanji: '生まれる',
+    def: 'be born, come into existence',
+    romaji: '[umareru]',
+    speech_part: 'VERB',
+    id:441
+  },
+  {
+    kanji: 'ただ',
+    def: 'free of charge',
+    romaji: '[tada]',
+    speech_part: 'NOUN',
+    id:442
+  },
+  {
+    kanji: 'これら',
+    def: 'these',
+    romaji: '[korera]',
+    speech_part: 'PRONOUN',
+    id:443
+  },
+  {
+    kanji: '調べる',
+    def: 'investigate, check',
+    romaji: '[shira beru]',
+    speech_part: 'VERB',
+    id:444
+  },
+  {
+    kanji: '事故',
+    def: 'accident, trouble',
+    romaji: '[jiko]',
+    speech_part: 'NOUN',
+    id:445
+  },
+  {
+    kanji: '電話',
+    def: 'telephone, phone call',
+    romaji: '[denwa]',
+    speech_part: 'NOUN',
+    id:446
+  },
+  {
+    kanji: '外国',
+    def: 'foreign country',
+    romaji: '[gaigoku]',
+    speech_part: 'NOUN',
+    id:447
+  },
+  {
+    kanji: '銀行',
+    def: 'bank',
+    romaji: '[ginkō]',
+    speech_part: 'NOUN',
+    id:448
+  },
+  {
+    kanji: '十分',
+    def: 'enough, plentiful',
+    romaji: '[jūbun]',
+    speech_part: 'ADJ. NOUN',
+    id:449
+  },
+  {
+    kanji: 'あまり',
+    def: '(not) much',
+    romaji: '[amari]',
+    speech_part: 'ADV.',
+    id:450
+  },
+  {
+    kanji: '写真',
+    def: 'photograph',
+    romaji: '[shashin]',
+    speech_part: 'NOUN',
+    id:451
+  },
+  {
+    kanji: '繰り返す',
+    def: 'repeat',
+    romaji: '[kuri kaesu]',
+    speech_part: 'VERB',
+    id:452
+  },
+  {
+    kanji: '種類',
+    def: 'kind, type',
+    romaji: '[shurui]',
+    speech_part: 'NOUN',
+    id:453
+  },
+  {
+    kanji: '意見',
+    def: 'opinion',
+    romaji: '[iken]',
+    speech_part: 'NOUN',
+    id:454
+  },
+  {
+    kanji: '新聞',
+    def: 'newspaper',
+    romaji: '[shinbun]',
+    speech_part: 'NOUN',
+    id:455
+  },
+  {
+    kanji: '文章',
+    def: 'sentence, writing',
+    romaji: '[bunshō]',
+    speech_part: 'NOUN',
+    id:456
+  },
+  {
+    kanji: '目立つ',
+    def: 'stand out, be conspicuous',
+    romaji: '[medatsu]',
+    speech_part: 'VERB',
+    id:457
+  },
+  {
+    kanji: '相手',
+    def: 'opponent, other party',
+    romaji: '[aite]',
+    speech_part: 'NOUN',
+    id:458
+  },
+  {
+    kanji: '病院',
+    def: 'hospital',
+    romaji: '[byōin]',
+    speech_part: 'NOUN',
+    id:459
+  },
+  {
+    kanji: '厚い',
+    def: 'thick, bulky',
+    romaji: '[atsui] 3rd',
+    speech_part: 'ADJ.',
+    id:460
+  },
   // {
   //   kanji: '',
   //   def: '',
