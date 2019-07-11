@@ -419,6 +419,76 @@ const JapData = [
     speech_part: 'ADJ.',
     id:460
   },
+  {
+    kanji: '忙しい ',
+    def: 'busy, occupied',
+    romaji: '[isogashī]',
+    speech_part: 'ADJ.',
+    id:461
+  },
+  {
+    kanji: '薄い',
+    def: 'thin, weak',
+    romaji: '[usui]',
+    speech_part: 'ADJ.',
+    id:462
+  },
+  {
+    kanji: '川',
+    def: 'river, stream',
+    romaji: '[kawa]',
+    speech_part: 'NOUN',
+    id:463
+  },
+  {
+    kanji: '暗い',
+    def: 'dark, gloomy',
+    romaji: '[kurai]',
+    speech_part: 'ADJ.',
+    id:464
+  },
+  {
+    kanji: 'クラス',
+    def: 'class (in school)',
+    romaji: '[kurasu]',
+    speech_part: 'NOUN',
+    id:465
+  },
+  {
+    kanji: '黒い',
+    def: 'black, dark',
+    romaji: '[kuroi]',
+    speech_part: 'ADJ.',
+    id:466
+  },
+  {
+    kanji: 'バス',
+    def: 'bus',
+    romaji: '[basu]',
+    speech_part: 'NOUN',
+    id:467
+  },
+  {
+    kanji: '青い',
+    def: 'blue',
+    romaji: '[aoi]',
+    speech_part: 'ADJ.',
+    id:468
+  },
+  {
+    kanji: '買い物',
+    def: 'shopping, purchase',
+    romaji: 'VERBAL NOUN',
+    speech_part: '',
+    id:469
+  },
+  {
+    kanji: '薬',
+    def: 'medicine, drug',
+    romaji: '[kusuri]',
+    speech_part: 'NOUN',
+    id:470
+  },
   // {
   //   kanji: '',
   //   def: '',
