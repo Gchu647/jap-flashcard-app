@@ -478,8 +478,8 @@ const JapData = [
   {
     kanji: '買い物',
     def: 'shopping, purchase',
-    romaji: 'VERBAL NOUN',
-    speech_part: '',
+    romaji: '[kaimono]',
+    speech_part: 'VERBAL NOUN',
     id:469
   },
   {
@@ -488,6 +488,76 @@ const JapData = [
     romaji: '[kusuri]',
     speech_part: 'NOUN',
     id:470
+  },
+  {
+    kanji: '砂糖',
+    def: 'sugar',
+    romaji: '[satō]',
+    speech_part: 'NOUN',
+    id:471
+  },
+  {
+    kanji: '休み',
+    def: 'holiday, break',
+    romaji: '[yasumi]',
+    speech_part: 'NOUN',
+    id:472
+  },
+  {
+    kanji: '郵便局',
+    def: 'post office',
+    romaji: '[yūbinkyoku]',
+    speech_part: 'NOUN',
+    id:473
+  },
+  {
+    kanji: '住所',
+    def: 'address',
+    romaji: '[jūsho]',
+    speech_part: 'NOUN',
+    id:474
+  },
+  {
+    kanji: 'こちら',
+    def: 'here, this way (polite)',
+    romaji: '[kochira]',
+    speech_part: 'PRONOUN',
+    id:475
+  },
+  {
+    kanji: '財布',
+    def: 'purse, wallet',
+    romaji: '[saifu]',
+    speech_part: 'NOUN',
+    id:476
+  },
+  {
+    kanji: 'パスポート',
+    def: 'passport',
+    romaji: '[pasupōto]',
+    speech_part: 'NOUN',
+    id:477
+  },
+  {
+    kanji: '椅子',
+    def: 'chair',
+    romaji: '[isu]',
+    speech_part: 'NOUN',
+    id:478
+  },
+  {
+    kanji: '可愛い',
+    def: 'cute, sweet',
+    romaji: '[kawaii]',
+    speech_part: 'ADJ.',
+    id:479
+  },
+  {
+    kanji: 'お祖父さん',
+    def: 'grandfather',
+    romaji: '[ojisan]',
+    speech_part: 'NOUN',
+    id:480
   },
   // {
   //   kanji: '',
