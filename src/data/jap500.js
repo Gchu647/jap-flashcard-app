@@ -559,6 +559,146 @@ const JapData = [
     speech_part: 'NOUN',
     id:480
   },
+  {
+    kanji: '切手',
+    def: 'postage stamp',
+    romaji: '[kitte]',
+    speech_part: 'NOUN',
+    id:481
+  },
+  {
+    kanji: '涼しい',
+    def: 'cool (temperature)',
+    romaji: '[suzushī]',
+    speech_part: 'ADJ.',
+    id:482
+  },
+  {
+    kanji: 'いくつ',
+    def: 'how many, how old',
+    romaji: '[ikutsu]',
+    speech_part: 'INTERROGATIVE',
+    id:483
+  },
+  {
+    kanji: 'メニュー',
+    def: 'menu',
+    romaji: '[menyū]',
+    speech_part: 'NOUN',
+    id:484
+  },
+  {
+    kanji: '電気',
+    def: 'electricity, electric light',
+    romaji: '[denki]',
+    speech_part: 'NOUN',
+    id:485
+  },
+  {
+    kanji: '勝つ',
+    def: 'win',
+    romaji: '[katsu]',
+    speech_part: 'VERB',
+    id:486
+  },
+  {
+    kanji: '負ける',
+    def: 'lose',
+    romaji: '[makeru]',
+    speech_part: 'VERB',
+    id:487
+  },
+  {
+    kanji: '建てる',
+    def: 'build, erect',
+    romaji: '[tateru]',
+    speech_part: 'VERB',
+    id:488
+  },
+  {
+    kanji: '日記',
+    def: 'diary',
+    romaji: '[nikki]',
+    speech_part: 'NOUN',
+    id:489
+  },
+  {
+    kanji: '売り切れ',
+    def: 'sold out, sellout',
+    romaji: '[uri kire]',
+    speech_part: 'NOUN',
+    id:490
+  },
+  {
+    kanji: 'お巡りさん',
+    def: 'police (colloquial)',
+    romaji: '[omawari san]',
+    speech_part: 'NOUN',
+    id:491
+  },
+  {
+    kanji: '目覚まし時計',
+    def: 'alarm clock',
+    romaji: '[meza mashi dokei]',
+    speech_part: 'NOUN',
+    id:492
+  },
+  {
+    kanji: 'レシート',
+    def: 'receipt',
+    romaji: '[reshīto]',
+    speech_part: 'NOUN',
+    id:493
+  },
+  {
+    kanji: 'ティッシュ',
+    def: 'tissue',
+    romaji: '[tisshu]',
+    speech_part: 'NOUN',
+    id:494
+  },
+  {
+    kanji: '歯ブラシ',
+    def: 'toothbrush',
+    romaji: '[haburashi]',
+    speech_part: 'NOUN',
+    id:495
+  },
+  {
+    kanji: '下りる',
+    def: 'go down, come down',
+    romaji: '[oriru]',
+    speech_part: 'VERB',
+    id:496
+  },
+  {
+    kanji: '洗う',
+    def: 'wash',
+    romaji: '[arau]',
+    speech_part: 'VERB',
+    id:497
+  },
+  {
+    kanji: '今夜',
+    def: 'tonight, evening',
+    romaji: '[konya]',
+    speech_part: 'NOUN',
+    id:498
+  },
+  {
+    kanji: '来週',
+    def: 'next week',
+    romaji: '[raishu]',
+    speech_part: 'NOUN',
+    id:499
+  },
+  {
+    kanji: 'いとこ',
+    def: 'cousin',
+    romaji: '[itoko]',
+    speech_part: 'NOUN',
+    id:500
+  },
   // {
   //   kanji: '',
   //   def: '',
