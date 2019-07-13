@@ -134,11 +134,158 @@ const JapData = [
   },
   {
     kanji: 'アイスコーヒー',
-    def: 'ice coffee',
+    def: 'iced coffee',
     romaji: '[asukōhī]',
     speech_part: 'NOUN',
     id:520
   },
+  {
+    kanji: '朝ご飯',
+    def: 'breakfast',
+    romaji: '[asa gohan]',
+    speech_part: 'NOUN',
+    id:521
+  },
+  {
+    kanji: 'あっち',
+    def: 'other side, over there',
+    romaji: '[atchi]',
+    speech_part: 'PRONOUN',
+    id:522
+  },
+  {
+    kanji: 'ウェートレス',
+    def: 'waitress',
+    romaji: '[u~eitorsu]',
+    speech_part: 'NOUN',
+    id:523
+  },
+  {
+    kanji: 'お菓子',
+    def: 'sweets',
+    romaji: '[okashi]',
+    speech_part: 'NOUN',
+    id:524
+  },
+  {
+    kanji: '大人しい',
+    def: 'gentle, quiet',
+    romaji: '[otonashī]',
+    speech_part: 'ADJ.',
+    id:525
+  },
+  {
+    kanji: 'お祖母さん',
+    def: 'grandmother, elderly woman',
+    romaji: '[obāsan]',
+    speech_part: 'NOUN',
+    id:526
+  },
+  {
+    kanji: 'おばさん',
+    def: 'aunt',
+    romaji: '[obasan]',
+    speech_part: 'NOUN',
+    id:527
+  },
+  {
+    kanji: 'お土産',
+    def: 'souvenir (polite)',
+    romaji: '[omiyage]',
+    speech_part: 'NOUN',
+    id:528
+  },
+  {
+    kanji: '風邪薬',
+    def: 'cold medicine',
+    romaji: '[kaze kusuri]',
+    speech_part: 'NOUN',
+    id:529
+  },
+  {
+    kanji: '方',
+    def: 'person (polite)',
+    romaji: '[kata]',
+    speech_part: 'NOUN',
+    id:530
+  },
+  {
+    kanji: '鞄',
+    def: 'bag, handbag',
+    romaji: '[kaban]',
+    speech_part: 'NOUN',
+    id:531
+  },
+  {
+    kanji: '厳しい',
+    def: 'strict, severe',
+    romaji: '[kibishī]',
+    speech_part: 'ADJ.',
+    id:532
+  },
+  {
+    kanji: '客',
+    def: 'visitor, customer',
+    romaji: '[kyaku]',
+    speech_part: 'NOUN',
+    id:533
+  },
+  {
+    kanji: '雲',
+    def: 'cloud',
+    romaji: '[kumo]',
+    speech_part: 'NOUN',
+    id:534
+  },
+  {
+    kanji: '答え',
+    def: 'answer, solution',
+    romaji: '[kotae]',
+    speech_part: 'NOUN',
+    id:535
+  },
+  {
+    kanji: 'ごちそう',
+    def: 'feast, treat',
+    romaji: '[gochisō]',
+    speech_part: '',
+    id:536
+  },
+  {
+    kanji: 'この頃',
+    def: 'these days, recently',
+    romaji: '[konogoro]',
+    speech_part: 'NOUN',
+    id:537
+  },
+  {
+    kanji: '壊れる',
+    def: 'break, break down',
+    romaji: '[kowareru]',
+    speech_part: 'VERB',
+    id:538
+  },
+  {
+    kanji: '残念',
+    def: 'regretful, disappointing',
+    romaji: 'zan nen',
+    speech_part: 'ADJ. NOUN',
+    id:539
+  },
+  {
+    kanji: '仕舞う',
+    def: 'put away, put in',
+    romaji: '[shimau]',
+    speech_part: 'VERB',
+    id:540
+  },
+  // {
+  //   kanji: '',
+  //   def: '',
+  //   romaji: '',
+  //   speech_part: '',
+  //   id:54
+  // },
 ];
 
 export default JapData;
