@@ -698,14 +698,7 @@ const JapData = [
     romaji: '[itoko]',
     speech_part: 'NOUN',
     id:500
-  },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:0
-  // },
+  }
 ];
 
 export default JapData;
