@@ -279,12 +279,152 @@ const JapData = [
     speech_part: 'VERB',
     id:540
   },
+  {
+    kanji: '氏名',
+    def: 'full name',
+    romaji: '[shimei]',
+    speech_part: 'NOUN',
+    id:541
+  },
+  {
+    kanji: '丈夫',
+    def: 'healthy, sturdy',
+    romaji: '[jōbu]',
+    speech_part: 'ADJ. NOUN',
+    id:542
+  },
+  {
+    kanji: '醤油',
+    def: 'soy sauce',
+    romaji: '[shōyu]',
+    speech_part: 'NOUN',
+    id:543
+  },
+  {
+    kanji: '白',
+    def: 'white color',
+    romaji: '[shiro]',
+    speech_part: 'NOUN',
+    id:544
+  },
+  {
+    kanji: '心配',
+    def: 'anxiety, worry',
+    romaji: '[shinpai]',
+    speech_part: 'VERBAL NOUN',
+    id:545
+  },
+  {
+    kanji: '外',
+    def: 'outside, open air',
+    romaji: '[soto]',
+    speech_part: 'NOUN',
+    id:546
+  },
+  {
+    kanji: '空',
+    def: 'sky',
+    romaji: '[sora]',
+    speech_part: 'NOUN',
+    id:547
+  },
+  {
+    kanji: '大切',
+    def: 'important, value',
+    romaji: '[taisetsu]',
+    speech_part: 'ADJ. NOUN',
+    id:548
+  },
+  {
+    kanji: '助ける',
+    def: 'help, save',
+    romaji: '[tasukeru]',
+    speech_part: 'VERB',
+    id:549
+  },
+  {
+    kanji: 'たばこ',
+    def: 'tobacco, cigarette',
+    romaji: '[tabako]',
+    speech_part: 'NOUN',
+    id:550
+  },
+  {
+    kanji: '誰か',
+    def: 'someone',
+    romaji: '[dareka]',
+    speech_part: 'PRONOUN',
+    id:551
+  },
+  {
+    kanji: '茶碗',
+    def: 'rice bowel',
+    romaji: '[chawan]',
+    speech_part: 'NOUN',
+    id:552
+  },
+  {
+    kanji: 'ちょうど',
+    def: 'exactly, just',
+    romaji: '[chōdo]',
+    speech_part: 'ADV.',
+    id:553
+  },
+  {
+    kanji: '付く',
+    def: 'be on, be switched on',
+    romaji: '[tsuku]',
+    speech_part: 'VERB',
+    id:554
+  },
+  {
+    kanji: '机',
+    def: 'desk',
+    romaji: '[tsukue]',
+    speech_part: 'NOUN',
+    id:555
+  },
+  {
+    kanji: '勤める',
+    def: 'serve, hold a job',
+    romaji: '[tsutomeru]',
+    speech_part: 'VERB',
+    id:556
+  },
+  {
+    kanji: '天ぷら',
+    def: 'Japanese deep-fried food',
+    romaji: '[tenpura]',
+    speech_part: 'NOUN',
+    id:557
+  },
+  {
+    kanji: '何',
+    def: 'what (used with ther counters)',
+    romaji: '[na]',
+    speech_part: 'INTERROGATIVE',
+    id:558
+  },
+  {
+    kanji: '兄さん',
+    def: '(ones own) older brother (polite)',
+    romaji: '[nīsan]',
+    speech_part: 'NOUN',
+    id:559
+  },
+  {
+    kanji: '賑やか',
+    def: 'lively, exciting',
+    romaji: '[nigiyaka]',
+    speech_part: 'ADJ. NOUN',
+    id:560
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:54
+  //   id:56
   // },
 ];
 
