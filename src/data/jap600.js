@@ -419,12 +419,152 @@ const JapData = [
     speech_part: 'ADJ. NOUN',
     id:560
   },
+  {
+    kanji: '肉',
+    def: 'meat',
+    romaji: '[niku]',
+    speech_part: 'NOUN',
+    id:561
+  },
+  {
+    kanji: '人気',
+    def: 'popularity',
+    romaji: '[ninki]',
+    speech_part: 'NOUN',
+    id:562
+  },
+  {
+    kanji: 'ぬるい',
+    def: 'lukewarm',
+    romaji: '[nurui]',
+    speech_part: 'ADJ.',
+    id:563
+  },
+  {
+    kanji: '姉さん',
+    def: '(ones own) older sister (polite)',
+    romaji: '[nēsan]',
+    speech_part: 'NOUN',
+    id:564
+  },
+  {
+    kanji: '眠い',
+    def: 'sleep',
+    romaji: '[nemui]',
+    speech_part: 'sleepy',
+    id:565
+  },
+  {
+    kanji: '橋',
+    def: 'bridge',
+    romaji: '[hashi]',
+    speech_part: 'NOUN',
+    id:566
+  },
+  {
+    kanji: '半月',
+    def: 'half a month',
+    romaji: '[hantsuki]',
+    speech_part: 'NOUN',
+    id:567
+  },
+  {
+    kanji: '半日',
+    def: 'half a day',
+    romaji: '[han nichi]',
+    speech_part: 'NOUN',
+    id:568
+  },
+  {
+    kanji: '瓶',
+    def: 'bottle',
+    romaji: '[bin]',
+    speech_part: 'NOUN',
+    id:569
+  },
+  {
+    kanji: '復習',
+    def: 'review',
+    romaji: '[fukushū]',
+    speech_part: 'VERBAL NOUN',
+    id:570
+  },
+  {
+    kanji: '降る',
+    def: 'fall, come down (rain, snow)',
+    romaji: '[furu]',
+    speech_part: 'VERB',
+    id:571
+  },
+  {
+    kanji: '風呂',
+    def: 'bath',
+    romaji: '[furo]',
+    speech_part: 'NOUN',
+    id:572
+  },
+  {
+    kanji: '平成',
+    def: 'Heisei era',
+    romaji: '[heisei]',
+    speech_part: 'NOUN',
+    id:573
+  },
+  {
+    kanji: '下手',
+    def: 'bad at, unskilled',
+    romaji: '[heta]',
+    speech_part: 'ADJ. NOUN',
+    id:574
+  },
+  {
+    kanji: '本当',
+    def: 'really, genuine',
+    romaji: '[hontō]',
+    speech_part: 'NOUN',
+    id:575
+  },
+  {
+    kanji: '毎月',
+    def: 'every month',
+    romaji: '[maitsuki]',
+    speech_part: 'NOUN',
+    id:576
+  },
+  {
+    kanji: '町',
+    def: 'town',
+    romaji: '[machi]',
+    speech_part: 'NOUN',
+    id:577
+  },
+  {
+    kanji: '山',
+    def: 'mountain',
+    romaji: '[yama]',
+    speech_part: 'NOUN',
+    id:578
+  },
+  {
+    kanji: '湯',
+    def: 'hot water',
+    romaji: '[yu]',
+    speech_part: 'NOUN',
+    id:579
+  },
+  {
+    kanji: '昨夜',
+    def: 'last night, last evening (casual)',
+    romaji: '[sakuya]',
+    speech_part: 'NOUN',
+    id:580
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:56
+  //   id:58
   // },
 ];
 
