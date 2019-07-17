@@ -559,12 +559,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:580
   },
+  {
+    kanji: '指',
+    def: 'finger, toe',
+    romaji: '[yubi]',
+    speech_part: 'NOUN',
+    id:581
+  },
+  {
+    kanji: '緩い',
+    def: 'loose, slack',
+    romaji: '[yurui]',
+    speech_part: 'ADJ.',
+    id:582
+  },
+  {
+    kanji: '良い',
+    def: 'good (formal)',
+    romaji: '[yoi]',
+    speech_part: 'ADJ.',
+    id:583
+  },
+  {
+    kanji: 'ようこそ',
+    def: 'welcome (greeting)',
+    romaji: '[yōkoso]',
+    speech_part: 'ADV.',
+    id:584
+  },
+  {
+    kanji: '夜中',
+    def: 'midnight',
+    romaji: '[yonaka]',
+    speech_part: 'NOUN',
+    id:585
+  },
+  {
+    kanji: '両親',
+    def: 'parents',
+    romaji: '[ryōshin]',
+    speech_part: 'NOUN',
+    id:586
+  },
+  {
+    kanji: '零',
+    def: 'zero',
+    romaji: '[rei]',
+    speech_part: 'NOUN',
+    id:587
+  },
+  {
+    kanji: 'ウェーター',
+    def: 'waiter',
+    romaji: '[u~ētā]',
+    speech_part: 'NOUN',
+    id:588
+  },
+  {
+    kanji: '絶対に',
+    def: 'absolutely, definitely',
+    romaji: '[zettai ni]',
+    speech_part: 'ADV.',
+    id:589
+  },
+  {
+    kanji: '連れていく',
+    def: 'take along, bring along',
+    romaji: '[tsurete iku]',
+    speech_part: 'VERB',
+    id:590
+  },
+  {
+    kanji: '連れてくる',
+    def: 'bring (a person)',
+    romaji: '[tsurete kuru]',
+    speech_part: 'VERB',
+    id:591
+  },
+  {
+    kanji: '一人で',
+    def: 'by oneself, alone',
+    romaji: '[hitori de]',
+    speech_part: 'ADV.',
+    id:592
+  },
+  {
+    kanji: '決める',
+    def: 'decide, agree upon',
+    romaji: '[kimeru]',
+    speech_part: 'VERB',
+    id:593
+  },
+  {
+    kanji: '感じる',
+    def: 'feel, sense',
+    romaji: '[kanjiru]',
+    speech_part: 'VERB',
+    id:594
+  },
+  {
+    kanji: '生きる',
+    def: 'live (ones life)',
+    romaji: '[ikiru]',
+    speech_part: 'VERB',
+    id:595
+  },
+  {
+    kanji: '動かす',
+    def: 'move (something)',
+    romaji: '[ugokasu]',
+    speech_part: 'VERB',
+    id:596
+  },
+  {
+    kanji: '眉',
+    def: 'eyebrow',
+    romaji: '[mayu]',
+    speech_part: 'NOUN',
+    id:597
+  },
+  {
+    kanji: '経験',
+    def: 'experience, knowledge/skill gained',
+    romaji: '[keiken]',
+    speech_part: 'VERBAL NOUN',
+    id:598
+  },
+  {
+    kanji: '合う (2)',
+    def: 'fit, match',
+    romaji: '[au]',
+    speech_part: 'VERB',
+    id:599
+  },
+  {
+    kanji: '当たる',
+    def: '(got straight and) hit, strike',
+    romaji: '[ataru]',
+    speech_part: 'VERB',
+    id:600
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:58
+  //   id:60
   // },
 ];
 
