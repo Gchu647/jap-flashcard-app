@@ -319,119 +319,259 @@ const JapData = [
     def: 'explanation, description',
     romaji: '[seitsumei]',
     speech_part: 'VERBAL NOUN',
-    id:645
+    id:646
   },
   {
     kanji: '選手',
     def: 'athelete',
     romaji: '[senshu]',
     speech_part: 'NOUN',
-    id:646
+    id:647
   },
   {
     kanji: '卒業',
     def: 'graduation',
     romaji: '[sotsugyō]',
     speech_part: 'NOUN',
-    id:647
+    id:648
   },
   {
     kanji: 'そのまま',
     def: 'as it is, just like that',
     romaji: '[sono mama]',
     speech_part: 'ADV.',
-    id:648
+    id:649
   },
   {
     kanji: '建物',
     def: 'building, structure',
     romaji: '[tatemono]',
     speech_part: 'NOUN',
-    id:649
+    id:650
   },
   {
     kanji: '注意',
     def: 'attention, care',
     romaji: '[chūi]',
     speech_part: 'VERBAL NOUN',
-    id:650
+    id:651
   },
   {
     kanji: '直接',
     def: 'directly',
     romaji: '[choku setsu]',
     speech_part: 'ADV.',
-    id:651
+    id:652
   },
   {
     kanji: '伝える',
     def: 'convey, transmit',
     romaji: '[tsutaeru]',
     speech_part: 'VERB',
-    id:652
+    id:653
   },
   {
     kanji: 'つまり',
     def: 'in short, that is to say',
     romaji: '[tsumari]',
     speech_part: 'ADV.',
-    id:653
+    id:654
   },
   {
     kanji: '提案',
     def: 'suggestion, proposal',
     romaji: '[teian]',
     speech_part: 'VERBAL NOUN',
-    id:654
+    id:655
   },
   {
     kanji: '手紙',
     def: 'letter',
     romaji: '[tegami]',
     speech_part: 'NOUN',
-    id:655
+    id:656
   },
   {
     kanji: '動物',
     def: 'animal',
     romaji: '[dōbutsu]',
     speech_part: 'NOUN',
-    id:656
+    id:657
   },
   {
     kanji: '特に',
     def: 'specially, particularly',
     romaji: '[tokuni]',
     speech_part: 'ADV.',
-    id:657
+    id:658
   },
   {
     kanji: '道路',
     def: 'road',
     romaji: '[dōro]',
     speech_part: 'NOUN',
-    id:658
+    id:659
   },
   {
     kanji: '届く',
     def: 'reach, be received',
     romaji: '[todoku]',
     speech_part: 'VERB',
-    id:659
+    id:660
   },
   {
     kanji: '努力',
     def: 'endeavor, effort',
     romaji: '[doryoku]',
     speech_part: 'VERBAL NOUN',
-    id:660
+    id:661
   },
+  {
+    kanji: '直す',
+    def: 'repair, fix',
+    romaji: '[naosu]',
+    speech_part: 'VERB',
+    id:662
+  },
+  {
+    kanji: 'なぜ',
+    def: 'why',
+    romaji: '[naze]',
+    speech_part: 'INTERROGATIVE',
+    id:663
+  },
+  {
+    kanji: '並ぶ',
+    def: 'line up, be parallel',
+    romaji: '[narabu]',
+    speech_part: 'VERB',
+    id:664
+  },
+  {
+    kanji: '年度',
+    def: 'year, school',
+    romaji: '[nendo]',
+    speech_part: 'NOUN',
+    id:665
+  },
+  {
+    kanji: '残す',
+    def: 'leave, leave undone',
+    romaji: '[nokosu]',
+    speech_part: 'VERB',
+    id:666
+  },
+  {
+    kanji: '運ぶ',
+    def: 'carry, transport',
+    romaji: '[hakobu]',
+    speech_part: 'VERB',
+    id:667
+  },
+  {
+    kanji: '場所',
+    def: 'place, space',
+    romaji: '[basho]',
+    speech_part: 'NOUN',
+    id:668
+  },
+  {
+    kanji: 'はっきり',
+    def: 'clearly',
+    romaji: '[hakkiri]',
+    speech_part: 'ADV.',
+    id:669
+  },
+  {
+    kanji: '話し合う',
+    def: 'discuss, talk over',
+    romaji: '[hanashiau]',
+    speech_part: 'VERB',
+    id:670
+  },
+  {
+    kanji: '反対',
+    def: 'oppose, object',
+    romaji: '[hantai]',
+    speech_part: 'VERB',
+    id:671
+  },
+  {
+    kanji: '場合',
+    def: 'situation, case',
+    romaji: '',
+    speech_part: 'NOUN',
+    id:672
+  },
+  {
+    kanji: '嫌',
+    def: 'dislike, dont like',
+    romaji: '',
+    speech_part: 'ADJ. NOUN',
+    id:673
+  },
+  {
+    kanji: '詳しい',
+    def: 'detailed, have detailed knowledge',
+    romaji: '',
+    speech_part: 'ADJ.',
+    id:674
+  },
+  {
+    kanji: '大変',
+    def: 'awful, hard',
+    romaji: '',
+    speech_part: 'ADJ NOUN',
+    id:675
+  },
+  {
+    kanji: '火傷',
+    def: 'burn',
+    romaji: '',
+    speech_part: 'VERBAL NOUN',
+    id:676
+  },
+  {
+    kanji: 'いたずら',
+    def: 'mischeif, prank',
+    romaji: '',
+    speech_part: 'VERBAL NOUN',
+    id:677
+  },
+  {
+    kanji: 'お祝い',
+    def: 'celebration',
+    romaji: '',
+    speech_part: 'VERBAL NOUN',
+    id:678
+  },
+  {
+    kanji: 'くし',
+    def: 'comb',
+    romaji: '',
+    speech_part: 'NOUN',
+    id:679
+  },
+  {
+    kanji: 'クリーニング',
+    def: 'dry cleaning',
+    romaji: '',
+    speech_part: 'VERBAL NOUN',
+    id:680
+  },
+  // {
+  //   kanji: '喧嘩',
+  //   def: 'fight, argument',
+  //   romaji: '',
+  //   speech_part: 'VERBAL NOUN',
+  //   id:681
+  // },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:66
+  //   id:68
   // },
 ];
 
