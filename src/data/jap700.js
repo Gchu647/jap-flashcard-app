@@ -449,7 +449,7 @@ const JapData = [
   },
   {
     kanji: '年度',
-    def: 'year, school',
+    def: 'year, school year',
     romaji: '[nendo]',
     speech_part: 'NOUN',
     id:665
@@ -499,79 +499,212 @@ const JapData = [
   {
     kanji: '場合',
     def: 'situation, case',
-    romaji: '',
+    romaji: '[baai]',
     speech_part: 'NOUN',
     id:672
   },
   {
     kanji: '嫌',
     def: 'dislike, dont like',
-    romaji: '',
+    romaji: '[iya]',
     speech_part: 'ADJ. NOUN',
     id:673
   },
   {
     kanji: '詳しい',
     def: 'detailed, have detailed knowledge',
-    romaji: '',
+    romaji: '[kuwashī]',
     speech_part: 'ADJ.',
     id:674
   },
   {
     kanji: '大変',
     def: 'awful, hard',
-    romaji: '',
+    romaji: '[taihen]',
     speech_part: 'ADJ NOUN',
     id:675
   },
   {
     kanji: '火傷',
     def: 'burn',
-    romaji: '',
+    romaji: '[yakedo]',
     speech_part: 'VERBAL NOUN',
     id:676
   },
   {
     kanji: 'いたずら',
     def: 'mischeif, prank',
-    romaji: '',
+    romaji: '[itazura]',
     speech_part: 'VERBAL NOUN',
     id:677
   },
   {
     kanji: 'お祝い',
     def: 'celebration',
-    romaji: '',
+    romaji: '[oiwai]',
     speech_part: 'VERBAL NOUN',
     id:678
   },
   {
     kanji: 'くし',
     def: 'comb',
-    romaji: '',
+    romaji: '[kushi]',
     speech_part: 'NOUN',
     id:679
   },
   {
     kanji: 'クリーニング',
     def: 'dry cleaning',
-    romaji: '',
+    romaji: '[kurīningu]',
     speech_part: 'VERBAL NOUN',
     id:680
   },
-  // {
-  //   kanji: '喧嘩',
-  //   def: 'fight, argument',
-  //   romaji: '',
-  //   speech_part: 'VERBAL NOUN',
-  //   id:681
-  // },
+  {
+    kanji: '喧嘩',
+    def: 'fight, argument',
+    romaji: '[kenka]',
+    speech_part: 'VERBAL NOUN',
+    id:681
+  },
+  {
+    kanji: 'ごちそうする',
+    def: 'treat, host (a meal)',
+    romaji: '[gochisō-suru]',
+    speech_part: 'VERB',
+    id:682
+  },
+  {
+    kanji: 'こぼれる',
+    def: 'spill, overflow',
+    romaji: '[koboreru]',
+    speech_part: 'VERB',
+    id:683
+  },
+  {
+    kanji: 'ジャガイモ',
+    def: 'potato',
+    romaji: '[jagaimo]',
+    speech_part: 'NOUN',
+    id:684
+  },
+  {
+    kanji: '年上',
+    def: 'senior, older',
+    romaji: '[toshiue]',
+    speech_part: 'NOUN',
+    id:685
+  },
+  {
+    kanji: 'ナス',
+    def: 'eggplant',
+    romaji: '[nasu]',
+    speech_part: 'NOUN',
+    id:686
+  },
+  {
+    kanji: 'にんじん',
+    def: 'carrot',
+    romaji: '[nin jin]',
+    speech_part: 'NOUN',
+    id:687
+  },
+  {
+    kanji: '膝',
+    def: 'knee',
+    romaji: '[hiza]',
+    speech_part: 'NOUN',
+    id:688
+  },
+  {
+    kanji: '肘',
+    def: 'elbow',
+    romaji: '[hiji]',
+    speech_part: 'NOUN',
+    id:689
+  },
+  {
+    kanji: '枕',
+    def: 'pillow',
+    romaji: '[makura]',
+    speech_part: 'NOUN',
+    id:690
+  },
+  {
+    kanji: '孫',
+    def: 'grandchild',
+    romaji: '[mago]',
+    speech_part: 'NOUN',
+    id:691
+  },
+  {
+    kanji: 'やかん',
+    def: 'kettle',
+    romaji: '[yakan]',
+    speech_part: 'NOUN',
+    id:692
+  },
+  {
+    kanji: '四つ角',
+    def: 'intersection',
+    romaji: '[yotsu-kado]',
+    speech_part: 'NOUN',
+    id:693
+  },
+  {
+    kanji: '曲がり角',
+    def: 'corner (to turn)',
+    romaji: '[magari-kado]',
+    speech_part: 'NOUN',
+    id:694
+  },
+  {
+    kanji: '似ている',
+    def: 'look alike, resemble',
+    romaji: '[nitte-iru]',
+    speech_part: 'VERB',
+    id:695
+  },
+  {
+    kanji: 'なるほど',
+    def: 'I see, now I understand',
+    romaji: '[naruhodo]',
+    speech_part: 'ADV.',
+    id:696
+  },
+  {
+    kanji: 'チャンス',
+    def: 'chance',
+    romaji: '[chansu]',
+    speech_part: 'NOUN',
+    id:697
+  },
+  {
+    kanji: '半分',
+    def: 'half',
+    romaji: '[hanbun]',
+    speech_part: 'NOUN',
+    id:698
+  },
+  {
+    kanji: '深い',
+    def: 'deep, profound',
+    romaji: '[fukai]',
+    speech_part: 'ADJ.',
+    id:699
+  },
+  {
+    kanji: '非常に',
+    def: 'very, extremely',
+    romaji: '[hijō-ni]',
+    speech_part: 'ADJ.',
+    id:700
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:68
+  //   id:70
   // },
 ];
 
