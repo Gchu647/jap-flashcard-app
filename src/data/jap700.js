@@ -356,12 +356,82 @@ const JapData = [
     speech_part: 'VERBAL NOUN',
     id:650
   },
+  {
+    kanji: '直接',
+    def: 'directly',
+    romaji: '[choku setsu]',
+    speech_part: 'ADV.',
+    id:651
+  },
+  {
+    kanji: '伝える',
+    def: 'convey, transmit',
+    romaji: '[tsutaeru]',
+    speech_part: 'VERB',
+    id:652
+  },
+  {
+    kanji: 'つまり',
+    def: 'in short, that is to say',
+    romaji: '[tsumari]',
+    speech_part: 'ADV.',
+    id:653
+  },
+  {
+    kanji: '提案',
+    def: 'suggestion, proposal',
+    romaji: '[teian]',
+    speech_part: 'VERBAL NOUN',
+    id:654
+  },
+  {
+    kanji: '手紙',
+    def: 'letter',
+    romaji: '[tegami]',
+    speech_part: 'NOUN',
+    id:655
+  },
+  {
+    kanji: '動物',
+    def: 'animal',
+    romaji: '[dōbutsu]',
+    speech_part: 'NOUN',
+    id:656
+  },
+  {
+    kanji: '特に',
+    def: 'specially, particularly',
+    romaji: '[tokuni]',
+    speech_part: 'ADV.',
+    id:657
+  },
+  {
+    kanji: '道路',
+    def: 'road',
+    romaji: '[dōro]',
+    speech_part: 'NOUN',
+    id:658
+  },
+  {
+    kanji: '届く',
+    def: 'reach, be received',
+    romaji: '[todoku]',
+    speech_part: 'VERB',
+    id:659
+  },
+  {
+    kanji: '努力',
+    def: 'endeavor, effort',
+    romaji: '[doryoku]',
+    speech_part: 'VERBAL NOUN',
+    id:660
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:65
+  //   id:66
   // },
 ];
 
