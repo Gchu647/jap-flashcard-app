@@ -279,12 +279,89 @@ const JapData = [
     speech_part: 'NOUN',
     id:640
   },
+  {
+    kanji: '進む',
+    def: 'advance, move forward',
+    romaji: '[susumu]',
+    speech_part: 'VERB',
+    id:641
+  },
+  {
+    kanji: 'スポーツ',
+    def: 'sport',
+    romaji: '[supōtsu]',
+    speech_part: 'NOUN',
+    id:642
+  },
+  {
+    kanji: '世紀',
+    def: 'century',
+    romaji: '[seiki]',
+    speech_part: 'NOUN',
+    id:643
+  },
+  {
+    kanji: '成功',
+    def: 'success',
+    romaji: '[seikō]',
+    speech_part: 'VERBAL NOUN',
+    id:644
+  },
+  {
+    kanji: '生徒',
+    def: 'pupil, student',
+    romaji: '[seito]',
+    speech_part: 'NOUN',
+    id:645
+  },
+  {
+    kanji: '説明',
+    def: 'explanation, description',
+    romaji: '[seitsumei]',
+    speech_part: 'VERBAL NOUN',
+    id:645
+  },
+  {
+    kanji: '選手',
+    def: 'athelete',
+    romaji: '[senshu]',
+    speech_part: 'NOUN',
+    id:646
+  },
+  {
+    kanji: '卒業',
+    def: 'graduation',
+    romaji: '[sotsugyō]',
+    speech_part: 'NOUN',
+    id:647
+  },
+  {
+    kanji: 'そのまま',
+    def: 'as it is, just like that',
+    romaji: '[sono mama]',
+    speech_part: 'ADV.',
+    id:648
+  },
+  {
+    kanji: '建物',
+    def: 'building, structure',
+    romaji: '[tatemono]',
+    speech_part: 'NOUN',
+    id:649
+  },
+  {
+    kanji: '注意',
+    def: 'attention, care',
+    romaji: '[chūi]',
+    speech_part: 'VERBAL NOUN',
+    id:650
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:64
+  //   id:65
   // },
 ];
 
