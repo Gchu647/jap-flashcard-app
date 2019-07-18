@@ -15,8 +15,8 @@ class App extends Component {
       displayTop: false, // FlashcardTop
       displayBottom: false, // FlashcardBottom
       learnCount: 0, // when to stop pickLearnWord method
-      startId: 601, // start of our vocab list
-      endId: 620, // end of our vocab list
+      startId: 621, // start of our vocab list
+      endId: 630, // end of our vocab list
     }
 
     this.quiz = this.quiz.bind(this);
