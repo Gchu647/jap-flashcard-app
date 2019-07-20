@@ -698,14 +698,7 @@ const JapData = [
     romaji: '[hijō-ni]',
     speech_part: 'ADJ.',
     id:700
-  },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:70
-  // },
+  }
 ];
 
 export default JapData;
