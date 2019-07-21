@@ -139,12 +139,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:720
   },
+  {
+    kanji: 'パソコン',
+    def: 'personal computer',
+    romaji: '[pasokon]',
+    speech_part: 'NOUN',
+    id:721
+  },
+  {
+    kanji: '明るい',
+    def: 'cheerful, bright',
+    romaji: '[akarui]',
+    speech_part: 'ADJ.',
+    id:722
+  },
+  {
+    kanji: '味',
+    def: 'taste, flavor',
+    romaji: '[aji]',
+    speech_part: 'NOUN',
+    id:723
+  },
+  {
+    kanji: 'あちこち',
+    def: 'all over, here and there',
+    romaji: '[achi-kochi]',
+    speech_part: 'ADV.',
+    id:724
+  },
+  {
+    kanji: 'アパート',
+    def: 'apartment, flat',
+    romaji: '[apāto]',
+    speech_part: 'NOUN',
+    id:725
+  },
+  {
+    kanji: '急ぐ',
+    def: 'hurry, do quickly',
+    romaji: '[isogu]',
+    speech_part: 'ADV.',
+    id:726
+  },
+  {
+    kanji: '犬',
+    def: 'dog',
+    romaji: '[inu]',
+    speech_part: 'NOUN',
+    id:727
+  },
+  {
+    kanji: '歌',
+    def: 'song',
+    romaji: '[uta]',
+    speech_part: 'NOUN',
+    id:728
+  },
+  {
+    kanji: 'うまい',
+    def: 'good at',
+    romaji: '[umai]',
+    speech_part: 'ADJ.',
+    id:729
+  },
+  {
+    kanji: '中学校',
+    def: 'junior high school',
+    romaji: '[chūgakkō]',
+    speech_part: 'NOUN',
+    id:730
+  },
+  {
+    kanji: 'テスト',
+    def: 'test',
+    romaji: '[tesuto]',
+    speech_part: 'NOUN',
+    id:731
+  },
+  {
+    kanji: 'ポスト',
+    def: 'postbox, mailbox',
+    romaji: '[posuto]',
+    speech_part: 'NOUN',
+    id:732
+  },
+  {
+    kanji: '面白い',
+    def: 'interesting, funny',
+    romaji: '[omoshiroi]',
+    speech_part: 'ADJ.',
+    id:733
+  },
+  {
+    kanji: '髪',
+    def: 'hair, hairstyle',
+    romaji: '[kami]',
+    speech_part: 'NOUN',
+    id:734
+  },
+  {
+    kanji: 'コーヒー',
+    def: 'coffee',
+    romaji: '[kōhī]',
+    speech_part: 'NOUN',
+    id:735
+  },
+  {
+    kanji: '週末',
+    def: 'weekend',
+    romaji: '[shūmatsu]',
+    speech_part: 'NOUN',
+    id:736
+  },
+  {
+    kanji: '先週',
+    def: 'last week',
+    romaji: '[senshū]',
+    speech_part: 'NOUN',
+    id:737
+  },
+  {
+    kanji: '固い',
+    def: 'stiff, tight',
+    romaji: '[katai]',
+    speech_part: 'ADJ.',
+    id:738
+  },
+  {
+    kanji: '帽子',
+    def: 'hat, cap',
+    romaji: '[bōshi]',
+    speech_part: 'NOUN',
+    id:739
+  },
+  {
+    kanji: 'お茶',
+    def: 'tea (polite)',
+    romaji: '[ocha]',
+    speech_part: 'NOUN',
+    id:740
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:72
+  //   id:74
   // },
 ];
 
