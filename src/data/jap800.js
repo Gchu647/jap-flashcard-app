@@ -296,7 +296,7 @@ const JapData = [
   {
     kanji: '柔らかい',
     def: 'soft',
-    romaji: '[yawaraki]',
+    romaji: '[yawa-rakai]',
     speech_part: 'ADJ.',
     id:743
   },
