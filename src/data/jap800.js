@@ -279,12 +279,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:740
   },
+  {
+    kanji: '宿題',
+    def: 'homework',
+    romaji: '[shukudai]',
+    speech_part: 'NOUN',
+    id:741
+  },
+  {
+    kanji: 'りんご',
+    def: 'apple',
+    romaji: '[ringo]',
+    speech_part: 'NOUN',
+    id:742
+  },
+  {
+    kanji: '柔らかい',
+    def: 'soft',
+    romaji: '[yawaraki]',
+    speech_part: 'ADJ.',
+    id:743
+  },
+  {
+    kanji: '鍵',
+    def: 'key, lock',
+    romaji: '[kagi]',
+    speech_part: 'NOUN',
+    id:744
+  },
+  {
+    kanji: '傘',
+    def: 'umbrella',
+    romaji: '[kasa]',
+    speech_part: 'NOUN',
+    id:745
+  },
+  {
+    kanji: 'おじ',
+    def: '(ones own) uncle',
+    romaji: '[oji]',
+    speech_part: 'NOUN',
+    id:746
+  },
+  {
+    kanji: 'うるさい',
+    def: 'noisy, annoying',
+    romaji: '[urusai]',
+    speech_part: 'ADJ.',
+    id:747
+  },
+  {
+    kanji: '乗り換える',
+    def: 'transfer, change',
+    romaji: '[nori-kaeru]',
+    speech_part: 'VERB',
+    id:748
+  },
+  {
+    kanji: '本屋',
+    def: 'bookstore',
+    romaji: '[honya]',
+    speech_part: 'NOUN',
+    id:749
+  },
+  {
+    kanji: 'みかん',
+    def: 'mandarin orange',
+    romaji: '[mikan]',
+    speech_part: 'NOUN',
+    id:750
+  },
+  {
+    kanji: 'コップ',
+    def: 'cup, glasses',
+    romaji: '[koppu]',
+    speech_part: 'NOUN',
+    id:751
+  },
+  {
+    kanji: '皿',
+    def: 'plate, counter (for plates)',
+    romaji: '[sara]',
+    speech_part: 'NOUN',
+    id:752
+  },
+  {
+    kanji: '改札口',
+    def: 'ticket gate',
+    romaji: '[kaisatsu-guchi]',
+    speech_part: 'NOUN',
+    id:753
+  },
+  {
+    kanji: 'ハンカチ',
+    def: 'handkerchief',
+    romaji: '[hankachi]',
+    speech_part: 'NOUN',
+    id:754
+  },
+  {
+    kanji: 'ブラウス',
+    def: 'blouse',
+    romaji: '[burausu]',
+    speech_part: 'NOUN',
+    id:755
+  },
+  {
+    kanji: 'おば',
+    def: '(ones own) aunt',
+    romaji: '[oba]',
+    speech_part: 'NOUN',
+    id:756
+  },
+  {
+    kanji: 'そちら',
+    def: 'there (polite)',
+    romaji: '[sochira]',
+    speech_part: 'PRONOUN',
+    id:757
+  },
+  {
+    kanji: '晴れ',
+    def: 'fine weather, clear sky',
+    romaji: '[hare]',
+    speech_part: 'NOUN',
+    id:758
+  },
+  {
+    kanji: '名字',
+    def: 'surname, family name',
+    romaji: '[myōji]',
+    speech_part: 'NOUN',
+    id:759
+  },
+  {
+    kanji: 'どなた',
+    def: 'who (polite)',
+    romaji: '[donata]',
+    speech_part: 'INTERROGATIVE',
+    id:760
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:74
+  //   id:75
   // },
 ];
 
