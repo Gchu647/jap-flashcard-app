@@ -419,12 +419,152 @@ const JapData = [
     speech_part: 'INTERROGATIVE',
     id:760
   },
+  {
+    kanji: 'バス停',
+    def: 'bus stop',
+    romaji: '[basutei]',
+    speech_part: 'NOUN',
+    id:761
+  },
+  {
+    kanji: '曇り',
+    def: 'cloudy weather',
+    romaji: '[kumori]',
+    speech_part: 'NOUN',
+    id:762
+  },
+  {
+    kanji: '魚',
+    def: 'fish',
+    romaji: '[sakana]',
+    speech_part: 'NOUN',
+    id:763
+  },
+  {
+    kanji: '塩',
+    def: 'salt',
+    romaji: '[shio]',
+    speech_part: 'NOUN',
+    id:764
+  },
+  {
+    kanji: '大嫌い',
+    def: 'hate',
+    romaji: '[daikirai]',
+    speech_part: 'ADJ. NOUN',
+    id:765
+  },
+  {
+    kanji: 'たくさん',
+    def: 'a lot, in large quantity',
+    romaji: '[takusan]',
+    speech_part: 'ADV.',
+    id:766
+  },
+  {
+    kanji: '中',
+    def: 'inside, middle',
+    romaji: '[naka]',
+    speech_part: 'NOUN',
+    id:767
+  },
+  {
+    kanji: '二階',
+    def: 'second floor, upstairs',
+    romaji: '[ni-kai]',
+    speech_part: 'NOUN',
+    id:768
+  },
+  {
+    kanji: 'あちら',
+    def: 'over there',
+    romaji: '[achira]',
+    speech_part: 'PRONOUN',
+    id:769
+  },
+  {
+    kanji: '無くす',
+    def: 'lose, get rid of',
+    romaji: '[nakusu]',
+    speech_part: 'VERB',
+    id:770
+  },
+  {
+    kanji: 'まあまあ',
+    def: 'OK, not bad',
+    romaji: '[mama]',
+    speech_part: 'ADV.',
+    id:771
+  },
+  {
+    kanji: '黄色',
+    def: 'yellow',
+    romaji: '[kiro]',
+    speech_part: 'NOUN',
+    id:772
+  },
+  {
+    kanji: 'ランチ',
+    def: 'lunch (loan word)',
+    romaji: '[ranchi]',
+    speech_part: 'NOUN',
+    id:773
+  },
+  {
+    kanji: '気を付ける',
+    def: 'be careful about, pay attention to',
+    romaji: '[kiotsukeru]',
+    speech_part: 'VERB',
+    id:774
+  },
+  {
+    kanji: '二人',
+    def: 'two person',
+    romaji: '[futari]',
+    speech_part: 'NOUN',
+    id:775
+  },
+  {
+    kanji: '止む',
+    def: 'stop, cease',
+    romaji: '[yasu]',
+    speech_part: 'VERB',
+    id:776
+  },
+  {
+    kanji: 'よろしく',
+    def: 'ones regards',
+    romaji: '[yoroshiku]',
+    speech_part: 'ADV.',
+    id:777
+  },
+  {
+    kanji: 'いくら',
+    def: 'how much (money)',
+    romaji: '[ikura]',
+    speech_part: 'INTERROGATIVE',
+    id:778
+  },
+  {
+    kanji: '九',
+    def: 'nine',
+    romaji: '[ku]',
+    speech_part: 'NOUN',
+    id:779
+  },
+  {
+    kanji: '昼間',
+    def: 'day, during the day',
+    romaji: '[hiruma]',
+    speech_part: 'NOUN',
+    id:780
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:75
+  //   id:78
   // },
 ];
 
