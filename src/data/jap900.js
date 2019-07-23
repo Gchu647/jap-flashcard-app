@@ -139,12 +139,152 @@ const JapData = [
     speech_part: 'ADV.',
     id:820
   },
+  {
+    kanji: '壁',
+    def: 'wall, partition',
+    romaji: '[kabe]',
+    speech_part: 'NOUN',
+    id:821
+  },
+  {
+    kanji: 'カメラ',
+    def: 'camera',
+    romaji: '[kamera]',
+    speech_part: 'NOUN',
+    id:822
+  },
+  {
+    kanji: '通う',
+    def: 'go to and from, frequent a place',
+    romaji: '[kayou]',
+    speech_part: 'VERB',
+    id:823
+  },
+  {
+    kanji: 'ガラス',
+    def: 'glass (material)',
+    romaji: '[garasu]',
+    speech_part: 'NOUN',
+    id:824
+  },
+  {
+    kanji: '借りる',
+    def: 'borrow',
+    romaji: '[kariru]',
+    speech_part: 'VERB',
+    id:825
+  },
+  {
+    kanji: '代わる',
+    def: 'substitue, be substitued for',
+    romaji: '[kawaru] (2)',
+    speech_part: 'VERB',
+    id:826
+  },
+  {
+    kanji: '考え',
+    def: 'thought, idea',
+    romaji: '[kangae]',
+    speech_part: 'NOUN',
+    id:827
+  },
+  {
+    kanji: '聞こえる',
+    def: 'hear, be heard',
+    romaji: '[kikoeru]',
+    speech_part: 'VERB',
+    id:828
+  },
+  {
+    kanji: '季節',
+    def: 'season',
+    romaji: '[kisetsu]',
+    speech_part: 'NOUN',
+    id:829
+  },
+  {
+    kanji: '北',
+    def: 'north',
+    romaji: '[kita]',
+    speech_part: 'NOUN',
+    id:830
+  },
+  {
+    kanji: '急に',
+    def: 'suddenly, unexpectly',
+    romaji: '[kyū-ni]',
+    speech_part: 'ADV.',
+    id:831
+  },
+  {
+    kanji: '牛肉',
+    def: 'beef',
+    romaji: '[gyūniku]',
+    speech_part: 'NOUN',
+    id:832
+  },
+  {
+    kanji: '給料',
+    def: 'salary, pay',
+    romaji: '[kyūryō]',
+    speech_part: 'NOUN',
+    id:833
+  },
+  {
+    kanji: '教科書',
+    def: 'textbook',
+    romaji: '[kyō-kasho]',
+    speech_part: 'NOUN',
+    id:834
+  },
+  {
+    kanji: '教師',
+    def: 'teacher, instructor (formal)',
+    romaji: '[kyōshi]',
+    speech_part: 'NOUN',
+    id:835
+  },
+  {
+    kanji: '教室',
+    def: 'classroom',
+    romaji: '[kyōshitsu]',
+    speech_part: 'NOUN',
+    id:836
+  },
+  {
+    kanji: '兄弟',
+    def: 'sibling',
+    romaji: '[kyōdai]',
+    speech_part: '',
+    id:837
+  },
+  {
+    kanji: '曲',
+    def: 'piece of music',
+    romaji: '[kyoku]',
+    speech_part: 'NOUN',
+    id:838
+  },
+  {
+    kanji: '切れる',
+    def: 'cut well, be sharp',
+    romaji: '[kireru]',
+    speech_part: 'VERB',
+    id:839
+  },
+  {
+    kanji: '空港',
+    def: 'airport',
+    romaji: '[kūkō]',
+    speech_part: 'NOUN',
+    id:840
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:82
+  //   id:84
   // },
 ];
 
