@@ -699,13 +699,6 @@ const JapData = [
     speech_part: 'VERB',
     id:800
   },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:80
-  // },
 ];
 
 export default JapData;
