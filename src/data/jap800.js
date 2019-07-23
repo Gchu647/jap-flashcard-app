@@ -477,7 +477,7 @@ const JapData = [
   },
   {
     kanji: 'あちら',
-    def: 'over there',
+    def: 'over there (polite)',
     romaji: '[achira]',
     speech_part: 'PRONOUN',
     id:769
@@ -559,12 +559,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:780
   },
+  {
+    kanji: 'いつ頃',
+    def: 'about when, about what time',
+    romaji: '[itsu-goro]',
+    speech_part: 'INTERROGATIVE',
+    id:781
+  },
+  {
+    kanji: '字',
+    def: '(individual) character, letter',
+    romaji: '[ji]',
+    speech_part: 'NOUN',
+    id:782
+  },
+  {
+    kanji: '七 (2)',
+    def: 'seven (chinese)',
+    romaji: '[shichi]',
+    speech_part: 'NOUN',
+    id:783
+  },
+  {
+    kanji: 'お釣り',
+    def: 'change (money/coins)',
+    romaji: '[otsuri]',
+    speech_part: 'NOUN',
+    id:784
+  },
+  {
+    kanji: '被る',
+    def: 'wear, put on (ones head)',
+    romaji: '[kaburu]',
+    speech_part: 'VERB',
+    id:785
+  },
+  {
+    kanji: '再来週',
+    def: 'the week after next',
+    romaji: '[saraishū]',
+    speech_part: 'NOUN',
+    id:786
+  },
+  {
+    kanji: '祖父',
+    def: '(ones own) grandfather (formal)',
+    romaji: '[sofu]',
+    speech_part: 'NOUN',
+    id:787
+  },
+  {
+    kanji: '祖母',
+    def: '(ones own) grandmother (formal)',
+    romaji: '[sobo]',
+    speech_part: 'NOUN',
+    id:788
+  },
+  {
+    kanji: '大事',
+    def: 'importance',
+    romaji: '[daiji]',
+    speech_part: 'ADJ. NOUN',
+    id:789
+  },
+  {
+    kanji: '鳥',
+    def: 'bird',
+    romaji: '[tori]',
+    speech_part: 'NOUN',
+    id:790
+  },
+  {
+    kanji: '返事',
+    def: 'answer, reply',
+    romaji: '[henji]',
+    speech_part: 'VERBAL NOUN',
+    id:791
+  },
+  {
+    kanji: 'また',
+    def: 'again, also, or',
+    romaji: '[mata]',
+    speech_part: 'ADV.',
+    id:792
+  },
+  {
+    kanji: '年間',
+    def: 'period of one year',
+    romaji: '[nenkan]',
+    speech_part: 'NOUN',
+    id:793
+  },
+  {
+    kanji: '青',
+    def: 'blue color, green',
+    romaji: '[ao]',
+    speech_part: 'NOUN',
+    id:794
+  },
+  {
+    kanji: '赤',
+    def: 'red color',
+    romaji: '[akai]',
+    speech_part: 'NOUN',
+    id:795
+  },
+  {
+    kanji: '信号',
+    def: 'signal, traffic light',
+    romaji: 'shingō',
+    speech_part: 'NOUN',
+    id:796
+  },
+  {
+    kanji: '遊び',
+    def: 'play, amusement',
+    romaji: '[asobi]',
+    speech_part: 'NOUN',
+    id:797
+  },
+  {
+    kanji: '穴',
+    def: 'hole',
+    romaji: '[ana]',
+    speech_part: 'NOUN',
+    id:798
+  },
+  {
+    kanji: '受け取る',
+    def: 'recieve, get',
+    romaji: '[uketoru]',
+    speech_part: 'VERB',
+    id:799
+  },
+  {
+    kanji: '打つ',
+    def: 'hit, strike',
+    romaji: '[utsu]',
+    speech_part: 'VERB',
+    id:800
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:78
+  //   id:80
   // },
 ];
 
