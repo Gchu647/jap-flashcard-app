@@ -279,12 +279,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:840
   },
+  {
+    kanji: '苦しい',
+    def: 'painful, agonizing',
+    romaji: '[kurushī]',
+    speech_part: 'ADJ.',
+    id:841
+  },
+  {
+    kanji: '玄関',
+    def: 'entrance, front door',
+    romaji: '[genkan]',
+    speech_part: 'NOUN',
+    id:842
+  },
+  {
+    kanji: '健康',
+    def: 'health',
+    romaji: '[kenkō]',
+    speech_part: 'ADJ. NOUN',
+    id:843
+  },
+  {
+    kanji: '公園',
+    def: 'park, public garden',
+    romaji: '[kōen]',
+    speech_part: 'NOUN',
+    id:844
+  },
+  {
+    kanji: '合格',
+    def: 'passing an examination',
+    romaji: '[gōkaku]',
+    speech_part: 'VERBAL NOUN',
+    id:845
+  },
+  {
+    kanji: 'コース',
+    def: 'course, route',
+    romaji: '[kōsu]',
+    speech_part: 'NOUN',
+    id:846
+  },
+  {
+    kanji: '故障',
+    def: 'malfunction, breakdown',
+    romaji: '[koshō]',
+    speech_part: 'VERBAL NOUN',
+    id:847
+  },
+  {
+    kanji: '細かい',
+    def: 'detailed, fine',
+    romaji: '[komakai]',
+    speech_part: 'ADJ.',
+    id:848
+  },
+  {
+    kanji: '困る',
+    def: 'be in trouble, not know what to do',
+    romaji: '[komaru]',
+    speech_part: 'VERB',
+    id:849
+  },
+  {
+    kanji: 'ゴルフ',
+    def: 'golf',
+    romaji: '[gorufu]',
+    speech_part: 'NOUN',
+    id:850
+  },
+  {
+    kanji: '殺す',
+    def: 'kill',
+    romaji: '[korosu]',
+    speech_part: 'VERB',
+    id:851
+  },
+  {
+    kanji: '下げる',
+    def: 'lower, turn down',
+    romaji: '[sageru]',
+    speech_part: 'VERB',
+    id:852
+  },
+  {
+    kanji: '雑誌',
+    def: 'magazine',
+    romaji: '[zasshi]',
+    speech_part: 'NOUN',
+    id:853
+  },
+  {
+    kanji: 'サラリーマン',
+    def: 'salaried worker',
+    romaji: '[sararīman]',
+    speech_part: 'NOUN',
+    id:854
+  },
+  {
+    kanji: '試験',
+    def: 'exam',
+    romaji: '[shiken]',
+    speech_part: 'VERBAL NOUN',
+    id:855
+  },
+  {
+    kanji: '静か',
+    def: 'quiet',
+    romaji: '[shizuka]',
+    speech_part: 'ADJ. NOUN',
+    id:856
+  },
+  {
+    kanji: '自然',
+    def: 'natural',
+    romaji: '[shizen]',
+    speech_part: 'ADJ. NOUN',
+    id:857
+  },
+  {
+    kanji: 'しばらく',
+    def: 'a little while, a while',
+    romaji: '[shiba-raku]',
+    speech_part: 'ADV.',
+    id:858
+  },
+  {
+    kanji: '島',
+    def: 'island (jap origin)',
+    romaji: '[shima]',
+    speech_part: 'NOUN',
+    id:859
+  },
+  {
+    kanji: '出発',
+    def: 'departure, starting',
+    romaji: '[shuppatsu]',
+    speech_part: 'VERBAL NOUN',
+    id:860
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:84
+  //   id:86
   // },
 ];
 
