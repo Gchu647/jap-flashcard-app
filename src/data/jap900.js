@@ -419,12 +419,152 @@ const JapData = [
     speech_part: 'VERBAL NOUN',
     id:860
   },
+  {
+    kanji: '紹介',
+    def: 'introduction',
+    romaji: '[shōkai]',
+    speech_part: 'VERBAL NOUN',
+    id:861
+  },
+  {
+    kanji: '小学校',
+    def: 'elementary school',
+    romaji: '[shōgakkō]',
+    speech_part: 'NOUN',
+    id:862
+  },
+  {
+    kanji: '小説',
+    def: 'novel',
+    romaji: '[shōsetsu]',
+    speech_part: 'NOUN',
+    id:863
+  },
+  {
+    kanji: '食事',
+    def: 'meal, food',
+    romaji: '[shōkuji]',
+    speech_part: 'NOUN',
+    id:864
+  },
+  {
+    kanji: '信じる',
+    def: 'believe, trust',
+    romaji: '[shinjiru]',
+    speech_part: 'VERB',
+    id:865
+  },
+  {
+    kanji: '数学',
+    def: 'mathematics',
+    romaji: '[sūgaku]',
+    speech_part: 'NOUN',
+    id:866
+  },
+  {
+    kanji: '数字',
+    def: 'numeric characters',
+    romaji: '[sūji]',
+    speech_part: 'NOUN',
+    id:867
+  },
+  {
+    kanji: 'ずっと',
+    def: 'all the time, all through',
+    romaji: '[zutto]',
+    speech_part: 'ADV.',
+    id:868
+  },
+  {
+    kanji: '捨てる',
+    def: 'discard, abandon',
+    romaji: '[suteru]',
+    speech_part: 'VERB',
+    id:869
+  },
+  {
+    kanji: '成績',
+    def: 'grade, results',
+    romaji: '[seiseki]',
+    speech_part: 'NOUN',
+    id:870
+  },
+  {
+    kanji: '席',
+    def: 'seat. ones place',
+    romaji: '[seki]',
+    speech_part: 'NOUN',
+    id:871
+  },
+  {
+    kanji: '相談',
+    def: 'consultation, advice',
+    romaji: '[sōdan]',
+    speech_part: 'VERBAL NOUN',
+    id:872
+  },
+  {
+    kanji: '育てる',
+    def: 'bring up, raise',
+    romaji: '[soda-teru]',
+    speech_part: 'VERB',
+    id:873
+  },
+  {
+    kanji: '大使館',
+    def: 'embassy',
+    romaji: '[tai-shikan]',
+    speech_part: 'NOUN',
+    id:874
+  },
+  {
+    kanji: '台風 ',
+    def: 'typhoon',
+    romaji: '[taifū]',
+    speech_part: 'NOUN',
+    id:875
+  },
+  {
+    kanji: '太陽',
+    def: 'sun',
+    romaji: '[taiyō]',
+    speech_part: 'NOUN',
+    id:876
+  },
+  {
+    kanji: '倒れる',
+    def: 'fall over',
+    romaji: '[taoreru]',
+    speech_part: 'VERB',
+    id:877
+  },
+  {
+    kanji: '高さ',
+    def: 'height',
+    romaji: '[takasa]',
+    speech_part: 'NOUN',
+    id:878
+  },
+  {
+    kanji: 'タクシー',
+    def: 'taxi',
+    romaji: '[takushī]',
+    speech_part: 'NOUN',
+    id:879
+  },
+  {
+    kanji: '確か',
+    def: 'for sure, for certain',
+    romaji: '[tashika]',
+    speech_part: 'ADJ. NOUN',
+    id:880
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:86
+  //   id:88
   // },
 ];
 
