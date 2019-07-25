@@ -491,7 +491,7 @@ const JapData = [
   },
   {
     kanji: '席',
-    def: 'seat. ones place',
+    def: 'seat, ones place',
     romaji: '[seki]',
     speech_part: 'NOUN',
     id:871
@@ -559,12 +559,152 @@ const JapData = [
     speech_part: 'ADJ. NOUN',
     id:880
   },
+  {
+    kanji: '訪ねる',
+    def: 'visit, go to see',
+    romaji: '[tazureru]',
+    speech_part: 'VERB',
+    id:881
+  },
+  {
+    kanji: '正しい',
+    def: 'correct, rightous',
+    romaji: '[tadashī]',
+    speech_part: 'ADJ.',
+    id:882
+  },
+  {
+    kanji: '立てる',
+    def: 'set up, stand',
+    romaji: '[tateru]',
+    speech_part: 'VERB',
+    id:883
+  },
+  {
+    kanji: '例えば',
+    def: 'for example',
+    romaji: '[tatoeba]',
+    speech_part: 'ADV.',
+    id:884
+  },
+  {
+    kanji: '頼む',
+    def: 'order, ask for',
+    romaji: '[tanomu]',
+    speech_part: 'VERB',
+    id:885
+  },
+  {
+    kanji: '地図',
+    def: 'map',
+    romaji: '[chizu]',
+    speech_part: 'NOUN',
+    id:886
+  },
+  {
+    kanji: '中学',
+    def: 'junior high',
+    romaji: '[chūgaku]',
+    speech_part: 'NOUN',
+    id:887
+  },
+  {
+    kanji: '中学生',
+    def: 'junior high student',
+    romaji: '[chūgakusei]',
+    speech_part: 'NOUN',
+    id:888
+  },
+  {
+    kanji: '長男',
+    def: 'eldest son',
+    romaji: '[chōnan]',
+    speech_part: 'NOUN',
+    id:889
+  },
+  {
+    kanji: '着く',
+    def: 'arrive at, reach',
+    romaji: '[tsuku]',
+    speech_part: 'VERB',
+    id:890
+  },
+  {
+    kanji: 'つもり',
+    def: 'intention, purpose',
+    romaji: '[tsumori]',
+    speech_part: 'NOUN',
+    id:891
+  },
+  {
+    kanji: '決まる',
+    def: 'be decided',
+    romaji: '[kimaru]',
+    speech_part: 'VERB',
+    id:892
+  },
+  {
+    kanji: '位置',
+    def: 'position, location',
+    romaji: '[ichi] (2)',
+    speech_part: 'VERBAL NOUN',
+    id:893
+  },
+  {
+    kanji: '時代',
+    def: 'age, era',
+    romaji: '[jidai]',
+    speech_part: 'NOUN',
+    id:894
+  },
+  {
+    kanji: '用',
+    def: 'things to do',
+    romaji: '[yō]',
+    speech_part: 'NOUN',
+    id:895
+  },
+  {
+    kanji: '一緒',
+    def: 'together, same (casual)',
+    romaji: '[issho]',
+    speech_part: 'VERBAL NOUN',
+    id:896
+  },
+  {
+    kanji: '戸',
+    def: 'door, sliding door',
+    romaji: '[to]',
+    speech_part: 'NOUN',
+    id:897
+  },
+  {
+    kanji: '遠く',
+    def: 'far away, distance',
+    romaji: '[tōku]',
+    speech_part: 'NOUN',
+    id:898
+  },
+  {
+    kanji: '通り',
+    def: 'street, road',
+    romaji: '[tōri]',
+    speech_part: 'NOUN',
+    id:899
+  },
+  {
+    kanji: '通る',
+    def: 'pass, go through',
+    romaji: '[tōru]',
+    speech_part: 'VERB',
+    id:900
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:88
+  //   id:89
   // },
 ];
 
