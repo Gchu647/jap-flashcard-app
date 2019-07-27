@@ -279,12 +279,152 @@ const JapData = [
     speech_part: 'ADV.',
     id:940
   },
+  {
+    kanji: '夕方',
+    def: 'early evening, at dusk',
+    romaji: '[yūgata]',
+    speech_part: 'NOUN',
+    id:941
+  },
+  {
+    kanji: '有名',
+    def: 'famous',
+    romaji: '[yūmei]',
+    speech_part: 'ADJ.',
+    id:942
+  },
+  {
+    kanji: '夢',
+    def: 'dream',
+    romaji: '[yume]',
+    speech_part: 'NOUN',
+    id:943
+  },
+  {
+    kanji: '用意',
+    def: 'preparation',
+    romaji: '[yōi]',
+    speech_part: 'VERBAL NOUN',
+    id:944
+  },
+  {
+    kanji: '横',
+    def: 'side, width (measurement)',
+    romaji: '[yoko]',
+    speech_part: 'NOUN',
+    id:945
+  },
+  {
+    kanji: '喜ぶ',
+    def: 'be happy, be delighted',
+    romaji: '[yorokobu]',
+    speech_part: 'VERB',
+    id:946
+  },
+  {
+    kanji: '来月',
+    def: 'next month',
+    romaji: '[raigetsu]',
+    speech_part: 'NOUN',
+    id:947
+  },
+  {
+    kanji: 'ラジオ',
+    def: 'radio',
+    romaji: '[rajio]',
+    speech_part: 'NOUN',
+    id:948
+  },
+  {
+    kanji: '留学',
+    def: 'studying abroad',
+    romaji: '[ryūgaku]',
+    speech_part: 'VERBAL NOUN',
+    id:949
+  },
+  {
+    kanji: '両方',
+    def: 'both',
+    romaji: '[ryōhō]',
+    speech_part: 'NOUN',
+    id:950
+  },
+  {
+    kanji: '料理',
+    def: 'cooking, dish',
+    romaji: '[ryōri]',
+    speech_part: 'VERBAL NOUN',
+    id:951
+  },
+  {
+    kanji: '旅行',
+    def: 'travel, trip',
+    romaji: '[ryokō]',
+    speech_part: 'VERBAL NOUN',
+    id:952
+  },
+  {
+    kanji: 'レコード',
+    def: 'record',
+    romaji: '[rekōdo]',
+    speech_part: 'NOUN',
+    id:953
+  },
+  {
+    kanji: '分かれる',
+    def: 'be divided, split off',
+    romaji: '[wakareru]',
+    speech_part: 'VERB',
+    id:954
+  },
+  {
+    kanji: '特別',
+    def: 'special',
+    romaji: '[tokubetsu]',
+    speech_part: 'ADJ. NOUN',
+    id:955
+  },
+  {
+    kanji: '渡す',
+    def: 'hand over, give',
+    romaji: '[watasu]',
+    speech_part: 'VERB',
+    id:956
+  },
+  {
+    kanji: '女性',
+    def: 'woman, female (formal)',
+    romaji: '[josei]',
+    speech_part: 'NOUN',
+    id:957
+  },
+  {
+    kanji: '一部',
+    def: 'part',
+    romaji: '[ichibu]',
+    speech_part: 'NOUN',
+    id:958
+  },
+  {
+    kanji: '理由',
+    def: 'reason, excuse',
+    romaji: '[riyū]',
+    speech_part: 'NOUN',
+    id:959
+  },
+  {
+    kanji: '自由',
+    def: 'freedom',
+    romaji: '[jiyū]',
+    speech_part: 'ADJ. NOUN',
+    id:960
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:94
+  //   id:96
   // },
 ];
 
