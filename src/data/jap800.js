@@ -169,7 +169,7 @@ const JapData = [
   },
   {
     kanji: 'アパート',
-    def: 'apartment, flat',
+    def: 'apartment (one or two story)',
     romaji: '[apāto]',
     speech_part: 'NOUN',
     id:725

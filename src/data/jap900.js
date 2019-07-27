@@ -698,14 +698,7 @@ const JapData = [
     romaji: '[tōru]',
     speech_part: 'VERB',
     id:900
-  },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:89
-  // },
+  }
 ];
 
 export default JapData;
