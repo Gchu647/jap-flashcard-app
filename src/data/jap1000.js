@@ -419,12 +419,152 @@ const JapData = [
     speech_part: 'ADJ. NOUN',
     id:960
   },
+  {
+    kanji: '方向',
+    def: 'direction, course',
+    romaji: '[hōkō]',
+    speech_part: 'NOUN',
+    id:961
+  },
+  {
+    kanji: '残る',
+    def: 'remain, be left over',
+    romaji: '[nokoru]',
+    speech_part: 'VERB',
+    id:962
+  },
+  {
+    kanji: '自動車',
+    def: 'automobile',
+    romaji: '[jidōsha]',
+    speech_part: 'NOUN',
+    id:963
+  },
+  {
+    kanji: 'ビル',
+    def: 'building (loan word)',
+    romaji: 'biru',
+    speech_part: 'NOUN',
+    id:964
+  },
+  {
+    kanji: 'まとめる',
+    def: 'gather together, put in order',
+    romaji: '[matomeru]',
+    speech_part: 'VERB',
+    id:965
+  },
+  {
+    kanji: '踊る',
+    def: 'dance',
+    romaji: '[modoru]',
+    speech_part: 'VERB',
+    id:966
+  },
+  {
+    kanji: '厚さ',
+    def: 'thickness',
+    romaji: '[atsu-sa]',
+    speech_part: 'NOUN',
+    id:967
+  },
+  {
+    kanji: 'セーター',
+    def: 'sweater',
+    romaji: '[sētā]',
+    speech_part: 'NOUN',
+    id:968
+  },
+  {
+    kanji: 'シャツ',
+    def: 'shirt',
+    romaji: '[shatsu]',
+    speech_part: 'NOUN',
+    id:969
+  },
+  {
+    kanji: '真ん中',
+    def: 'center, middle (casual)',
+    romaji: '[manaka]',
+    speech_part: 'NOUN',
+    id:970
+  },
+  {
+    kanji: '間違える',
+    def: 'make a (careless) mistake',
+    romaji: '[machigeru]',
+    speech_part: 'VERB',
+    id:971
+  },
+  {
+    kanji: 'アイスクリーム',
+    def: 'ice cream',
+    romaji: '[aisukurīmu]',
+    speech_part: 'NOUN',
+    id:972
+  },
+  {
+    kanji: '素晴らしい',
+    def: 'excellent, wonderful',
+    romaji: '[subarashi]',
+    speech_part: 'ADJ.',
+    id:973
+  },
+  {
+    kanji: '乾く',
+    def: 'become dry',
+    romaji: '[kawaku]',
+    speech_part: 'VERB',
+    id:974
+  },
+  {
+    kanji: 'つまらない',
+    def: 'boring, dull',
+    romaji: '[tsumaranai]',
+    speech_part: 'ADJ.',
+    id:975
+  },
+  {
+    kanji: '冷める',
+    def: 'cool off',
+    romaji: '[sameru]',
+    speech_part: 'VERB',
+    id:976
+  },
+  {
+    kanji: '色々',
+    def: 'variety of',
+    romaji: '[iro-iro]',
+    speech_part: 'ADJ. NOUN',
+    id:977
+  },
+  {
+    kanji: '持って行く',
+    def: 'take, bring',
+    romaji: '[motte-iku]',
+    speech_part: 'VERB',
+    id:978
+  },
+  {
+    kanji: '東',
+    def: 'east, eastern',
+    romaji: '[higashi]',
+    speech_part: 'NOUN',
+    id:979
+  },
+  {
+    kanji: '西',
+    def: 'west, western',
+    romaji: '[nishi]',
+    speech_part: 'NOUN',
+    id:980
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:96
+  //   id:97
   // },
 ];
 
