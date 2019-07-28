@@ -559,12 +559,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:980
   },
+  {
+    kanji: '着替える',
+    def: 'changes clothes',
+    romaji: '[kigaeru]',
+    speech_part: 'VERB',
+    id:981
+  },
+  {
+    kanji: '石鹸',
+    def: 'soap',
+    romaji: '[sekkan]',
+    speech_part: 'NOUN',
+    id:982
+  },
+  {
+    kanji: '洗濯',
+    def: 'laundry, washing',
+    romaji: '[sentaku]',
+    speech_part: 'VERBAL NOUN',
+    id:983
+  },
+  {
+    kanji: '昼食',
+    def: 'lunch (formal)',
+    romaji: '[chūshoku]',
+    speech_part: 'NOUN',
+    id:984
+  },
+  {
+    kanji: '朝食',
+    def: 'breakfast (formal)',
+    romaji: '[chōshoku]',
+    speech_part: 'NOUN',
+    id:985
+  },
+  {
+    kanji: '眠る',
+    def: 'sleep, lie idle',
+    romaji: '[nemuru]',
+    speech_part: 'VERB',
+    id:986
+  },
+  {
+    kanji: '初め',
+    def: 'first, beginning',
+    romaji: '[hajime]',
+    speech_part: 'NOUN',
+    id:987
+  },
+  {
+    kanji: '火',
+    def: 'fire, flame',
+    romaji: '[hi]',
+    speech_part: 'NOUN',
+    id:988
+  },
+  {
+    kanji: '南',
+    def: 'south',
+    romaji: '[minami]',
+    speech_part: 'NOUN',
+    id:989
+  },
+  {
+    kanji: '夕食',
+    def: 'supper, dinner (formal)',
+    romaji: '[yūshoku]',
+    speech_part: 'NOUN',
+    id:990
+  },
+  {
+    kanji: 'いつも (2)',
+    def: 'always, usually',
+    romaji: '[itsumo]',
+    speech_part: 'NOUN',
+    id:991
+  },
+  {
+    kanji: 'なかなか',
+    def: 'pretty, considerably',
+    romaji: '[nakanaka]',
+    speech_part: 'ADV.',
+    id:992
+  },
+  {
+    kanji: '励ます',
+    def: 'encourage, cheer up',
+    romaji: '[hagemasu]',
+    speech_part: 'VERB',
+    id:993
+  },
+  {
+    kanji: '日時',
+    def: 'date and time',
+    romaji: '[nichiji]',
+    speech_part: 'NOUN',
+    id:994
+  },
+  {
+    kanji: '職場',
+    def: 'place of work, office',
+    romaji: '[shokuba]',
+    speech_part: 'NOUN',
+    id:995
+  },
+  {
+    kanji: 'エレベーター',
+    def: 'elevator',
+    romaji: '[erebētā]',
+    speech_part: 'NOUN',
+    id:996
+  },
+  {
+    kanji: '愛',
+    def: 'love',
+    romaji: '[ai]',
+    speech_part: 'VERBAL NOUN',
+    id:997
+  },
+  {
+    kanji: '挨拶',
+    def: 'greet, greeting',
+    romaji: '[aisatsu]',
+    speech_part: 'VERBAL NOUN',
+    id:998
+  },
+  {
+    kanji: '遭う',
+    def: 'encounter, get caught in',
+    romaji: '[au] (3)',
+    speech_part: 'VERB',
+    id:999
+  },
+  {
+    kanji: '赤ちゃん',
+    def: 'baby (casual)',
+    romaji: '[akachan]',
+    speech_part: 'NOUN',
+    id:1000
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:97
+  //   id:100
   // },
 ];
 
