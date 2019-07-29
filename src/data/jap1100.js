@@ -139,12 +139,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1020
   },
+  {
+    kanji: '恐ろしい',
+    def: 'terrible, awful',
+    romaji: '[osoroshī]',
+    speech_part: 'ADJ.',
+    id:1021
+  },
+  {
+    kanji: '一昨年',
+    def: 'the year before last (casual)',
+    romaji: '[ototoshi]',
+    speech_part: 'NOUN',
+    id:1022
+  },
+  {
+    kanji: '思い出',
+    def: 'memory',
+    romaji: '[omoide]',
+    speech_part: 'NOUN',
+    id:1023
+  },
+  {
+    kanji: '重さ',
+    def: 'weight',
+    romaji: '[omoki]',
+    speech_part: 'NOUN',
+    id:1024
+  },
+  {
+    kanji: 'おもちゃ',
+    def: 'toy, plaything',
+    romaji: '[omocha]',
+    speech_part: 'NOUN',
+    id:1025
+  },
+  {
+    kanji: '泳ぐ',
+    def: 'swim',
+    romaji: '[oyogu]',
+    speech_part: 'VERB',
+    id:1026
+  },
+  {
+    kanji: '課',
+    def: 'section, division',
+    romaji: '[ka]',
+    speech_part: 'NOUN',
+    id:1027
+  },
+  {
+    kanji: 'カード',
+    def: 'card',
+    romaji: '[kādo]',
+    speech_part: 'NOUN',
+    id:1028
+  },
+  {
+    kanji: '外人',
+    def: 'foreigner, alien',
+    romaji: '[gaijin]',
+    speech_part: 'NOUN',
+    id:1029
+  },
+  {
+    kanji: '階段',
+    def: 'steps, flight of stairs',
+    romaji: '[kaidan]',
+    speech_part: 'NOUN',
+    id:1030
+  },
+  {
+    kanji: '帰り',
+    def: 'return, going home',
+    romaji: '[kaeru]',
+    speech_part: 'VERB',
+    id:1031
+  },
+  {
+    kanji: '貸す',
+    def: 'lend, lease',
+    romaji: '[kasu]',
+    speech_part: 'VERB',
+    id:1032
+  },
+  {
+    kanji: '数える',
+    def: 'count',
+    romaji: '[kazoeru]',
+    speech_part: 'VERB',
+    id:1033
+  },
+  {
+    kanji: '金持ち',
+    def: 'wealthy person',
+    romaji: '[kane-mochi]',
+    speech_part: 'wealthy person',
+    id:1034
+  },
+  {
+    kanji: 'カラー',
+    def: 'color (loan word)',
+    romaji: '[karā]',
+    speech_part: 'NOUN',
+    id:1035
+  },
+  {
+    kanji: '気温',
+    def: 'air temperature',
+    romaji: '[kion]',
+    speech_part: 'NOUN',
+    id:1036
+  },
+  {
+    kanji: 'キャンプ',
+    def: 'camping, camp',
+    romaji: '[kyanpu]',
+    speech_part: 'VERBAL NOUN',
+    id:1037
+  },
+  {
+    kanji: '休日',
+    def: 'day off, holiday',
+    romaji: '[kyūjitsu]',
+    speech_part: 'NOUN',
+    id:1038
+  },
+  {
+    kanji: '銀',
+    def: 'silver',
+    romaji: '[gin]',
+    speech_part: 'NOUN',
+    id:1039
+  },
+  {
+    kanji: '靴',
+    def: 'shoes',
+    romaji: '[kutsu]',
+    speech_part: 'NOUN',
+    id:1040
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:102
+  //   id:104
   // },
 ];
 
