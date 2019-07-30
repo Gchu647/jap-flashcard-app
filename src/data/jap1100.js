@@ -279,12 +279,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1040
   },
+  {
+    kanji: '配る',
+    def: 'hand out, distribute',
+    romaji: '[kubaru]',
+    speech_part: 'VERB',
+    id:1041
+  },
+  {
+    kanji: 'グラム',
+    def: 'gram',
+    romaji: '[guramu]',
+    speech_part: 'NOUN',
+    id:1042
+  },
+  {
+    kanji: '組み立てる',
+    def: 'set up, put together',
+    romaji: '[kumitateru]',
+    speech_part: 'VERB',
+    id:1043
+  },
+  {
+    kanji: '黒',
+    def: 'black color',
+    romaji: '[kuro]',
+    speech_part: 'NOUN',
+    id:1044
+  },
+  {
+    kanji: '蹴る',
+    def: 'kick',
+    romaji: '[keru]',
+    speech_part: 'VERB',
+    id:1045
+  },
+  {
+    kanji: '濃い',
+    def: 'concentrated, strength',
+    romaji: '[koi]',
+    speech_part: 'ADJ.',
+    id:1046
+  },
+  {
+    kanji: '交通事故',
+    def: 'traffic accident',
+    romaji: '[kōtsū jiko]',
+    speech_part: 'NOUN',
+    id:1047
+  },
+  {
+    kanji: 'コート',
+    def: 'coat, jacket (loan word)',
+    romaji: '[kōto]',
+    speech_part: 'NOUN',
+    id:1048
+  },
+  {
+    kanji: '氷',
+    def: 'ice',
+    romaji: '[kōri]',
+    speech_part: 'NOUN',
+    id:1049
+  },
+  {
+    kanji: '断る',
+    def: 'refuse, turn down',
+    romaji: '[koto-waru]',
+    speech_part: 'VERB',
+    id:1050
+  },
+  {
+    kanji: 'コピー',
+    def: 'copy, photocopy',
+    romaji: '[kopī]',
+    speech_part: 'NOUN',
+    id:1051
+  },
+  {
+    kanji: '壊す',
+    def: 'break (something), destory',
+    romaji: '[kowasu]',
+    speech_part: 'VERB',
+    id:1052
+  },
+  {
+    kanji: '下がる',
+    def: 'go down, drop',
+    romaji: '[sagaru]',
+    speech_part: 'VERB',
+    id:1053
+  },
+  {
+    kanji: '咲く',
+    def: 'bloom, blossom',
+    romaji: '[saku]',
+    speech_part: 'VERB',
+    id:1054
+  },
+  {
+    kanji: '桜',
+    def: 'cherry tree, cherry blossom',
+    romaji: '[sakura]',
+    speech_part: 'NOUN',
+    id:1055
+  },
+  {
+    kanji: '刺す',
+    def: 'sting, stab',
+    romaji: '[sasu]',
+    speech_part: 'VERB',
+    id:1056
+  },
+  {
+    kanji: '散歩',
+    def: 'walk, stroll',
+    romaji: '[sanpo]',
+    speech_part: 'VERBAL NOUN',
+    id:1057
+  },
+  {
+    kanji: '幸せ',
+    def: 'happiness, satisfied (casual)',
+    romaji: '[shiawase]',
+    speech_part: 'ADJ. NOUN',
+    id:1058
+  },
+  {
+    kanji: '仕方',
+    def: 'way, method',
+    romaji: '[shikata]',
+    speech_part: 'NOUN',
+    id:1059
+  },
+  {
+    kanji: '敷く',
+    def: 'lay, spread',
+    romaji: '[shiku]',
+    speech_part: 'VERB',
+    id:1060
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:104
+  //   id:106
   // },
 ];
 
