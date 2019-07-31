@@ -419,12 +419,152 @@ const JapData = [
     speech_part: 'VERB',
     id:1060
   },
+  {
+    kanji: '沈む',
+    def: 'sink',
+    romaji: '[shizumu]',
+    speech_part: 'VERB',
+    id:1061
+  },
+  {
+    kanji: '親しい',
+    def: 'intimate, close',
+    romaji: '[shitashī]',
+    speech_part: 'ADJ.',
+    id:1062
+  },
+  {
+    kanji: '品物',
+    def: 'products, goods',
+    romaji: '[shina-momo]',
+    speech_part: 'NOUN',
+    id:1063
+  },
+  {
+    kanji: '修理',
+    def: 'repair, mending',
+    romaji: 'hūri',
+    speech_part: 'VERBAL NOUN',
+    id:1064
+  },
+  {
+    kanji: '趣味',
+    def: 'hobby, interest',
+    romaji: '[shumi]',
+    speech_part: 'NOUN',
+    id:1065
+  },
+  {
+    kanji: '小学生',
+    def: 'elementary school student',
+    romaji: '[shōgakusei]',
+    speech_part: 'NOUN',
+    id:1066
+  },
+  {
+    kanji: '正月',
+    def: 'new year',
+    romaji: '[shōgatsu]',
+    speech_part: 'NOUN',
+    id:1067
+  },
+  {
+    kanji: '招待',
+    def: 'invitation',
+    romaji: '[shōtai]',
+    speech_part: 'VERBAL NOUN',
+    id:1068
+  },
+  {
+    kanji: '食堂',
+    def: 'cafeteria, canteen',
+    romaji: '[shokudō]',
+    speech_part: 'NOUN',
+    id:1069
+  },
+  {
+    kanji: '新幹線',
+    def: 'bullet train',
+    romaji: '[shinkasen]',
+    speech_part: 'NOUN',
+    id:1070
+  },
+  {
+    kanji: '親切',
+    def: 'kind, kindhearted',
+    romaji: '[shinsetsu]',
+    speech_part: 'ADJ. NOUN',
+    id:1071
+  },
+  {
+    kanji: '吸う',
+    def: 'inhale, suck',
+    romaji: '[suu]',
+    speech_part: 'VERB',
+    id:1072
+  },
+  {
+    kanji: 'スキー',
+    def: 'ski, skiing',
+    romaji: '[sukī]',
+    speech_part: 'NOUN',
+    id:1073
+  },
+  {
+    kanji: '凄い',
+    def: 'great, incredible',
+    romaji: '[sugoi]',
+    speech_part: 'ADJ.',
+    id:1074
+  },
+  {
+    kanji: '是非',
+    def: 'by all means, please',
+    romaji: '[zehi]',
+    speech_part: 'ADV.',
+    id:1075
+  },
+  {
+    kanji: '先月',
+    def: 'last month',
+    romaji: '[sengetsu]',
+    speech_part: 'NOUN',
+    id:1076
+  },
+  {
+    kanji: '育つ',
+    def: 'be brought up, grow',
+    romaji: '[sodatsu]',
+    speech_part: 'VERB',
+    id:1077
+  },
+  {
+    kanji: '大学院',
+    def: 'graduate school',
+    romaji: '[dai-gakuin]',
+    speech_part: 'NOUN',
+    id:1078
+  },
+  {
+    kanji: '台所',
+    def: 'kitchen',
+    romaji: '[dai-dokoro]',
+    speech_part: 'NOUN',
+    id:1079
+  },
+  {
+    kanji: '尋ねる',
+    def: 'inquire, ask',
+    romaji: '[tazuneru]',
+    speech_part: 'VERB',
+    id:1080
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:106
+  //   id:1081
   // },
 ];
 
