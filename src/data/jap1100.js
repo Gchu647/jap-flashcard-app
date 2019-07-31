@@ -698,14 +698,7 @@ const JapData = [
     romaji: '[chūmon]',
     speech_part: 'VERBAL NOUN',
     id:1100
-  },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:110
-  // },
+  }
 ];
 
 export default JapData;
