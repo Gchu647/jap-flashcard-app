@@ -559,12 +559,152 @@ const JapData = [
     speech_part: 'VERB',
     id:1080
   },
+  {
+    kanji: '叩く',
+    def: 'tap, hit',
+    romaji: '[tataku]',
+    speech_part: 'VERB',
+    id:1081
+  },
+  {
+    kanji: '建つ',
+    def: 'be built, be erected',
+    romaji: '[tatsu]',
+    speech_part: 'VERB',
+    id:1082
+  },
+  {
+    kanji: '卵',
+    def: 'egg',
+    romaji: '[tamago]',
+    speech_part: 'NOUN',
+    id:1083
+  },
+  {
+    kanji: '留学生',
+    def: 'study abroad student',
+    romaji: '[ryūgaku-sei]',
+    speech_part: 'NOUN',
+    id:1084
+  },
+  {
+    kanji: 'ソフト',
+    def: 'software, program',
+    romaji: '[sofuto]',
+    speech_part: 'NOUN',
+    id:1085
+  },
+  {
+    kanji: '歯医者',
+    def: 'dentist',
+    romaji: '[haisha]',
+    speech_part: 'NOUN',
+    id:1086
+  },
+  {
+    kanji: '冬休み',
+    def: 'winter vacation',
+    romaji: '[fuyu-yasumi]',
+    speech_part: 'NOUN',
+    id:1087
+  },
+  {
+    kanji: '二十歳',
+    def: '20 years old',
+    romaji: '[hataji]',
+    speech_part: 'NOUN',
+    id:1088
+  },
+  {
+    kanji: '夏休み',
+    def: 'summer vacation',
+    romaji: '[natsu-yasumi]',
+    speech_part: 'NOUN',
+    id:1089
+  },
+  {
+    kanji: 'すり',
+    def: 'pickpocket person',
+    romaji: '[suri]',
+    speech_part: 'NOUN',
+    id:1090
+  },
+  {
+    kanji: '君',
+    def: 'you (referring to fellow or subordinates)',
+    romaji: '[kimi]',
+    speech_part: 'NOUN',
+    id:1091
+  },
+  {
+    kanji: '絶対',
+    def: 'absolutely, never',
+    romaji: '[zettai]',
+    speech_part: 'ADV.',
+    id:1092
+  },
+  {
+    kanji: '連絡',
+    def: 'contact, communication',
+    romaji: '[renraku]',
+    speech_part: 'VERBAL NOUN',
+    id:1093
+  },
+  {
+    kanji: '大人',
+    def: 'adult',
+    romaji: '[otona]',
+    speech_part: 'ADJ.',
+    id:1094
+  },
+  {
+    kanji: 'たまに',
+    def: 'occasionally, sometimes',
+    romaji: '[tamani]',
+    speech_part: 'ADV.',
+    id:1095
+  },
+  {
+    kanji: '伝言',
+    def: 'message (left by someone)',
+    romaji: '[dengon]',
+    speech_part: 'VERBAL NOUN',
+    id:1096
+  },
+  {
+    kanji: '足りる',
+    def: 'suffice, be enough',
+    romaji: '[tariru]',
+    speech_part: 'VERB',
+    id:1097
+  },
+  {
+    kanji: '地下鉄',
+    def: 'subway',
+    romaji: '[chikatetsu]',
+    speech_part: 'NOUN',
+    id:1098
+  },
+  {
+    kanji: '駐車場',
+    def: 'parking lot',
+    romaji: '[chūshajō]',
+    speech_part: 'NOUN',
+    id:1099
+  },
+  {
+    kanji: '注文',
+    def: 'order',
+    romaji: '[chūmon]',
+    speech_part: 'VERBAL NOUN',
+    id:1100
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:1081
+  //   id:110
   // },
 ];
 
