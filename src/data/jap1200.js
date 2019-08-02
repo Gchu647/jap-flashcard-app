@@ -279,12 +279,152 @@ const JapData = [
     speech_part: 'ADJ. NOUN',
     id:1140
   },
+  {
+    kanji: '便利',
+    def: 'convenience',
+    romaji: '[benri]',
+    speech_part: 'ADJ. NOUN',
+    id:1141
+  },
+  {
+    kanji: 'ボート',
+    def: 'small boat',
+    romaji: '[bōto]',
+    speech_part: 'NOUN',
+    id:1142
+  },
+  {
+    kanji: 'ホーム',
+    def: 'platform',
+    romaji: '[hōmu]',
+    speech_part: 'NOUN',
+    id:1143
+  },
+  {
+    kanji: 'ボール',
+    def: 'ball',
+    romaji: '[bōru]',
+    speech_part: 'NOUN',
+    id:1144
+  },
+  {
+    kanji: '毎週',
+    def: 'every week',
+    romaji: '[maishū]',
+    speech_part: 'NOUN',
+    id:1145
+  },
+  {
+    kanji: '毎年',
+    def: 'every year (formal)',
+    romaji: '[maitoshi]',
+    speech_part: 'NOUN',
+    id:1146
+  },
+  {
+    kanji: '巻く',
+    def: 'roll up, wrap',
+    romaji: 'VERB',
+    speech_part: '[maku]',
+    id:1147
+  },
+  {
+    kanji: '真っ赤',
+    def: 'deep red',
+    romaji: '[makka]',
+    speech_part: 'NOUN',
+    id:1148
+  },
+  {
+    kanji: '祭り',
+    def: 'festival',
+    romaji: '[matsuri]',
+    speech_part: 'NOUN',
+    id:1149
+  },
+  {
+    kanji: '間に合う',
+    def: 'be in time, suffice',
+    romaji: '[maniau]',
+    speech_part: 'VERB',
+    id:1150
+  },
+  {
+    kanji: '回す',
+    def: 'turn, rotate (something)',
+    romaji: '[mawasu]',
+    speech_part: 'VERB',
+    id:1151
+  },
+  {
+    kanji: '見送る',
+    def: 'see (someone) off',
+    romaji: '[mio-kuru]',
+    speech_part: 'VERB',
+    id:1152
+  },
+  {
+    kanji: '右手',
+    def: 'right hand',
+    romaji: '[migide]',
+    speech_part: 'NOUN',
+    id:1153
+  },
+  {
+    kanji: '未来',
+    def: 'future',
+    romaji: '[mirai]',
+    speech_part: 'NOUN',
+    id:1154
+  },
+  {
+    kanji: '向く',
+    def: 'turn, face',
+    romaji: '[muku]',
+    speech_part: 'VERB',
+    id:1155
+  },
+  {
+    kanji: '迷惑',
+    def: 'trouble, annoyance',
+    romaji: '[meiwaku]',
+    speech_part: 'VERBAL NOUN',
+    id:1156
+  },
+  {
+    kanji: 'メモ',
+    def: 'memo, note',
+    romaji: '[memo]',
+    speech_part: 'NOUN',
+    id:1157
+  },
+  {
+    kanji: '燃える',
+    def: 'burn, catch on fire',
+    romaji: '[moeru]',
+    speech_part: 'VERB',
+    id:1158
+  },
+  {
+    kanji: '家賃',
+    def: 'rent (fee)',
+    romaji: '[yachin]',
+    speech_part: 'NOUN',
+    id:1159
+  },
+  {
+    kanji: '屋根',
+    def: 'roof',
+    romaji: '[yane]',
+    speech_part: 'NOUN',
+    id:1160
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:114
+  //   id:116
   // },
 ];
 
