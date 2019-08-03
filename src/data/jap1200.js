@@ -419,12 +419,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1160
   },
+  {
+    kanji: '破る',
+    def: 'tear, breach',
+    romaji: '[yaburu]',
+    speech_part: 'VERB',
+    id:1161
+  },
+  {
+    kanji: '辞める',
+    def: 'resign, leave ones job',
+    romaji: 'yameru (2)',
+    speech_part: 'VERB',
+    id:1162
+  },
+  {
+    kanji: '揺れる',
+    def: 'shake, sway',
+    romaji: '[yureru]',
+    speech_part: 'VERB',
+    id:1163
+  },
+  {
+    kanji: '予約',
+    def: 'reservation, appointment',
+    romaji: '[yoyaku]',
+    speech_part: 'VERBAL NOUN',
+    id:1164
+  },
+  {
+    kanji: '離婚',
+    def: 'divorce',
+    romaji: 'rikon',
+    speech_part: 'VERBAL NOUN',
+    id:1165
+  },
+  {
+    kanji: '立派',
+    def: 'fine, elegant',
+    romaji: '[rippa]',
+    speech_part: 'ADJ. NOUN',
+    id:1166
+  },
+  {
+    kanji: '旅館',
+    def: 'Japanese inn',
+    romaji: '[ryokan]',
+    speech_part: 'NOUN',
+    id:1167
+  },
+  {
+    kanji: 'レストラン',
+    def: 'restaurant',
+    romaji: '[resutoran]',
+    speech_part: 'NOUN',
+    id:1168
+  },
+  {
+    kanji: '練習',
+    def: 'practice',
+    romaji: '[renshū]',
+    speech_part: 'VERB',
+    id:1169
+  },
+  {
+    kanji: '廊下',
+    def: 'hallway, corridor',
+    romaji: '[rōka]',
+    speech_part: 'NOUN',
+    id:1170
+  },
+  {
+    kanji: '録音',
+    def: '(sound) recording',
+    romaji: '[rokuon]',
+    speech_part: 'NOUN',
+    id:1171
+  },
+  {
+    kanji: 'ワイン',
+    def: 'wine',
+    romaji: '[wain]',
+    speech_part: 'NOUN',
+    id:1172
+  },
+  {
+    kanji: '渡る',
+    def: 'cross, go across',
+    romaji: 'wataru',
+    speech_part: '[VERB]',
+    id:1173
+  },
+  {
+    kanji: '割る',
+    def: 'divide, split',
+    romaji: '[waru]',
+    speech_part: 'VERB',
+    id:1174
+  },
+  {
+    kanji: '計画',
+    def: 'plan',
+    romaji: '[keikaku]',
+    speech_part: 'VERBAL NOUN',
+    id:1175
+  },
+  {
+    kanji: '関係',
+    def: 'relation, relationship',
+    romaji: '[kankei]',
+    speech_part: 'VERBAL NOUN',
+    id:1176
+  },
+  {
+    kanji: '部分',
+    def: 'part, section',
+    romaji: '[bubun]',
+    speech_part: 'NOUN',
+    id:1177
+  },
+  {
+    kanji: '訪れる',
+    def: 'go and visit (place)',
+    romaji: '[otozureru]',
+    speech_part: 'VERB',
+    id:1178
+  },
+  {
+    kanji: '材料',
+    def: 'material, ingredient',
+    romaji: '[zairyō]',
+    speech_part: 'NOUN',
+    id:1179
+  },
+  {
+    kanji: '注目',
+    def: 'attention, notice',
+    romaji: '[chūmoku]',
+    speech_part: 'VERBAL NOUN',
+    id:1180
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:116
+  //   id:118
   // },
 ];
 
