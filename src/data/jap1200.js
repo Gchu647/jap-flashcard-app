@@ -176,7 +176,7 @@ const JapData = [
   },
   {
     kanji: '番号',
-    def: 'assigned (phone) number',
+    def: 'assigned number',
     romaji: '[bangō]',
     speech_part: 'NOUN',
     id:1126
