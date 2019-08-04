@@ -559,13 +559,153 @@ const JapData = [
     speech_part: 'VERBAL NOUN',
     id:1180
   },
+  {
+    kanji: '招く',
+    def: 'invite',
+    romaji: '[maneku]',
+    speech_part: 'VERB',
+    id:1181
+  },
+  {
+    kanji: '急 ',
+    def: 'urgent, steep',
+    romaji: '[kyū]',
+    speech_part: 'ADJ. NOUN',
+    id:1182
+  },
+  {
+    kanji: '引っ越す',
+    def: 'move, relocate',
+    romaji: '[hikkosu]',
+    speech_part: 'VERB',
+    id:1183
+  },
+  {
+    kanji: 'ソファー',
+    def: 'sofa, couch',
+    romaji: '[sofā]',
+    speech_part: 'NOUN',
+    id:1184
+  },
+  {
+    kanji: '拭く',
+    def: 'wipe, dry',
+    romaji: '[fuku] (2)',
+    speech_part: 'VERB',
+    id:1185
+  },
+  {
+    kanji: '豚肉',
+    def: 'pork',
+    romaji: '[butaniku]',
+    speech_part: 'NOUN',
+    id:1186
+  },
+  {
+    kanji: '焼く',
+    def: 'bake, grill',
+    romaji: '[yaku]',
+    speech_part: 'VERB',
+    id:1187
+  },
+  {
+    kanji: '痩せる',
+    def: 'lose weight, become thin',
+    romaji: '[yaseru]',
+    speech_part: 'VERB',
+    id:1188
+  },
+  {
+    kanji: '汚れる',
+    def: 'become dirty',
+    romaji: '[yogoreru]',
+    speech_part: 'VERB',
+    id:1189
+  },
+  {
+    kanji: 'そんなに',
+    def: 'so much',
+    romaji: '[son-nai]',
+    speech_part: 'ADV.',
+    id:1190
+  },
+  {
+    kanji: '全然',
+    def: '(not) at all',
+    romaji: '[zenzen]',
+    speech_part: 'ADV.',
+    id:1191
+  },
+  {
+    kanji: 'さっき',
+    def: 'earlier, only a moment ago',
+    romaji: '[sakki]',
+    speech_part: 'ADV.',
+    id:1192
+  },
+  {
+    kanji: '途中',
+    def: 'on the way, half way',
+    romaji: '[tochū]',
+    speech_part: 'NOUN',
+    id:1193
+  },
+  {
+    kanji: 'インタビュー',
+    def: 'interview (loan word)',
+    romaji: '[intabyū]',
+    speech_part: '',
+    id:1194
+  },
+  {
+    kanji: '普段',
+    def: 'usual, ordinary',
+    romaji: '[fudan]',
+    speech_part: 'ADV.',
+    id:1195
+  },
+  {
+    kanji: '運賃',
+    def: '(passenger) fare',
+    romaji: '[unchin]',
+    speech_part: 'NOUN',
+    id:1196
+  },
+  {
+    kanji: '外国語',
+    def: 'foreign language',
+    romaji: '[gaikoku-go]',
+    speech_part: 'NOUN',
+    id:1197
+  },
+  {
+    kanji: '着物',
+    def: 'traditional Japnese clothing',
+    romaji: '[kimono]',
+    speech_part: 'NOUN',
+    id:1198
+  },
+  {
+    kanji: '牛乳',
+    def: 'milk',
+    romaji: '[gyūnyū]',
+    speech_part: 'NOUN',
+    id:1199
+  },
+  {
+    kanji: '救急車',
+    def: 'ambulance',
+    romaji: '[kyūkyūsha]',
+    speech_part: 'NOUN',
+    id:1200
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:118
-  // },
+  //   id:120
+  // }
 ];
 
 export default JapData;
