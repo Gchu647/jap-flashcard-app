@@ -428,7 +428,7 @@ const JapData = [
   },
   {
     kanji: '辞める',
-    def: 'resign, leave ones job',
+    def: 'resign, quit job',
     romaji: 'yameru (2)',
     speech_part: 'VERB',
     id:1162
@@ -625,7 +625,7 @@ const JapData = [
   {
     kanji: 'そんなに',
     def: 'so much',
-    romaji: '[son-nai]',
+    romaji: '[son-nani]',
     speech_part: 'ADV.',
     id:1190
   },
@@ -680,7 +680,7 @@ const JapData = [
   },
   {
     kanji: '着物',
-    def: 'traditional Japnese clothing',
+    def: 'traditional Japanese clothing',
     romaji: '[kimono]',
     speech_part: 'NOUN',
     id:1198
