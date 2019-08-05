@@ -279,13 +279,146 @@ const JapData = [
     speech_part: 'ADV.',
     id:1240
   },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:124
-  // },
+  {
+    kanji: 'ぶどう',
+    def: 'grapes',
+    romaji: '[budō]',
+    speech_part: 'NOUN',
+    id:1241
+  },
+  {
+    kanji: '迷う',
+    def: 'get lost',
+    romaji: '[mayou]',
+    speech_part: 'VERB',
+    id:1242
+  },
+  {
+    kanji: '見物',
+    def: 'sight seeing, visit',
+    romaji: '[kenbutsu]',
+    speech_part: 'VERBAL NOUN',
+    id:1243
+  },
+  {
+    kanji: '知らせる',
+    def: 'let know, inform',
+    romaji: '[shiraseru]',
+    speech_part: 'VERB',
+    id:1244
+  },
+  {
+    kanji: '神社',
+    def: 'Shinto shrine',
+    romaji: '[jinja]',
+    speech_part: 'NOUN',
+    id:1245
+  },
+  {
+    kanji: '注射',
+    def: 'injection, shot',
+    romaji: '[chūsha]',
+    speech_part: 'VERBAL NOUN',
+    id:1246
+  },
+  {
+    kanji: 'めったに',
+    def: 'rarely, seldom',
+    romaji: '[mettani]',
+    speech_part: 'ADV.',
+    id:1247
+  },
+  {
+    kanji: '作文',
+    def: 'composition, essay',
+    romaji: '[sakubun]',
+    speech_part: 'NOUN',
+    id:1248
+  },
+  {
+    kanji: '鳴る',
+    def: 'sound, ring',
+    romaji: '[naru] (2)',
+    speech_part: 'VERB',
+    id:1249
+  },
+  {
+    kanji: '真面目',
+    def: 'serious and sincere',
+    romaji: '[majime]',
+    speech_part: 'ADJ. NOUN',
+    id:1250
+  },
+  {
+    kanji: '申し込む',
+    def: 'apply, sign up',
+    romaji: '[mōshikomu]',
+    speech_part: 'VERB',
+    id:1251
+  },
+  {
+    kanji: '冷蔵庫',
+    def: 'refrigerator',
+    romaji: '[reizōko]',
+    speech_part: 'NOUN',
+    id:1252
+  },
+  {
+    kanji: '気に入る',
+    def: 'like, become fond of',
+    romaji: '[kiniiru]',
+    speech_part: 'VERB',
+    id:1253
+  },
+  {
+    kanji: 'クリスマス',
+    def: 'Christmas',
+    romaji: '[kurisumasu]',
+    speech_part: 'NOUN',
+    id:1254
+  },
+  {
+    kanji: 'ネクタイ',
+    def: 'tie, necktie',
+    romaji: '[nekutai]',
+    speech_part: 'NOUN',
+    id:1255
+  },
+  {
+    kanji: '誕生日',
+    def: 'birthday',
+    romaji: '[tanjōbi]',
+    speech_part: 'NOUN',
+    id:1256
+  },
+  {
+    kanji: '独身',
+    def: 'single, unmarried',
+    romaji: '[dokushin]',
+    speech_part: 'NOUN',
+    id:1257
+  },
+  {
+    kanji: '苦い',
+    def: 'bitter',
+    romaji: '[nigai]',
+    speech_part: 'ADJ.',
+    id:1258
+  },
+  {
+    kanji: 'バイオリン',
+    def: 'violin',
+    romaji: '[baiorin]',
+    speech_part: 'NOUN',
+    id:1259
+  },
+  {
+    kanji: 'バッグ',
+    def: 'bag',
+    romaji: '[baggu]',
+    speech_part: 'NOUN',
+    id:1260
+  },
 ];
 
 export default JapData;
