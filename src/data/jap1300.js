@@ -139,12 +139,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1220
   },
+  {
+    kanji: '広さ',
+    def: 'area, extent',
+    romaji: '[hirosa]',
+    speech_part: 'NOUN',
+    id:1221
+  },
+  {
+    kanji: '読み',
+    def: 'reading',
+    romaji: '[yomi]',
+    speech_part: 'NOUN',
+    id:1222
+  },
+  {
+    kanji: '我慢',
+    def: 'patience, endurance',
+    romaji: 'VERBAL NOUN',
+    speech_part: '[gaman]',
+    id:1223
+  },
+  {
+    kanji: '国籍',
+    def: 'nationality, citizenship',
+    romaji: '[gokuseki]',
+    speech_part: 'NOUN',
+    id:1224
+  },
+  {
+    kanji: '恥ずかしい',
+    def: 'embarrassed, ashamed',
+    romaji: '[hazukashī]',
+    speech_part: 'ADJ.',
+    id:1225
+  },
+  {
+    kanji: 'ボタン',
+    def: 'button',
+    romaji: '[botan]',
+    speech_part: 'NOUN',
+    id:1226
+  },
+  {
+    kanji: '洋服',
+    def: '(western style) clothes',
+    romaji: '[yōfuku]',
+    speech_part: 'NOUN',
+    id:1227
+  },
+  {
+    kanji: '油',
+    def: 'oil',
+    romaji: '[abura]',
+    speech_part: 'NOUN',
+    id:1228
+  },
+  {
+    kanji: 'おかしい',
+    def: 'funny, comical',
+    romaji: '[okashī]',
+    speech_part: 'ADJ.',
+    id:1229
+  },
+  {
+    kanji: '余る',
+    def: 'remain, be in excess',
+    romaji: '[amaru]',
+    speech_part: 'VERB',
+    id:1230
+  },
+  {
+    kanji: 'コート (2)',
+    def: 'sports court',
+    romaji: '[kōto]',
+    speech_part: 'NOUN',
+    id:1231
+  },
+  {
+    kanji: '正直',
+    def: 'honest, upright',
+    romaji: '[shōjiki]',
+    speech_part: 'ADJ. NOUN',
+    id:1232
+  },
+  {
+    kanji: 'ドラマ',
+    def: 'drama',
+    romaji: '[dorama]',
+    speech_part: 'NOUN',
+    id:1233
+  },
+  {
+    kanji: 'ビザ',
+    def: 'visa',
+    romaji: '[biza]',
+    speech_part: 'NOUN',
+    id:1234
+  },
+  {
+    kanji: '水道',
+    def: 'water service, channel',
+    romaji: '[suidō]',
+    speech_part: 'NOUN',
+    id:1235
+  },
+  {
+    kanji: '店員',
+    def: 'clerk, salesperson',
+    romaji: '[ten-in]',
+    speech_part: 'NOUN',
+    id:1236
+  },
+  {
+    kanji: '電池',
+    def: 'battery',
+    romaji: '[denchi]',
+    speech_part: 'NOUN',
+    id:1237
+  },
+  {
+    kanji: 'ポケット',
+    def: 'pocket',
+    romaji: '[poketto]',
+    speech_part: 'NOUN',
+    id:1238
+  },
+  {
+    kanji: '握手',
+    def: 'handshake',
+    romaji: '[akushu]',
+    speech_part: 'VERBAL NOUN',
+    id:1239
+  },
+  {
+    kanji: 'そろそろ',
+    def: 'soon, its about time',
+    romaji: '[soro-soro]',
+    speech_part: 'ADV.',
+    id:1240
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:122
+  //   id:124
   // },
 ];
 
