@@ -352,7 +352,7 @@ const JapData = [
   {
     kanji: '申し込む',
     def: 'apply, sign up',
-    romaji: '[mōshikomu]',
+    romaji: '[mōshi-komu]',
     speech_part: 'VERB',
     id:1251
   },
@@ -366,7 +366,7 @@ const JapData = [
   {
     kanji: '気に入る',
     def: 'like, become fond of',
-    romaji: '[kiniiru]',
+    romaji: '[kini-iru]',
     speech_part: 'VERB',
     id:1253
   },
@@ -559,12 +559,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1280
   },
+  {
+    kanji: '震える',
+    def: 'tremble, shake',
+    romaji: '[furu-eru',
+    speech_part: 'VERB',
+    id:1281
+  },
+  {
+    kanji: '磨く',
+    def: 'polish, grind',
+    romaji: '[migaku]',
+    speech_part: 'VERB',
+    id:1282
+  },
+  {
+    kanji: 'カーテン',
+    def: 'curtain',
+    romaji: '[kāten]',
+    speech_part: 'NOUN',
+    id:1283
+  },
+  {
+    kanji: '火事',
+    def: 'fire, blaze',
+    romaji: '[kaji]',
+    speech_part: 'NOUN',
+    id:1284
+  },
+  {
+    kanji: 'ナイフ',
+    def: 'knife',
+    romaji: '[naifu]',
+    speech_part: 'NOUN',
+    id:1285
+  },
+  {
+    kanji: '皆さん',
+    def: 'everybody, everyone (polite)',
+    romaji: '[minasan]',
+    speech_part: 'NOUN',
+    id:1286
+  },
+  {
+    kanji: '受ける',
+    def: 'recieve, take',
+    romaji: '[ukeru]',
+    speech_part: 'VERB',
+    id:1287
+  },
+  {
+    kanji: '付く',
+    def: 'stick to, cling to',
+    romaji: '[tsuku]',
+    speech_part: 'VERB',
+    id:1288
+  },
+  {
+    kanji: '私',
+    def: 'I (formal)',
+    romaji: '[wata-kushi]',
+    speech_part: 'NOUN',
+    id:1289
+  },
+  {
+    kanji: '結構',
+    def: 'quite',
+    romaji: '[kekkō]',
+    speech_part: 'ADV.',
+    id:1290
+  },
+  {
+    kanji: '悪口',
+    def: 'slander, abuse',
+    romaji: '[waru-kuchi]',
+    speech_part: 'NOUN',
+    id:1291
+  },
+  {
+    kanji: '広まる',
+    def: 'spread, get around',
+    romaji: '[hiromaru]',
+    speech_part: 'VERB',
+    id:1292
+  },
+  {
+    kanji: '内緒',
+    def: 'secrecy, privacy',
+    romaji: '[naisho]',
+    speech_part: 'NOUN',
+    id:1293
+  },
+  {
+    kanji: 'つぶる',
+    def: 'close (eyes)',
+    romaji: '[tsuburu]',
+    speech_part: 'VERB',
+    id:1294
+  },
+  {
+    kanji: '用件',
+    def: 'things to be done',
+    romaji: '[yōken]',
+    speech_part: 'NOUN',
+    id:1295
+  },
+  {
+    kanji: 'ロマンチック',
+    def: 'romantic',
+    romaji: '[romanchikku]',
+    speech_part: 'ADJ.',
+    id:1296
+  },
+  {
+    kanji: '貯金',
+    def: 'money saved up',
+    romaji: '[chokin]',
+    speech_part: 'VERBAL NOUN',
+    id:1297
+  },
+  {
+    kanji: 'バイク',
+    def: 'motorcyle',
+    romaji: '[baiku]',
+    speech_part: 'NOUN',
+    id:1298
+  },
+  {
+    kanji: '預かる',
+    def: 'take care of, keep',
+    romaji: '[azukaru',
+    speech_part: 'VERB',
+    id:1299
+  },
+  {
+    kanji: 'オレンジ',
+    def: 'orange (fruit)',
+    romaji: '[orenji]',
+    speech_part: 'NOUN',
+    id:1300
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:127
+  //   id:130
   // },
 ];
 
