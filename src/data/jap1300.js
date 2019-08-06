@@ -419,6 +419,153 @@ const JapData = [
     speech_part: 'NOUN',
     id:1260
   },
+  {
+    kanji: '今まで ',
+    def: 'until now',
+    romaji: '[ima-made]',
+    speech_part: 'ADV.',
+    id:1261
+  },
+  {
+    kanji: '切符',
+    def: 'ticket',
+    romaji: '[kippu]',
+    speech_part: 'NOUN',
+    id:1262
+  },
+  {
+    kanji: 'ゴム',
+    def: 'elastic, rubber',
+    romaji: '[gomu]',
+    speech_part: 'NOUN',
+    id:1263
+  },
+  {
+    kanji: '少々',
+    def: 'a little, a bit',
+    romaji: '[shōshō]',
+    speech_part: 'ADV.',
+    id:1264
+  },
+  {
+    kanji: '随分',
+    def: 'extremely, considerably',
+    romaji: '[suibun]',
+    speech_part: 'ADV.',
+    id:1265
+  },
+  {
+    kanji: '引っ張る',
+    def: 'pull, drag',
+    romaji: '[hipparu]',
+    speech_part: 'VERB',
+    id:1266
+  },
+  {
+    kanji: '焼ける',
+    def: 'burn, cook',
+    romaji: '[yakeru]',
+    speech_part: 'VERB',
+    id:1267
+  },
+  {
+    kanji: '鉛筆',
+    def: 'pencil',
+    romaji: '[enpitsu]',
+    speech_part: 'NOUN',
+    id:1268
+  },
+  {
+    kanji: '会話',
+    def: 'conversation',
+    romaji: '[kaiwa]',
+    speech_part: 'VERBAL NOUN',
+    id:1269
+  },
+  {
+    kanji: 'ギター',
+    def: 'guitar',
+    romaji: '[gitā]',
+    speech_part: 'NOUN',
+    id:1270
+  },
+  {
+    kanji: '茶',
+    def: 'tea (plain form)',
+    romaji: '[cha]',
+    speech_part: 'NOUN',
+    id:1271
+  },
+  {
+    kanji: '暑さ',
+    def: 'heat (of weather)',
+    romaji: '[atsusa]',
+    speech_part: 'NOUN',
+    id:1272
+  },
+  {
+    kanji: '胃',
+    def: 'stomach',
+    romaji: '[i]',
+    speech_part: 'NOUN',
+    id:1273
+  },
+  {
+    kanji: '禁煙',
+    def: 'non-smoking',
+    romaji: '[kin-en]',
+    speech_part: 'VERBAL NOUN',
+    id:1274
+  },
+  {
+    kanji: '丸い',
+    def: 'round',
+    romaji: '[marui]',
+    speech_part: 'ADJ.',
+    id:1275
+  },
+  {
+    kanji: '写る',
+    def: 'be taken (in photograph)',
+    romaji: '[utsuru]',
+    speech_part: 'VERB',
+    id:1276
+  },
+  {
+    kanji: '喫茶店',
+    def: 'coffee shop, cafe',
+    romaji: '[kissaten]',
+    speech_part: 'NOUN',
+    id:1277
+  },
+  {
+    kanji: 'やっぱり',
+    def: 'just as I thought',
+    romaji: '[yappari]',
+    speech_part: 'ADV.',
+    id:1278
+  },
+  {
+    kanji: '週刊誌',
+    def: 'weekly magazine',
+    romaji: '[shūkanshi]',
+    speech_part: 'NOUN',
+    id:1279
+  },
+  {
+    kanji: '棚',
+    def: 'shelf, rack',
+    romaji: '[tana]',
+    speech_part: 'NOUN',
+    id:1280
+  },
+  // {
+  //   kanji: '',
+  //   def: '',
+  //   romaji: '',
+  //   speech_part: '',
+  //   id:127
+  // },
 ];
 
 export default JapData;
