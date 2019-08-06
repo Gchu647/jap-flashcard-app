@@ -698,14 +698,7 @@ const JapData = [
     romaji: '[orenji]',
     speech_part: 'NOUN',
     id:1300
-  },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:130
-  // },
+  }
 ];
 
 export default JapData;
