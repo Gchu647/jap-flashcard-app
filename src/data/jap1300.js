@@ -562,7 +562,7 @@ const JapData = [
   {
     kanji: '震える',
     def: 'tremble, shake',
-    romaji: '[furu-eru',
+    romaji: '[furu-eru]',
     speech_part: 'VERB',
     id:1281
   },
@@ -688,7 +688,7 @@ const JapData = [
   {
     kanji: '預かる',
     def: 'take care of, keep',
-    romaji: '[azukaru',
+    romaji: '[azukaru]',
     speech_part: 'VERB',
     id:1299
   },
