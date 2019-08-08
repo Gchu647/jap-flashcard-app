@@ -419,12 +419,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1360
   },
+  {
+    kanji: '中心',
+    def: 'center (of a circle, etc.)',
+    romaji: '[chūshin]',
+    speech_part: 'NOUN',
+    id:1361
+  },
+  {
+    kanji: '明らか',
+    def: 'clear, obvious',
+    romaji: '[akiraka]',
+    speech_part: 'ADJ. NOUN',
+    id:1362
+  },
+  {
+    kanji: '社長',
+    def: 'president (of a company)',
+    romaji: '[shachō]',
+    speech_part: 'NOUN',
+    id:1363
+  },
+  {
+    kanji: 'ほぼ',
+    def: 'almost, nearly',
+    romaji: '[hobo]',
+    speech_part: 'ADV.',
+    id:1364
+  },
+  {
+    kanji: '商品',
+    def: 'goods, commodities',
+    romaji: '[shōhin]',
+    speech_part: 'NOUN',
+    id:1365
+  },
+  {
+    kanji: '大型',
+    def: 'large, large scale',
+    romaji: '[Ōgata]',
+    speech_part: 'NOUN',
+    id:1366
+  },
+  {
+    kanji: '限る',
+    def: 'be limited to',
+    romaji: '[kagiru]',
+    speech_part: 'VERB',
+    id:1367
+  },
+  {
+    kanji: '記録',
+    def: 'record, documentation',
+    romaji: '[kiroku]',
+    speech_part: 'VERBAL NOUN',
+    id:1368
+  },
+  {
+    kanji: '具体的',
+    def: 'concrete, specific',
+    romaji: '[gutai-deki]',
+    speech_part: 'NOUN',
+    id:1369
+  },
+  {
+    kanji: '効果',
+    def: 'effect, result',
+    romaji: '[kōka]',
+    speech_part: 'NOUN',
+    id:1370
+  },
+  {
+    kanji: '公開',
+    def: 'opening (to the public)',
+    romaji: '[kōkai]',
+    speech_part: 'NOUN',
+    id:1371
+  },
+  {
+    kanji: '作品',
+    def: 'work of art, creation',
+    romaji: '[sakuhin]',
+    speech_part: 'NOUN',
+    id:1372
+  },
+  {
+    kanji: '迫る',
+    def: 'close in on, approach',
+    romaji: '[semaru]',
+    speech_part: 'VERB',
+    id:1373
+  },
+  {
+    kanji: '大会',
+    def: 'tournament, event',
+    romaji: '[taikai]',
+    speech_part: '',
+    id:1374
+  },
+  {
+    kanji: '背景',
+    def: 'background, backdrop',
+    romaji: '[haikei]',
+    speech_part: 'NOUN',
+    id:1375
+  },
+  {
+    kanji: '文字',
+    def: 'character, letter, writing',
+    romaji: '[moji]',
+    speech_part: 'NOUN',
+    id:1376
+  },
+  {
+    kanji: '規則',
+    def: 'rule, regulation',
+    romaji: '[kisoku]',
+    speech_part: 'NOUN',
+    id:1377
+  },
+  {
+    kanji: '近所',
+    def: 'neighborhood',
+    romaji: '[kinjo]',
+    speech_part: 'NOUN',
+    id:1378
+  },
+  {
+    kanji: 'グラフ',
+    def: 'chart, graph',
+    romaji: '[gurafu]',
+    speech_part: 'NOUN',
+    id:1379
+  },
+  {
+    kanji: '首都',
+    def: 'capital',
+    romaji: '[shuto]',
+    speech_part: 'NOUN',
+    id:1380
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:136
+  //   id:138
   // },
 ];
 
