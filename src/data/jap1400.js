@@ -139,12 +139,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1320
   },
+  {
+    kanji: 'おしゃべり',
+    def: 'talkative, chatty',
+    romaji: '[oshaberi]',
+    speech_part: 'ADJ.',
+    id:1321
+  },
+  {
+    kanji: '緑色',
+    def: 'green color',
+    romaji: '[midoriiro]',
+    speech_part: 'NOUN',
+    id:1322
+  },
+  {
+    kanji: '毎朝',
+    def: 'every morning',
+    romaji: '[maiasa]',
+    speech_part: 'NOUN',
+    id:1323
+  },
+  {
+    kanji: '曲げる',
+    def: 'bend (something)',
+    romaji: '[mageru]',
+    speech_part: 'VERB',
+    id:1324
+  },
+  {
+    kanji: 'きっと',
+    def: 'surely, certainly',
+    romaji: '[kitto]',
+    speech_part: 'ADV.',
+    id:1325
+  },
+  {
+    kanji: '理科',
+    def: 'science (school subject)',
+    romaji: 'NOUN',
+    speech_part: '[rika]',
+    id:1326
+  },
+  {
+    kanji: '下着',
+    def: 'underwear',
+    romaji: '[shitagi]',
+    speech_part: 'NOUN',
+    id:1327
+  },
+  {
+    kanji: '太る',
+    def: 'grow fat, gain weight',
+    romaji: '[futoru]',
+    speech_part: 'VERB',
+    id:1328
+  },
+  {
+    kanji: '冷房',
+    def: 'air condtioning (cooling)',
+    romaji: '[reibō]',
+    speech_part: 'VERBAL NOUN',
+    id:1329
+  },
+  {
+    kanji: '別れる',
+    def: 'separate, part',
+    romaji: '[waka-reru]',
+    speech_part: 'VERB',
+    id:1330
+  },
+  {
+    kanji: '空く',
+    def: 'become available for vacant',
+    romaji: '[aku]',
+    speech_part: 'VERB',
+    id:1331
+  },
+  {
+    kanji: '出掛ける',
+    def: 'go out, leave home',
+    romaji: '[deka-keru]',
+    speech_part: 'VERB',
+    id:1332
+  },
+  {
+    kanji: '毎晩',
+    def: 'every evening',
+    romaji: '[maiban]',
+    speech_part: 'NOUN',
+    id:1333
+  },
+  {
+    kanji: '指輪',
+    def: 'ring',
+    romaji: '[yubiwa]',
+    speech_part: 'NOUN',
+    id:1334
+  },
+  {
+    kanji: '腐る',
+    def: 'rot, go bad',
+    romaji: '[kusaru]',
+    speech_part: 'VERB',
+    id:1335
+  },
+  {
+    kanji: '貧乏',
+    def: 'poverty, destitution',
+    romaji: '[binbō]',
+    speech_part: 'ADJ. NOUN',
+    id:1336
+  },
+  {
+    kanji: 'おしゃれ',
+    def: 'trendy, fashionable',
+    romaji: '[oshare]',
+    speech_part: 'VERBAL NOUN',
+    id:1337
+  },
+  {
+    kanji: '休憩',
+    def: 'break, rest',
+    romaji: '[kyūkei]',
+    speech_part: 'VERBAL NOUN',
+    id:1338
+  },
+  {
+    kanji: '舌',
+    def: 'tongue',
+    romaji: '[shita]',
+    speech_part: 'NOUN',
+    id:1339
+  },
+  {
+    kanji: 'ジュース',
+    def: 'juice',
+    romaji: '[jūsu]',
+    speech_part: 'NOUN',
+    id:1340
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:132
+  //   id:133
   // },
 ];
 
