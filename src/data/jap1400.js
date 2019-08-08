@@ -142,14 +142,14 @@ const JapData = [
   {
     kanji: 'おしゃべり',
     def: 'talkative, chatty',
-    romaji: '[oshaberi]',
+    romaji: '[osha-beri]',
     speech_part: 'ADJ.',
     id:1321
   },
   {
     kanji: '緑色',
     def: 'green color',
-    romaji: '[midoriiro]',
+    romaji: '[midori-iro]',
     speech_part: 'NOUN',
     id:1322
   },
@@ -211,7 +211,7 @@ const JapData = [
   },
   {
     kanji: '空く',
-    def: 'become available for vacant',
+    def: 'become available or vacant',
     romaji: '[aku]',
     speech_part: 'VERB',
     id:1331
@@ -246,7 +246,7 @@ const JapData = [
   },
   {
     kanji: '貧乏',
-    def: 'poverty, destitution',
+    def: 'poverty',
     romaji: '[binbō]',
     speech_part: 'ADJ. NOUN',
     id:1336
@@ -279,12 +279,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1340
   },
+  {
+    kanji: 'ゼロ',
+    def: 'zero, none (loan word)',
+    romaji: '[zero]',
+    speech_part: 'NOUN',
+    id:1341
+  },
+  {
+    kanji: '丁寧',
+    def: 'polite, careful',
+    romaji: '[teirei]',
+    speech_part: 'ADJ. NOUN',
+    id:1342
+  },
+  {
+    kanji: '苦手',
+    def: 'not good at, be bad at',
+    romaji: '[nigade]',
+    speech_part: 'ADJ. NOUN',
+    id:1343
+  },
+  {
+    kanji: '日 (2)',
+    def: '(specific) day, sun, daytime',
+    romaji: '[hi]',
+    speech_part: 'NOUN',
+    id:1344
+  },
+  {
+    kanji: '引っ越し',
+    def: 'moving (house)',
+    romaji: '[hikkoshi]',
+    speech_part: 'VERBAL NOUN',
+    id:1345
+  },
+  {
+    kanji: '歩道',
+    def: 'sidewalk, pavement',
+    romaji: '[hodō]',
+    speech_part: 'NOUN',
+    id:1346
+  },
+  {
+    kanji: '折れる',
+    def: '[oreru]',
+    romaji: 'break, snap',
+    speech_part: 'VERB',
+    id:1347
+  },
+  {
+    kanji: '見送り',
+    def: 'send-off',
+    romaji: '[miokuri]',
+    speech_part: 'VERBAL NOUN',
+    id:1348
+  },
+  {
+    kanji: '夕刊',
+    def: 'evening edition paper',
+    romaji: '[yūkan]',
+    speech_part: 'NOUN',
+    id:1349
+  },
+  {
+    kanji: 'この間',
+    def: 'the other day, not so long ago',
+    romaji: '[konoaida]',
+    speech_part: 'NOUN',
+    id:1350
+  },
+  {
+    kanji: '冷える',
+    def: 'cool down, get chilled',
+    romaji: '[hieru]',
+    speech_part: 'VERB',
+    id:1351
+  },
+  {
+    kanji: 'ピンク',
+    def: 'pink',
+    romaji: '[pinku]',
+    speech_part: 'NOUN',
+    id:1352
+  },
+  {
+    kanji: 'グラス',
+    def: 'glass',
+    romaji: '[gurasu]',
+    speech_part: 'NOUN',
+    id:1353
+  },
+  {
+    kanji: '毛',
+    def: '(not from head) hair',
+    romaji: '[ke]',
+    speech_part: 'NOUN',
+    id:1354
+  },
+  {
+    kanji: '黒板',
+    def: 'blackboard',
+    romaji: '[kokuban]',
+    speech_part: 'NOUN',
+    id:1355
+  },
+  {
+    kanji: '積もる',
+    def: 'pile up',
+    romaji: '[tsumoru]',
+    speech_part: 'VERB',
+    id:1356
+  },
+  {
+    kanji: '半年',
+    def: 'half a year',
+    romaji: '[hantoshi]',
+    speech_part: 'NOUN',
+    id:1357
+  },
+  {
+    kanji: '現在',
+    def: 'the present, present time',
+    romaji: '[genzai]',
+    speech_part: 'NOUN',
+    id:1358
+  },
+  {
+    kanji: '利用',
+    def: 'utilization, usage',
+    romaji: '[riyō]',
+    speech_part: 'VERBAL NOUN',
+    id:1359
+  },
+  {
+    kanji: '方法',
+    def: 'method, procedure',
+    romaji: '[hōhō]',
+    speech_part: 'NOUN',
+    id:1360
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:133
+  //   id:136
   // },
 ];
 
