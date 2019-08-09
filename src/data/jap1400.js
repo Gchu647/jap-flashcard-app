@@ -645,8 +645,8 @@ const JapData = [
   },
   {
     kanji: '気付く',
-    def: '[kidzuku]',
-    romaji: 'notice, realize',
+    def: 'notice, realize ',
+    romaji: '[kidzuku]',
     speech_part: 'VERB',
     id:1393
   },
@@ -693,10 +693,10 @@ const JapData = [
     id:1399
   },
   {
-    kanji: '珍しい',
-    def: 'rare, scarce',
-    romaji: '[mezurashī]',
-    speech_part: 'ADJ.',
+    kanji: '暖房',
+    def: 'heating',
+    romaji: '[danbō]',
+    speech_part: 'VERBAL NOUN',
     id:1400
   },
   // {
