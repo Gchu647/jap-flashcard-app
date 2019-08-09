@@ -526,7 +526,7 @@ const JapData = [
   },
   {
     kanji: '文字',
-    def: 'character, letter, writing',
+    def: 'character, writing',
     romaji: '[moji]',
     speech_part: 'NOUN',
     id:1376
@@ -559,12 +559,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1380
   },
+  {
+    kanji: '減らす',
+    def: 'reduce (something)',
+    romaji: '[herasu]',
+    speech_part: 'VERB',
+    id:1381
+  },
+  {
+    kanji: '隠れる',
+    def: 'hide',
+    romaji: '[kaku-reru]',
+    speech_part: 'VERB',
+    id:1382
+  },
+  {
+    kanji: '美術館',
+    def: 'art museum',
+    romaji: '[bijutsukan]',
+    speech_part: 'NOUN',
+    id:1383
+  },
+  {
+    kanji: 'ばか',
+    def: 'foolish, stupid',
+    romaji: '[baka]',
+    speech_part: 'ADJ. NOUN',
+    id:1384
+  },
+  {
+    kanji: '暇',
+    def: 'free time, spare time',
+    romaji: '[hima]',
+    speech_part: 'NOUN',
+    id:1385
+  },
+  {
+    kanji: '絵葉書',
+    def: 'picture postcard',
+    romaji: '[ehagaki]',
+    speech_part: 'NOUN',
+    id:1386
+  },
+  {
+    kanji: 'あんなに',
+    def: 'that much, such',
+    romaji: '[an-nani]',
+    speech_part: 'ADV.',
+    id:1387
+  },
+  {
+    kanji: '行き',
+    def: 'going, outbound',
+    romaji: '[iki]',
+    speech_part: 'NOUN',
+    id:1388
+  },
+  {
+    kanji: '通勤',
+    def: 'commute',
+    romaji: '[tsūkin]',
+    speech_part: 'VERBAL NOUN',
+    id:1389
+  },
+  {
+    kanji: 'ちゃんと',
+    def: 'correctly, properly',
+    romaji: '[chanto]',
+    speech_part: 'ADV.',
+    id:1390
+  },
+  {
+    kanji: 'のんびり',
+    def: 'in a relaxed manner, leisurely',
+    romaji: '[nonbiri]',
+    speech_part: 'ADV.',
+    id:1391
+  },
+  {
+    kanji: '緊張',
+    def: 'tension, strain',
+    romaji: '[kinchō]',
+    speech_part: 'VERBAL NOUN',
+    id:1392
+  },
+  {
+    kanji: '気付く',
+    def: '[kidzuku]',
+    romaji: 'notice, realize',
+    speech_part: 'VERB',
+    id:1393
+  },
+  {
+    kanji: '出口',
+    def: 'exit',
+    romaji: '[deguchi]',
+    speech_part: 'NOUN',
+    id:1394
+  },
+  {
+    kanji: '登る',
+    def: 'climb, ascend',
+    romaji: '[noboru]',
+    speech_part: 'VERB',
+    id:1395
+  },
+  {
+    kanji: '真っ白',
+    def: 'pure-white',
+    romaji: '[masshiro]',
+    speech_part: 'ADJ. NOUN',
+    id:1396
+  },
+  {
+    kanji: '下ろす',
+    def: 'bring down, take down',
+    romaji: '[orosu]',
+    speech_part: 'VERB',
+    id:1397
+  },
+  {
+    kanji: '貸し出す',
+    def: 'lend, lend out',
+    romaji: '[kashi-tasu]',
+    speech_part: 'VERB',
+    id:1398
+  },
+  {
+    kanji: 'サッカー',
+    def: 'soccer',
+    romaji: '[sakkā]',
+    speech_part: 'NOUN',
+    id:1399
+  },
+  {
+    kanji: '珍しい',
+    def: 'rare, scarce',
+    romaji: '[mezurashī]',
+    speech_part: 'ADJ.',
+    id:1400
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:138
+  //   id:14
   // },
 ];
 
