@@ -139,12 +139,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1420
   },
+  {
+    kanji: '変',
+    def: 'strange, weird',
+    romaji: '[hen]',
+    speech_part: 'ADJ. NOUN',
+    id:1421
+  },
+  {
+    kanji: '一生懸命',
+    def: 'hard-working, doing ones best',
+    romaji: '[isshō-kenmei]',
+    speech_part: 'ADJ. NOUN',
+    id:1422
+  },
+  {
+    kanji: '間違う',
+    def: 'make a mistake',
+    romaji: '[machigau]',
+    speech_part: 'VERB',
+    id:1423
+  },
+  {
+    kanji: '事務室',
+    def: 'clerk office',
+    romaji: '[jimu-shitsu]',
+    speech_part: 'NOUN',
+    id:1424
+  },
+  {
+    kanji: 'スーツ',
+    def: 'suit',
+    romaji: '[sūtsu]',
+    speech_part: 'NOUN',
+    id:1425
+  },
+  {
+    kanji: 'チケット',
+    def: 'ticket (loan word)',
+    romaji: '[chiketto]',
+    speech_part: 'NOUN',
+    id:1426
+  },
+  {
+    kanji: 'チョコレート',
+    def: 'chocolate',
+    romaji: '[chokorēto]',
+    speech_part: 'NOUN',
+    id:1427
+  },
+  {
+    kanji: '泥棒',
+    def: 'theif, burglar',
+    romaji: '[dorobō]',
+    speech_part: 'NOUN',
+    id:1428
+  },
+  {
+    kanji: '脱ぐ',
+    def: 'take off (clothes)',
+    romaji: '[nugu]',
+    speech_part: 'VERB',
+    id:1429
+  },
+  {
+    kanji: '年賀状',
+    def: 'New Years Card',
+    romaji: '[nengajō]',
+    speech_part: 'NOUN',
+    id:1430
+  },
+  {
+    kanji: '乗り物',
+    def: 'vehicle, transportation',
+    romaji: '[nori-mono]',
+    speech_part: 'NOUN',
+    id:1431
+  },
+  {
+    kanji: '布団',
+    def: 'Japanese-style padded mattress',
+    romaji: '[futon]',
+    speech_part: 'NOUN',
+    id:1432
+  },
+  {
+    kanji: '役に立つ',
+    def: 'be useful, be helpful',
+    romaji: '[yakuni-tatsu]',
+    speech_part: 'VERB',
+    id:1433
+  },
+  {
+    kanji: '破れる',
+    def: 'be torn, be ripped up',
+    romaji: '[yabu-reru]',
+    speech_part: 'VERB',
+    id:1434
+  },
+  {
+    kanji: '用事',
+    def: 'errand, business',
+    romaji: '[yōji]',
+    speech_part: 'NOUN',
+    id:1435
+  },
+  {
+    kanji: '写す',
+    def: 'copy, photograph',
+    romaji: '[utsusu[',
+    speech_part: 'VERB',
+    id:1436
+  },
+  {
+    kanji: '腕時計',
+    def: 'wrist watch',
+    romaji: '[ude-dokei]',
+    speech_part: 'NOUN',
+    id:1437
+  },
+  {
+    kanji: '贈り物',
+    def: 'present, gift',
+    romaji: '[okuri-mono]',
+    speech_part: 'NOUN',
+    id:1438
+  },
+  {
+    kanji: 'チャンネル',
+    def: 'channel',
+    romaji: '[chan-neru]',
+    speech_part: 'NOUN',
+    id:1439
+  },
+  {
+    kanji: '冷やす',
+    def: 'chill (something), cool down',
+    romaji: '[hiyasu]',
+    speech_part: 'VERB',
+    id:1440
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:142
+  //   id:144
   // },
 ];
 
