@@ -279,12 +279,152 @@ const JapData = [
     speech_part: 'VERB',
     id:1440
   },
+  {
+    kanji: '片付ける',
+    def: 'put in order, clean up',
+    romaji: '[katazukeru]',
+    speech_part: 'VERB',
+    id:1441
+  },
+  {
+    kanji: '乾杯',
+    def: 'toast, drink (in celebration',
+    romaji: '[kanpai]',
+    speech_part: 'VERBAL NOUN',
+    id:1442
+  },
+  {
+    kanji: '停車',
+    def: 'stop (of a train)',
+    romaji: '[teisha]',
+    speech_part: 'NOUN',
+    id:1443
+  },
+  {
+    kanji: '鳴く',
+    def: 'sing, cry (of animals)',
+    romaji: '[naku]',
+    speech_part: 'VERB',
+    id:1444
+  },
+  {
+    kanji: 'ガソリンスタンド',
+    def: 'gas station',
+    romaji: '[gaso-rinsu-tando]',
+    speech_part: 'NOUN',
+    id:1445
+  },
+  {
+    kanji: '片道',
+    def: 'one way (trip)',
+    romaji: '[kata-michi]',
+    speech_part: 'NOUN',
+    id:1446
+  },
+  {
+    kanji: '交番',
+    def: 'police box',
+    romaji: '[kōban]',
+    speech_part: 'NOUN',
+    id:1447
+  },
+  {
+    kanji: '大分',
+    def: 'greatly, fairly',
+    romaji: '[daibu]',
+    speech_part: 'ADV.',
+    id:1448
+  },
+  {
+    kanji: 'デート',
+    def: 'date, romantic meeting',
+    romaji: '[dēto]',
+    speech_part: 'VERBAL NOUN',
+    id:1449
+  },
+  {
+    kanji: '梅雨',
+    def: 'rainy season',
+    romaji: '[tsuyu]',
+    speech_part: 'NOUN',
+    id:1450
+  },
+  {
+    kanji: '襖',
+    def: 'paper sliding door',
+    romaji: '[fusuma]',
+    speech_part: 'NOUN',
+    id:1451
+  },
+  {
+    kanji: '真っ直ぐ',
+    def: 'straight',
+    romaji: '[massugu]',
+    speech_part: 'ADV.',
+    id:1452
+  },
+  {
+    kanji: 'レモン',
+    def: 'lemon',
+    romaji: '[remon]',
+    speech_part: 'NOUN',
+    id:1453
+  },
+  {
+    kanji: '上着',
+    def: 'outwear, coat',
+    romaji: '[uwagi]',
+    speech_part: 'NOUN',
+    id:1454
+  },
+  {
+    kanji: '偉い',
+    def: 'great, eminent',
+    romaji: '[erai]',
+    speech_part: 'ADJ.',
+    id:1455
+  },
+  {
+    kanji: '書き方',
+    def: 'how to write, way of writing',
+    romaji: '[kaki-kata]',
+    speech_part: 'NOUN',
+    id:1456
+  },
+  {
+    kanji: '炊く',
+    def: 'cooking (rice)',
+    romaji: '[taku]',
+    speech_part: 'VERB',
+    id:1457
+  },
+  {
+    kanji: 'チーズ',
+    def: 'cheese',
+    romaji: '[chīzu]',
+    speech_part: 'NOUN',
+    id:1458
+  },
+  {
+    kanji: 'ドライブ',
+    def: 'drive (loan word)',
+    romaji: '[doraibu]',
+    speech_part: 'VERBAL NOUN',
+    id:1459
+  },
+  {
+    kanji: '踏切',
+    def: 'railroad crossing',
+    romaji: '[fumikiri]',
+    speech_part: 'NOUN',
+    id:1460
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:144
+  //   id:146
   // },
 ];
 
