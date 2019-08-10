@@ -113,7 +113,7 @@ const JapData = [
   },
   {
     kanji: '美人',
-    def: 'pachinko',
+    def: 'beautiful woman',
     romaji: '[bijin]',
     speech_part: 'NOUN',
     id:1417
@@ -135,7 +135,7 @@ const JapData = [
   {
     kanji: '天気予報',
     def: 'weather forecast',
-    romaji: '[tenkeyohō]',
+    romaji: '[tenke-yohō]',
     speech_part: 'NOUN',
     id:1420
   },
