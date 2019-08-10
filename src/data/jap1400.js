@@ -698,14 +698,7 @@ const JapData = [
     romaji: '[danbō]',
     speech_part: 'VERBAL NOUN',
     id:1400
-  },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:14
-  // },
+  }
 ];
 
 export default JapData;
