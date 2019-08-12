@@ -247,7 +247,7 @@ const JapData = [
   {
     kanji: '写す',
     def: 'copy, photograph',
-    romaji: '[utsusu[',
+    romaji: '[utsusu]',
     speech_part: 'VERB',
     id:1436
   },
@@ -274,7 +274,7 @@ const JapData = [
   },
   {
     kanji: '冷やす',
-    def: 'chill (something), cool down',
+    def: 'chill / cool down (something)',
     romaji: '[hiyasu]',
     speech_part: 'VERB',
     id:1440
@@ -282,13 +282,13 @@ const JapData = [
   {
     kanji: '片付ける',
     def: 'put in order, clean up',
-    romaji: '[katazukeru]',
+    romaji: '[katazu-keru]',
     speech_part: 'VERB',
     id:1441
   },
   {
     kanji: '乾杯',
-    def: 'toast, drink (in celebration',
+    def: 'toast, drink (in celebration)',
     romaji: '[kanpai]',
     speech_part: 'VERBAL NOUN',
     id:1442
@@ -415,16 +415,156 @@ const JapData = [
   {
     kanji: '踏切',
     def: 'railroad crossing',
-    romaji: '[fumikiri]',
+    romaji: '[fumi-kiri]',
     speech_part: 'NOUN',
     id:1460
+  },
+  {
+    kanji: 'ラケット',
+    def: 'racket',
+    romaji: '[raketto]',
+    speech_part: 'NOUN',
+    id:1461
+  },
+  {
+    kanji: '受付',
+    def: 'receptionist, information ofice',
+    romaji: '[uke-tsuke]',
+    speech_part: 'NOUN',
+    id:1462
+  },
+  {
+    kanji: '怒る',
+    def: 'get angry, scold',
+    romaji: '[okoru]',
+    speech_part: 'VERB',
+    id:1463
+  },
+  {
+    kanji: '化粧',
+    def: 'make up',
+    romaji: '[keshō]',
+    speech_part: 'NOUN',
+    id:1464
+  },
+  {
+    kanji: '都合',
+    def: 'convenience, availabity',
+    romaji: '[tsugō]',
+    speech_part: 'NOUN',
+    id:1465
+  },
+  {
+    kanji: 'ひげ',
+    def: 'beard, moustache',
+    romaji: '[hige]',
+    speech_part: 'NOUN',
+    id:1466
+  },
+  {
+    kanji: '本棚',
+    def: 'bookshelf, bookcase',
+    romaji: '[hondana]',
+    speech_part: 'NOUN',
+    id:1467
+  },
+  {
+    kanji: '真っ暗',
+    def: 'pitch-dark',
+    romaji: '[makkura]',
+    speech_part: 'ADJ. NOUN',
+    id:1468
+  },
+  {
+    kanji: '沸く',
+    def: 'boil, get loud (crowd applause)',
+    romaji: '[waku]',
+    speech_part: 'VERB',
+    id:1469
+  },
+  {
+    kanji: '売り切れる',
+    def: 'sell out, go out of stock',
+    romaji: '[uri-kireru]',
+    speech_part: 'VERB',
+    id:1470
+  },
+  {
+    kanji: '押し入れ',
+    def: 'sliding-door closet',
+    romaji: '[oshiire]',
+    speech_part: 'NOUN',
+    id:1471
+  },
+  {
+    kanji: '革',
+    def: 'leather',
+    romaji: '[kawa]',
+    speech_part: 'NOUN',
+    id:1472
+  },
+  {
+    kanji: 'ぐっすり',
+    def: 'soundly',
+    romaji: '[gussuri]',
+    speech_part: 'ADV.',
+    id:1473
+  },
+  {
+    kanji: '紅茶',
+    def: 'black tea',
+    romaji: '[kōcha]',
+    speech_part: 'NOUN',
+    id:1474
+  },
+  {
+    kanji: '邪魔',
+    def: 'disturbance, blocking',
+    romaji: '[jama]',
+    speech_part: 'ADJ. NOUN',
+    id:1475
+  },
+  {
+    kanji: 'タイプライター',
+    def: 'typewriter',
+    romaji: '[taipu-raitā]',
+    speech_part: 'NOUN',
+    id:1476
+  },
+  {
+    kanji: 'ソース',
+    def: 'sauce',
+    romaji: '[sōsu]',
+    speech_part: 'NOUN',
+    id:1477
+  },
+  {
+    kanji: '足す',
+    def: 'add (things of the same kind)',
+    romaji: '[tasu]',
+    speech_part: 'VERB',
+    id:1478
+  },
+  {
+    kanji: 'トマト',
+    def: 'tomato',
+    romaji: '[tomato]',
+    speech_part: 'NOUN',
+    id:1479
+  },
+  {
+    kanji: 'バター',
+    def: 'butter',
+    romaji: '[batā]',
+    speech_part: 'NOUN',
+    id:1480
   },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:146
+  //   id:148
   // },
 ];
 
