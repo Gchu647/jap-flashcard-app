@@ -449,7 +449,7 @@ const JapData = [
   },
   {
     kanji: '都合',
-    def: 'convenience, availabity',
+    def: 'convenience, availability',
     romaji: '[tsugō]',
     speech_part: 'NOUN',
     id:1465
@@ -559,12 +559,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1480
   },
+  {
+    kanji: '発車',
+    def: 'departure (of a vehicle)',
+    romaji: '[hassha]',
+    speech_part: 'VERBAL NOUN',
+    id:1481
+  },
+  {
+    kanji: 'バレーボール',
+    def: 'volleyball',
+    romaji: '[barēbōru]',
+    speech_part: 'NOUN',
+    id:1482
+  },
+  {
+    kanji: 'おかず',
+    def: 'side dishes (for rice)',
+    romaji: '[okazu]',
+    speech_part: 'NOUN',
+    id:1483
+  },
+  {
+    kanji: 'カレンダー',
+    def: 'calendar',
+    romaji: '[karendā]',
+    speech_part: 'NOUN',
+    id:1484
+  },
+  {
+    kanji: 'とにかく',
+    def: 'in any case, anyway',
+    romaji: '[toni-kaku]',
+    speech_part: 'ADV.',
+    id:1485
+  },
+  {
+    kanji: '楽しみ',
+    def: 'enjoyment, something to look forward to',
+    romaji: '[tano-shimi]',
+    speech_part: 'NOUN',
+    id:1486
+  },
+  {
+    kanji: 'おしゃべり',
+    def: 'chatter, idle talk',
+    romaji: '[osha-beri]',
+    speech_part: 'NOUN',
+    id:1487
+  },
+  {
+    kanji: '読書',
+    def: 'reading books',
+    romaji: '[dokusho]',
+    speech_part: 'VERBAL NOUN',
+    id:1488
+  },
+  {
+    kanji: '寒気',
+    def: 'chill',
+    romaji: '[samuke]',
+    speech_part: 'NOUN',
+    id:1489
+  },
+  {
+    kanji: '夕焼け',
+    def: 'sunset glow',
+    romaji: '[yūyake]',
+    speech_part: 'NOUN',
+    id:1490
+  },
+  {
+    kanji: '痛める',
+    def: 'damage, hurt',
+    romaji: '[ita-meru]',
+    speech_part: 'VERB',
+    id:1491
+  },
+  {
+    kanji: 'くすぐったい',
+    def: 'ticklish',
+    romaji: '[kusugu-ttai]',
+    speech_part: 'ADJ.',
+    id:1492
+  },
+  {
+    kanji: '再来年',
+    def: 'the year after next',
+    romaji: '[sarai-nian]',
+    speech_part: 'NOUN',
+    id:1493
+  },
+  {
+    kanji: '冗談',
+    def: 'joke',
+    romaji: '[jōdan]',
+    speech_part: 'NOUN',
+    id:1494
+  },
+  {
+    kanji: '近づく',
+    def: 'approach, come close',
+    romaji: '[shika-tsuku]',
+    speech_part: 'VERB',
+    id:1495
+  },
+  {
+    kanji: '電話帳',
+    def: 'telephone book',
+    romaji: '[denwachō]',
+    speech_part: 'NOUN',
+    id:1496
+  },
+  {
+    kanji: 'ベル',
+    def: 'bell',
+    romaji: '[beru]',
+    speech_part: 'NOUN',
+    id:1497
+  },
+  {
+    kanji: '干す',
+    def: 'hang (something) out to dry',
+    romaji: '[hosu]',
+    speech_part: 'VERB',
+    id:1498
+  },
+  {
+    kanji: '蚊',
+    def: 'mosquito',
+    romaji: '[ka]',
+    speech_part: 'NOUN',
+    id:1499
+  },
+  {
+    kanji: '悲しむ',
+    def: 'feel sad',
+    romaji: '[kana-shimu]',
+    speech_part: 'VERB',
+    id:1500
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:148
+  //   id:150
   // },
 ];
 
