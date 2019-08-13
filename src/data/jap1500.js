@@ -698,14 +698,7 @@ const JapData = [
     romaji: '[kana-shimu]',
     speech_part: 'VERB',
     id:1500
-  },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:150
-  // },
+  }
 ];
 
 export default JapData;
