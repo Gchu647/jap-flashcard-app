@@ -254,7 +254,7 @@ const JapData = [
   {
     kanji: 'スーパーマーケット',
     def: 'supermarket',
-    romaji: '[sūpā-māketto',
+    romaji: '[sūpā-māketto]',
     speech_part: 'NOUN',
     id:1537
   },
@@ -279,12 +279,152 @@ const JapData = [
     speech_part: 'VERBAL NOUN',
     id:1540
   },
+  {
+    kanji: '止める',
+    def: 'stop (something/someone)',
+    romaji: '[tomeru]',
+    speech_part: 'VERB',
+    id:1541
+  },
+  {
+    kanji: '年下',
+    def: 'younger, junior',
+    romaji: '[toshi-shita]',
+    speech_part: 'NOUN',
+    id:1542
+  },
+  {
+    kanji: '治す',
+    def: 'cure (something)',
+    romaji: '[naosu]',
+    speech_part: 'VERB',
+    id:1543
+  },
+  {
+    kanji: '箸',
+    def: 'chopsticks',
+    romaji: '[hashi]',
+    speech_part: 'NOUN',
+    id:1544
+  },
+  {
+    kanji: '花見',
+    def: 'flower viewing',
+    romaji: '[hanami]',
+    speech_part: 'NOUN',
+    id:1545
+  },
+  {
+    kanji: '引き出し',
+    def: 'drawer',
+    romaji: '[hiki-dashi]',
+    speech_part: 'NOUN',
+    id:1546
+  },
+  {
+    kanji: '訳',
+    def: 'translation',
+    romaji: '[yaku]',
+    speech_part: 'NOUN',
+    id:1547
+  },
+  {
+    kanji: 'いかが',
+    def: 'how (polite)',
+    romaji: '[ikaga]',
+    speech_part: 'ADV.',
+    id:1548
+  },
+  {
+    kanji: '交通費',
+    def: 'transportation expense',
+    romaji: '[kōtsū-hi]',
+    speech_part: 'NOUN',
+    id:1549
+  },
+  {
+    kanji: 'ステレオ',
+    def: 'stereo',
+    romaji: '[sutereo]',
+    speech_part: 'NOUN',
+    id:1550
+  },
+  {
+    kanji: '滑る',
+    def: 'slide, slip',
+    romaji: '[suberu]',
+    speech_part: 'VERB',
+    id:1551
+  },
+  {
+    kanji: '早口',
+    def: 'speaking fast',
+    romaji: '[hayakuchi]',
+    speech_part: 'NOUN',
+    id:1552
+  },
+  {
+    kanji: '裏返す',
+    def: 'turn over, turn inside out',
+    romaji: '[ura-gaesu]',
+    speech_part: 'VERB',
+    id:1553
+  },
+  {
+    kanji: '角',
+    def: 'corner, edge',
+    romaji: '[kado]',
+    speech_part: 'NOUN',
+    id:1554
+  },
+  {
+    kanji: 'きらきら',
+    def: 'sparkling, glittering',
+    romaji: '[kira-kira]',
+    speech_part: 'ADV.',
+    id:1555
+  },
+  {
+    kanji: '三角',
+    def: 'triangle',
+    romaji: '[sankaku]',
+    speech_part: 'NOUN',
+    id:1556
+  },
+  {
+    kanji: '大統領',
+    def: 'president (country)',
+    romaji: '[daitō-ryō]',
+    speech_part: 'NOUN',
+    id:1557
+  },
+  {
+    kanji: '激しい',
+    def: 'violent, intense',
+    romaji: '[hageshī]',
+    speech_part: 'ADJ.',
+    id:1558
+  },
+  {
+    kanji: '経営',
+    def: 'management, operation',
+    romaji: '[keiei]',
+    speech_part: 'VERBAL NOUN',
+    id:1559
+  },
+  {
+    kanji: '拡大',
+    def: 'magnification, enlargment',
+    romaji: '[kakudai]',
+    speech_part: 'VERBAL NOUN',
+    id:1560
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:154
+  //   id:156
   // },
 ];
 
