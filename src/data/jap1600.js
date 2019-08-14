@@ -16,7 +16,7 @@ const JapData = [
   {
     kanji: '洗濯機',
     def: 'washing machine',
-    romaji: '[sentakuki]',
+    romaji: '[senta-kuki]',
     speech_part: 'NOUN',
     id:1503
   },
@@ -127,7 +127,7 @@ const JapData = [
   },
   {
     kanji: '真っ黒',
-    def: 'black, jet-black',
+    def: 'jet-black',
     romaji: '[makkuro]',
     speech_part: 'NOUN',
     id:1519
@@ -139,12 +139,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1520
   },
+  {
+    kanji: 'ラーメン',
+    def: 'ramen (Chinese noodles)',
+    romaji: '[rāmen]',
+    speech_part: 'NOUN',
+    id:1521
+  },
+  {
+    kanji: 'ライター',
+    def: 'lighter',
+    romaji: '[raitā]',
+    speech_part: 'NOUN',
+    id:1522
+  },
+  {
+    kanji: 'ワイシャツ',
+    def: 'business shirt, dress shirt',
+    romaji: '[waishatsu]',
+    speech_part: 'NOUN',
+    id:1523
+  },
+  {
+    kanji: '転ぶ',
+    def: 'fall down, fall over',
+    romaji: '[korobu]',
+    speech_part: 'VERB',
+    id:1524
+  },
+  {
+    kanji: 'シャワー',
+    def: 'shower',
+    romaji: '[shawā]',
+    speech_part: 'NOUN',
+    id:1525
+  },
+  {
+    kanji: '扇風機',
+    def: 'electric fan',
+    romaji: '[senpūki]',
+    speech_part: 'NOUN',
+    id:1526
+  },
+  {
+    kanji: '遅刻',
+    def: 'tardiness, lateness',
+    romaji: '[chikoku]',
+    speech_part: 'VERBAL NOUN',
+    id:1527
+  },
+  {
+    kanji: '釣る',
+    def: 'fish, catch',
+    romaji: '[tsuru]',
+    speech_part: 'VERB',
+    id:1528
+  },
+  {
+    kanji: 'うどん',
+    def: 'Japanese wheat noodles',
+    romaji: '[udon]',
+    speech_part: 'NOUN',
+    id:1529
+  },
+  {
+    kanji: '家内',
+    def: 'ones wife',
+    romaji: '[kanai]',
+    speech_part: 'NOUN',
+    id:1530
+  },
+  {
+    kanji: '記念日',
+    def: 'memorial day, anniversary',
+    romaji: '[kinenbi]',
+    speech_part: 'NOUN',
+    id:1531
+  },
+  {
+    kanji: '下り',
+    def: 'going down, going away fron central place',
+    romaji: '[kudari]',
+    speech_part: 'NOUN',
+    id:1532
+  },
+  {
+    kanji: '掲示板',
+    def: 'notice board, bulletin board',
+    romaji: '[keijiban]',
+    speech_part: 'NOUN',
+    id:1533
+  },
+  {
+    kanji: '凍る',
+    def: 'freeze',
+    romaji: '[kōru]',
+    speech_part: 'VERB',
+    id:1534
+  },
+  {
+    kanji: 'ごみ',
+    def: 'trash',
+    romaji: '[gomi]',
+    speech_part: 'NOUN',
+    id:1535
+  },
+  {
+    kanji: '消防署',
+    def: 'fire station',
+    romaji: '[shōbōsho]',
+    speech_part: 'NOUN',
+    id:1536
+  },
+  {
+    kanji: 'スーパーマーケット',
+    def: 'supermarket',
+    romaji: '[sūpā-māketto',
+    speech_part: 'NOUN',
+    id:1537
+  },
+  {
+    kanji: 'ぶらぶら',
+    def: 'aimlessly, idly',
+    romaji: '[bura-bura]',
+    speech_part: 'ADV.',
+    id:1538
+  },
+  {
+    kanji: 'アナウンサー',
+    def: 'announcer',
+    romaji: '[anaunsā]',
+    speech_part: 'NOUN',
+    id:1539
+  },
+  {
+    kanji: '自炊',
+    def: 'cooking (for oneself)',
+    romaji: '[jisui]',
+    speech_part: 'VERBAL NOUN',
+    id:1540
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:152
+  //   id:154
   // },
 ];
 
