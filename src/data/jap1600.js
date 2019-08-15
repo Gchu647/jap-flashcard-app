@@ -559,12 +559,152 @@ const JapData = [
     speech_part: 'VERB',
     id:1580
   },
+  {
+    kanji: 'まあ',
+    def: 'well',
+    romaji: '[mā]',
+    speech_part: 'INTERJECTION',
+    id:1581
+  },
+  {
+    kanji: 'メール',
+    def: 'email',
+    romaji: '[mēru]',
+    speech_part: 'VERBAL NOUN',
+    id:1582
+  },
+  {
+    kanji: 'インターネット',
+    def: 'Internet',
+    romaji: '[intā-netto]',
+    speech_part: 'NOUN',
+    id:1583
+  },
+  {
+    kanji: '出身',
+    def: 'come from, origin',
+    romaji: '[shusshin]',
+    speech_part: 'NOUN',
+    id:1584
+  },
+  {
+    kanji: '金額',
+    def: 'amount of money, sum',
+    romaji: '[kingaku]',
+    speech_part: 'NOUN',
+    id:1585
+  },
+  {
+    kanji: '職業',
+    def: 'occupation',
+    romaji: '[shokugyō]',
+    speech_part: 'NOUN',
+    id:1586
+  },
+  {
+    kanji: 'スター',
+    def: 'start (celeb)',
+    romaji: '[sutā]',
+    speech_part: 'NOUN',
+    id:1587
+  },
+  {
+    kanji: 'くだらない',
+    def: 'worthless, trifling',
+    romaji: '[kuda-ranai]',
+    speech_part: 'ADJ.',
+    id:1588
+  },
+  {
+    kanji: '再会',
+    def: 'meeting again, reunion',
+    romaji: '[saikai]',
+    speech_part: 'VERBAL NOUN',
+    id:1589
+  },
+  {
+    kanji: '名簿',
+    def: 'name list',
+    romaji: '[meibo]',
+    speech_part: 'NOUN',
+    id:1590
+  },
+  {
+    kanji: '通常',
+    def: 'common, usually',
+    romaji: '[tsūjō]',
+    speech_part: 'NOUN',
+    id:1591
+  },
+  {
+    kanji: '入場券',
+    def: 'entrance ticket',
+    romaji: '[nyūjō-ken]',
+    speech_part: 'NOUN',
+    id:1592
+  },
+  {
+    kanji: 'ネックレス',
+    def: 'necklace',
+    romaji: '[nekku-resu',
+    speech_part: 'NOUN',
+    id:1593
+  },
+  {
+    kanji: 'パジャマ',
+    def: 'pajamas',
+    romaji: 'pajama',
+    speech_part: 'NOUN',
+    id:1594
+  },
+  {
+    kanji: 'ボールペン',
+    def: 'ballpoint pen',
+    romaji: '[bōru-pen]',
+    speech_part: 'NOUN',
+    id:1595
+  },
+  {
+    kanji: '柔らか',
+    def: 'soft, gentle',
+    romaji: '[yawa-raka]',
+    speech_part: 'ADJ. NOUN',
+    id:1596
+  },
+  {
+    kanji: '覚ます',
+    def: 'awaken, wake up',
+    romaji: '[samasu]',
+    speech_part: 'VERB',
+    id:1597
+  },
+  {
+    kanji: 'すいか',
+    def: 'watermelon',
+    romaji: '[suika]',
+    speech_part: 'NOUN',
+    id:1598
+  },
+  {
+    kanji: 'そば',
+    def: 'buckwheat noodles',
+    romaji: '[soba]',
+    speech_part: 'NOUN',
+    id:1599
+  },
+  {
+    kanji: '特急',
+    def: 'super-express, limited express',
+    romaji: '[tokkyū]',
+    speech_part: 'NOUN',
+    id:1600
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:158
+  //   id:160
   // },
 ];
 
