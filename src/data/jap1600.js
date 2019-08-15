@@ -419,12 +419,152 @@ const JapData = [
     speech_part: 'VERBAL NOUN',
     id:1560
   },
+  {
+    kanji: '姿勢',
+    def: 'posture, position',
+    romaji: '[shiei]',
+    speech_part: 'NOUN',
+    id:1561
+  },
+  {
+    kanji: '周辺',
+    def: 'area, region',
+    romaji: '[shūhen]',
+    speech_part: 'NOUN',
+    id:1562
+  },
+  {
+    kanji: '他',
+    def: 'other (Chinese origin)',
+    romaji: '[ta]',
+    speech_part: 'NOUN',
+    id:1563
+  },
+  {
+    kanji: '達する',
+    def: 'attain, reach',
+    romaji: '[tassuru]',
+    speech_part: 'VERB',
+    id:1564
+  },
+  {
+    kanji: '当時',
+    def: 'at the time',
+    romaji: '[tōji]',
+    speech_part: 'NOUN',
+    id:1565
+  },
+  {
+    kanji: '当然',
+    def: 'natural, as a matter of course',
+    romaji: '[tōzen]',
+    speech_part: 'NOUN',
+    id:1566
+  },
+  {
+    kanji: '能力',
+    def: 'capability, ability',
+    romaji: '[nōryoku]',
+    speech_part: 'NOUN',
+    id:1567
+  },
+  {
+    kanji: '判断',
+    def: 'judgment, decision',
+    romaji: '[handan]',
+    speech_part: 'VERBAL NOUN',
+    id:1568
+  },
+  {
+    kanji: '再び',
+    def: 'again, a second time',
+    romaji: '[futa-tabi]',
+    speech_part: 'ADV.',
+    id:1569
+  },
+  {
+    kanji: '過ぎる',
+    def: 'pass by, go past',
+    romaji: '[sugiru]',
+    speech_part: 'VERB',
+    id:1570
+  },
+  {
+    kanji: '正確',
+    def: 'accurate, precise',
+    romaji: '[seikaku]',
+    speech_part: 'ADJ. NOUN',
+    id:1571
+  },
+  {
+    kanji: '戦争',
+    def: 'war between countries',
+    romaji: '[sensō]',
+    speech_part: 'NOUN',
+    id:1572
+  },
+  {
+    kanji: '放送',
+    def: 'broadcasting',
+    romaji: '[hōsō]',
+    speech_part: 'VERBAL NOUN',
+    id:1573
+  },
+  {
+    kanji: '習慣',
+    def: 'custom, habit',
+    romaji: '[shūkan]',
+    speech_part: 'NOUN',
+    id:1574
+  },
+  {
+    kanji: 'フィルム',
+    def: 'film',
+    romaji: '[firumu]',
+    speech_part: 'NOUN',
+    id:1575
+  },
+  {
+    kanji: '受け付ける',
+    def: 'receive, accept',
+    romaji: '[uke-tsukeru]',
+    speech_part: 'VERB',
+    id:1576
+  },
+  {
+    kanji: 'ダンス',
+    def: 'dance, dancing (loan word)',
+    romaji: '[dansu]',
+    speech_part: 'VERBAL NOUN',
+    id:1577
+  },
+  {
+    kanji: '四角',
+    def: 'square',
+    romaji: '[shikaku]',
+    speech_part: 'ADJ. NOUN',
+    id:1578
+  },
+  {
+    kanji: 'こんなに',
+    def: 'this much, such',
+    romaji: '[kon-nani]',
+    speech_part: 'ADV.',
+    id:1579
+  },
+  {
+    kanji: '吹く',
+    def: 'blow, play (a wind instrument)',
+    romaji: '[fuku] (2)',
+    speech_part: 'VERB',
+    id:1580
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:156
+  //   id:158
   // },
 ];
 
