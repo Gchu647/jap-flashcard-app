@@ -603,7 +603,7 @@ const JapData = [
   },
   {
     kanji: 'スター',
-    def: 'start (celeb)',
+    def: 'star (celeb)',
     romaji: '[sutā]',
     speech_part: 'NOUN',
     id:1587
@@ -646,7 +646,7 @@ const JapData = [
   {
     kanji: 'ネックレス',
     def: 'necklace',
-    romaji: '[nekku-resu',
+    romaji: '[nekku-resu]',
     speech_part: 'NOUN',
     id:1593
   },
@@ -686,7 +686,7 @@ const JapData = [
     id:1598
   },
   {
-    kanji: 'そば',
+    kanji: 'そば (2)',
     def: 'buckwheat noodles',
     romaji: '[soba]',
     speech_part: 'NOUN',
@@ -699,13 +699,6 @@ const JapData = [
     speech_part: 'NOUN',
     id:1600
   },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:160
-  // },
 ];
 
 export default JapData;
