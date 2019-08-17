@@ -419,12 +419,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1660
   },
+  {
+    kanji: '寝坊',
+    def: 'oversleeping',
+    romaji: '[nebō]',
+    speech_part: 'VERBAL NOUN',
+    id:1661
+  },
+  {
+    kanji: '鋏',
+    def: 'scissors',
+    romaji: '[hasami]',
+    speech_part: 'NOUN',
+    id:1662
+  },
+  {
+    kanji: '畑',
+    def: 'field, farm',
+    romaji: '[hatake]',
+    speech_part: 'NOUN',
+    id:1663
+  },
+  {
+    kanji: 'ピクニック',
+    def: 'picnic',
+    romaji: '[piku-nikku]',
+    speech_part: 'NOUN',
+    id:1664
+  },
+  {
+    kanji: '真っ青',
+    def: 'deep-blue, pale',
+    romaji: '[massao]',
+    speech_part: 'ADJ. NOUN',
+    id:1665
+  },
+  {
+    kanji: '汚す',
+    def: 'make (something) dirty',
+    romaji: '[yogosu]',
+    speech_part: 'VERB',
+    id:1666
+  },
+  {
+    kanji: '酔っ払う',
+    def: 'get drunk',
+    romaji: '[yoppa-rau]',
+    speech_part: 'VERB',
+    id:1667
+  },
+  {
+    kanji: '忘れ物',
+    def: 'something left behind, lost item',
+    romaji: '[wasure-mono]',
+    speech_part: 'NOUN',
+    id:1668
+  },
+  {
+    kanji: '掛け算',
+    def: 'multiplication',
+    romaji: '[kakezan]',
+    speech_part: 'VERBAL NOUN',
+    id:1669
+  },
+  {
+    kanji: '臭い',
+    def: 'stinky',
+    romaji: '[kusai]',
+    speech_part: 'ADJ.',
+    id:1670
+  },
+  {
+    kanji: '突き当たり',
+    def: 'end of a street',
+    romaji: '[tsukiatari]',
+    speech_part: 'NOUN',
+    id:1671
+  },
+  {
+    kanji: 'どきどき',
+    def: 'heart pounding manner',
+    romaji: '[doki-doki]',
+    speech_part: 'ADV.',
+    id:1672
+  },
+  {
+    kanji: '納豆',
+    def: 'fermented soybeans',
+    romaji: '[nattō]',
+    speech_part: 'NOUN',
+    id:1673
+  },
+  {
+    kanji: 'マフラー',
+    def: 'scarf, muffler',
+    romaji: '[mafurā]',
+    speech_part: 'NOUN',
+    id:1674
+  },
+  {
+    kanji: '桃',
+    def: 'peach',
+    romaji: '[momo]',
+    speech_part: 'NOUN',
+    id:1675
+  },
+  {
+    kanji: 'アクセサリー',
+    def: 'accessories, jewelry',
+    romaji: '[aku-sesarī]',
+    speech_part: 'NOUN',
+    id:1676
+  },
+  {
+    kanji: 'あくび',
+    def: 'yawn',
+    romaji: '[akubi]',
+    speech_part: 'NOUN',
+    id:1677
+  },
+  {
+    kanji: 'あめ',
+    def: 'candy',
+    romaji: '[ame]',
+    speech_part: 'NOUN',
+    id:1678
+  },
+  {
+    kanji: '上り',
+    def: 'going up, ascent',
+    romaji: '[nobori]',
+    speech_part: 'NOUN',
+    id:1679
+  },
+  {
+    kanji: 'なるべく',
+    def: 'as... as possible, if possible',
+    romaji: '[narubeku]',
+    speech_part: 'ADV.',
+    id:1680
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:166
+  //   id:168
   // },
 ];
 
