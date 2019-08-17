@@ -351,7 +351,7 @@ const JapData = [
   },
   {
     kanji: 'コップ',
-    def: 'cup, glasses',
+    def: '(glass) cup, glasses',
     romaji: '[koppu]',
     speech_part: 'NOUN',
     id:751

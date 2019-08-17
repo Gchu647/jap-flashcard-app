@@ -279,12 +279,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1640
   },
+  {
+    kanji: 'かゆい',
+    def: 'itchy',
+    romaji: '[kayui]',
+    speech_part: 'ADJ.',
+    id:1641
+  },
+  {
+    kanji: '乾かす',
+    def: 'dry (something)',
+    romaji: '[kawa-kasu]',
+    speech_part: 'VERB',
+    id:1642
+  },
+  {
+    kanji: 'ぐらぐら',
+    def: 'shaky, unstable',
+    romaji: '[gura-gura]',
+    speech_part: 'ADV.',
+    id:1643
+  },
+  {
+    kanji: '航空便',
+    def: 'airmail, airfreight',
+    romaji: '[kōkū-bin]',
+    speech_part: 'NOUN',
+    id:1644
+  },
+  {
+    kanji: 'ジャム',
+    def: '(fruit) jam',
+    romaji: '[jamu]',
+    speech_part: 'NOUN',
+    id:1645
+  },
+  {
+    kanji: 'スリッパ',
+    def: 'slippers',
+    romaji: '[surippa]',
+    speech_part: 'NOUN',
+    id:1646
+  },
+  {
+    kanji: '畳む',
+    def: 'fold, shut',
+    romaji: '[tatamu]',
+    speech_part: 'VERB',
+    id:1647
+  },
+  {
+    kanji: 'トランプ',
+    def: 'playing cards',
+    romaji: '[toranpu]',
+    speech_part: 'VERBAL NOUN',
+    id:1648
+  },
+  {
+    kanji: '日陰',
+    def: 'shade of the sun',
+    romaji: '[hikage]',
+    speech_part: 'NOUN',
+    id:1649
+  },
+  {
+    kanji: '文房具',
+    def: 'stationary, writing materials',
+    romaji: '[bunbōgu]',
+    speech_part: 'NOUN',
+    id:1650
+  },
+  {
+    kanji: '免許証',
+    def: 'license',
+    romaji: '[menkyo-shō]',
+    speech_part: 'NOUN',
+    id:1651
+  },
+  {
+    kanji: '訳す',
+    def: 'translate',
+    romaji: '[yakusu]',
+    speech_part: 'VERB',
+    id:1652
+  },
+  {
+    kanji: 'よろしい',
+    def: 'all right',
+    romaji: '[yoroshī]',
+    speech_part: 'ADJ.',
+    id:1653
+  },
+  {
+    kanji: '両替',
+    def: 'money exchange',
+    romaji: '[ryōgae]',
+    speech_part: 'VERBAL NOUN',
+    id:1654
+  },
+  {
+    kanji: '片づく',
+    def: 'be put in order, be finished',
+    romaji: '[kata-zuku]',
+    speech_part: 'VERB',
+    id:1655
+  },
+  {
+    kanji: 'カップ',
+    def: '(mug) cup',
+    romaji: '[kappu]',
+    speech_part: 'NOUN',
+    id:1656
+  },
+  {
+    kanji: '消しゴム',
+    def: 'eraser',
+    romaji: '[keshi-gomu]',
+    speech_part: 'NOUN',
+    id:1657
+  },
+  {
+    kanji: '主人',
+    def: 'ones husband, master',
+    romaji: '[shujin]',
+    speech_part: 'NOUN',
+    id:1658
+  },
+  {
+    kanji: 'スケート',
+    def: 'skating',
+    romaji: '[sukēto]',
+    speech_part: 'VERBAL NOUN',
+    id:1659
+  },
+  {
+    kanji: '鍋',
+    def: 'pot',
+    romaji: '[nabe]',
+    speech_part: 'NOUN',
+    id:1660
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:164
+  //   id:166
   // },
 ];
 
