@@ -492,7 +492,7 @@ const JapData = [
   {
     kanji: '突き当たり',
     def: 'end of a street',
-    romaji: '[tsukiatari]',
+    romaji: '[tsuki-atari]',
     speech_part: 'NOUN',
     id:1671
   },
@@ -554,17 +554,157 @@ const JapData = [
   },
   {
     kanji: 'なるべく',
-    def: 'as... as possible, if possible',
+    def: 'as... as possible',
     romaji: '[narubeku]',
     speech_part: 'ADV.',
     id:1680
+  },
+  {
+    kanji: 'じっと',
+    def: 'without moving, still',
+    romaji: '[jitto]',
+    speech_part: 'ADV.',
+    id:1681
+  },
+  {
+    kanji: '食器',
+    def: 'tableware',
+    romaji: 'shokki',
+    speech_part: 'NOUN',
+    id:1682
+  },
+  {
+    kanji: '延ばす',
+    def: 'extend, postpone',
+    romaji: '[nobasu]',
+    speech_part: 'VERB',
+    id:1683
+  },
+  {
+    kanji: '薬局',
+    def: 'drugstore, pharmacy',
+    romaji: '[yakkyoku]',
+    speech_part: 'NOUN',
+    id:1684
+  },
+  {
+    kanji: '雄',
+    def: 'male (animal)',
+    romaji: '[osu]',
+    speech_part: 'NOUN',
+    id:1685
+  },
+  {
+    kanji: '雌',
+    def: 'female (animal)',
+    romaji: '[mesu]',
+    speech_part: 'NOUN',
+    id:1686
+  },
+  {
+    kanji: '和風',
+    def: 'Japanese style',
+    romaji: '[wafū]',
+    speech_part: 'NOUN',
+    id:1687
+  },
+  {
+    kanji: 'いびき',
+    def: 'snoring',
+    romaji: '[ibiki]',
+    speech_part: 'NOUN',
+    id:1688
+  },
+  {
+    kanji: '地域',
+    def: 'region, area',
+    romaji: '[chiiki]',
+    speech_part: 'NOUN',
+    id:1689
+  },
+  {
+    kanji: '勘違い',
+    def: 'misunderstanding',
+    romaji: '[kanchi-gai]',
+    speech_part: 'VERBAL NOUN',
+    id:1690
+  },
+  {
+    kanji: '重要',
+    def: 'important, essential',
+    romaji: '[jūyō]',
+    speech_part: 'ADJ. NOUN',
+    id:1691
+  },
+  {
+    kanji: 'からから',
+    def: 'very thirsty, very dry',
+    romaji: '[kara-kara]',
+    speech_part: 'ADJ. NOUN',
+    id:1692
+  },
+  {
+    kanji: '誘う',
+    def: 'invite, ask out',
+    romaji: '[sasō]',
+    speech_part: 'VERB',
+    id:1693
+  },
+  {
+    kanji: '昼前',
+    def: 'in the morning, before noon',
+    romaji: '[hirumae]',
+    speech_part: 'NOUN',
+    id:1694
+  },
+  {
+    kanji: 'ふらふら',
+    def: 'be dizzy, lightheaded',
+    romaji: '[fura-fura].',
+    speech_part: 'ADV.',
+    id:1695
+  },
+  {
+    kanji: 'こぼす',
+    def: 'spill (something)',
+    romaji: '[kobosu]',
+    speech_part: 'VERB',
+    id:1696
+  },
+  {
+    kanji: '持ってくる',
+    def: 'bring',
+    romaji: '[motte-kuru]',
+    speech_part: 'VERB',
+    id:1697
+  },
+  {
+    kanji: '刺身',
+    def: 'sliced raw fish or meat',
+    romaji: '[sashimi]',
+    speech_part: 'NOUN',
+    id:1698
+  },
+  {
+    kanji: '洗面所',
+    def: 'washroom, restroom',
+    romaji: '[senmenjo]',
+    speech_part: 'NOUN',
+    id:1699
+  },
+  {
+    kanji: '段々',
+    def: 'gradually, little by little',
+    romaji: '[dan-dan]',
+    speech_part: 'ADV.',
+    id:1700
   },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:168
+  //   id:170
   // },
 ];
 
