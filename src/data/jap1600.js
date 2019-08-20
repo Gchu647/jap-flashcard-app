@@ -86,7 +86,7 @@ const JapData = [
   {
     kanji: '代える',
     def: 'subsistute for',
-    romaji: '[kaeru] (3)',
+    romaji: '[kaeru] (4)',
     speech_part: 'VERB',
     id:1513
   },

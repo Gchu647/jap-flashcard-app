@@ -698,14 +698,7 @@ const JapData = [
     romaji: '[dan-dan]',
     speech_part: 'ADV.',
     id:1700
-  },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:170
-  // },
+  }
 ];
 
 export default JapData;

@@ -653,7 +653,7 @@ const JapData = [
   {
     kanji: '変える',
     def: 'change (something), alter',
-    romaji: '[kaeru]',
+    romaji: '[kaeru] (2)',
     speech_part: 'VERB',
     id:294
   },

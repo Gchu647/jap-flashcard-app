@@ -212,7 +212,7 @@ const JapData = [
   {
     kanji: '帰り',
     def: 'return, going home',
-    romaji: '[kaeru]',
+    romaji: '[kaeru] (3)',
     speech_part: 'VERB',
     id:1031
   },
