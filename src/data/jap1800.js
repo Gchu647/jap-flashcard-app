@@ -198,7 +198,7 @@ const JapData = [
   {
     kanji: '教育',
     def: 'education',
-    romaji: '[kyōiku]',
+    romaji: '[kyō-iku]',
     speech_part: 'VERBAL NOUN',
     id:1729
   },
@@ -260,7 +260,7 @@ const JapData = [
   },
   {
     kanji: '一方',
-    def: 'one way, the other way',
+    def: 'one way, the other party',
     romaji: '[ippō]',
     speech_part: 'ADV.',
     id:1738
@@ -279,12 +279,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1740
   },
+  {
+    kanji: '後',
+    def: 'after, afterward (formal)',
+    romaji: '[nochi]',
+    speech_part: 'NOUN',
+    id:1741
+  },
+  {
+    kanji: '愛する',
+    def: 'love, care for',
+    romaji: '[aisuru]',
+    speech_part: 'VERB',
+    id:1742
+  },
+  {
+    kanji: '人間',
+    def: 'human being',
+    romaji: '[ningen]',
+    speech_part: 'NOUN',
+    id:1743
+  },
+  {
+    kanji: 'ばら',
+    def: 'rose',
+    romaji: '[bara]',
+    speech_part: 'NOUN',
+    id:1744
+  },
+  {
+    kanji: 'ねずみ',
+    def: 'rat, mouse',
+    romaji: '[nezumi]',
+    speech_part: 'NOUN',
+    id:1745
+  },
+  {
+    kanji: '以下',
+    def: 'below',
+    romaji: '[ika]',
+    speech_part: 'NOUN',
+    id:1746
+  },
+  {
+    kanji: '昔',
+    def: 'old times, the old days',
+    romaji: '[mukashi]',
+    speech_part: 'NOUN',
+    id:1747
+  },
+  {
+    kanji: '訳',
+    def: 'reason, sense',
+    romaji: '[wake]',
+    speech_part: 'NOUN',
+    id:1748
+  },
+  {
+    kanji: '違い',
+    def: 'difference, mistake',
+    romaji: '[chigai]',
+    speech_part: 'NOUN',
+    id:1749
+  },
+  {
+    kanji: 'しっかり',
+    def: 'mature, responsible',
+    romaji: '[shikkari]',
+    speech_part: 'ADV.',
+    id:1750
+  },
+  {
+    kanji: '将来',
+    def: 'future, in the future',
+    romaji: '[shōrai]',
+    speech_part: 'NOUN',
+    id:1751
+  },
+  {
+    kanji: '不思議',
+    def: 'mystery, wonder',
+    romaji: '[fushigi]',
+    speech_part: 'ADJ. NOUN',
+    id:1752
+  },
+  {
+    kanji: '決して',
+    def: 'never, by no means',
+    romaji: '[kesshite]',
+    speech_part: 'ADV.',
+    id:1753
+  },
+  {
+    kanji: '失敗 ',
+    def: 'failure, mistake',
+    romaji: '[shippai]',
+    speech_part: 'VERBAL NOUN',
+    id:1754
+  },
+  {
+    kanji: '元気',
+    def: 'vigor, spirits',
+    romaji: '[genki]',
+    speech_part: 'NOUN',
+    id:1755
+  },
+  {
+    kanji: '番',
+    def: '(someones) turn',
+    romaji: '[ban]',
+    speech_part: 'NOUN',
+    id:1756
+  },
+  {
+    kanji: 'どんどん',
+    def: 'quickly, rapidly',
+    romaji: '[don-don]',
+    speech_part: 'ADV.',
+    id:1757
+  },
+  {
+    kanji: 'どうしても',
+    def: 'by any means, no matter what',
+    romaji: '[dōshi-temo]',
+    speech_part: 'ADV.',
+    id:1758
+  },
+  {
+    kanji: '別に',
+    def: 'particularly, not really',
+    romaji: '[betsuni]',
+    speech_part: 'ADV.',
+    id:1759
+  },
+  {
+    kanji: '母親',
+    def: 'mother, female parent',
+    romaji: '[haha-oya]',
+    speech_part: 'NOUN',
+    id:1760
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:174
+  //   id:176
   // },
 ];
 
