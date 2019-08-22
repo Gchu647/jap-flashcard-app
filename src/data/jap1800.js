@@ -698,14 +698,7 @@ const JapData = [
     romaji: '[tomeru] (2)',
     speech_part: 'VERB',
     id:1800
-  },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:180
-  // },
+  }
 ];
 
 export default JapData;
