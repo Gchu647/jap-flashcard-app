@@ -419,12 +419,292 @@ const JapData = [
     speech_part: 'NOUN',
     id:1760
   },
+  {
+    kanji: '何とか',
+    def: 'somehow or other',
+    romaji: '[nantoka]',
+    speech_part: 'ADV.',
+    id:1761
+  },
+  {
+    kanji: '出会う',
+    def: 'meet, encounter',
+    romaji: '[deau]',
+    speech_part: 'VERB',
+    id:1762
+  },
+  {
+    kanji: '悩む',
+    def: 'be troubled, suffer',
+    romaji: '[nayamu]',
+    speech_part: 'VERB',
+    id:1763
+  },
+  {
+    kanji: '父親',
+    def: 'father, male parent',
+    romaji: '[chichi-oya]',
+    speech_part: 'NOUN',
+    id:1764
+  },
+  {
+    kanji: '汗',
+    def: 'sweat',
+    romaji: '[ase]',
+    speech_part: 'NOUN',
+    id:1765
+  },
+  {
+    kanji: 'すっかり',
+    def: 'all, completely',
+    romaji: '[sukkari]',
+    speech_part: 'ADV.',
+    id:1766
+  },
+  {
+    kanji: '代わり',
+    def: 'substitution, alternative',
+    romaji: '[kawari]',
+    speech_part: 'NOUN',
+    id:1767
+  },
+  {
+    kanji: '一言',
+    def: 'single word, brief speech',
+    romaji: '[hito-koto]',
+    speech_part: 'NOUN',
+    id:1768
+  },
+  {
+    kanji: '豊か',
+    def: 'rich, ample',
+    romaji: '[yutaka]',
+    speech_part: 'ADJ. NOUN',
+    id:1769
+  },
+  {
+    kanji: '接続',
+    def: 'connection, joining',
+    romaji: '[setsu-zoku]',
+    speech_part: 'VERBAL NOUN',
+    id:1770
+  },
+  {
+    kanji: '抱える',
+    def: 'hold in ones arm',
+    romaji: '[kaka-eru]',
+    speech_part: 'VERB',
+    id:1771
+  },
+  {
+    kanji: 'エンジン',
+    def: 'engine',
+    romaji: '[enjin]',
+    speech_part: 'NOUN',
+    id:1772
+  },
+  {
+    kanji: '少女',
+    def: 'young girl',
+    romaji: '[shōjo]',
+    speech_part: 'NOUN',
+    id:1773
+  },
+  {
+    kanji: 'いよいよ',
+    def: 'finally, any moment',
+    romaji: '[iyo-iyo]',
+    speech_part: 'ADV.',
+    id:1774
+  },
+  {
+    kanji: '無駄',
+    def: 'pointless, waste',
+    romaji: '[muda]',
+    speech_part: 'ADJ. NOUN',
+    id:1775
+  },
+  {
+    kanji: 'コンサート',
+    def: 'concert',
+    romaji: '[konsāto]',
+    speech_part: 'NOUN',
+    id:1776
+  },
+  {
+    kanji: '自動',
+    def: 'automatic operation',
+    romaji: '[jidō]',
+    speech_part: 'NOUN',
+    id:1777
+  },
+  {
+    kanji: '先輩',
+    def: 'senior, superior',
+    romaji: '[senpai]',
+    speech_part: 'NOUN',
+    id:1778
+  },
+  {
+    kanji: '眺める',
+    def: 'gaze, look out',
+    romaji: '[naga-meru]',
+    speech_part: 'VERB',
+    id:1779
+  },
+  {
+    kanji: '書類',
+    def: 'documents, paper',
+    romaji: '[shorui]',
+    speech_part: 'NOUN',
+    id:1780
+  },
+  {
+    kanji: '年月',
+    def: 'years, periods of time',
+    romaji: '[nen-getsu]',
+    speech_part: 'NOUN',
+    id:1781
+  },
+  {
+    kanji: '燃やす',
+    def: 'burn (something)',
+    romaji: '[moyasu]',
+    speech_part: 'VERB',
+    id:1782
+  },
+  {
+    kanji: '線路',
+    def: 'railway track/line',
+    romaji: '[senro]',
+    speech_part: 'NOUN',
+    id:1783
+  },
+  {
+    kanji: '何しろ',
+    def: 'anyhow, as you may know',
+    romaji: '[nani-shiro]',
+    speech_part: 'ADV.',
+    id:1784
+  },
+  {
+    kanji: '水着',
+    def: 'bathing suit, swimsuit',
+    romaji: '[mizugi]',
+    speech_part: 'NOUN',
+    id:1785
+  },
+  {
+    kanji: '振り向く',
+    def: 'turn around, look back',
+    romaji: '[kuri-muku]',
+    speech_part: 'VERB',
+    id:1786
+  },
+  {
+    kanji: '可愛らしい',
+    def: 'lovely, charming',
+    romaji: '[kawai-rashi]',
+    speech_part: 'ADJ.',
+    id:1787
+  },
+  {
+    kanji: '仲良し',
+    def: 'good friend',
+    romaji: '[naka-yoshi]',
+    speech_part: 'NOUN',
+    id:1788
+  },
+  {
+    kanji: '梅干し',
+    def: 'pickled plum',
+    romaji: '[ome-boshi]',
+    speech_part: 'NOUN',
+    id:1789
+  },
+  {
+    kanji: '安っぽい',
+    def: 'cheap-looking, tacky',
+    romaji: '[yasuppoi]',
+    speech_part: 'ADJ.',
+    id:1790
+  },
+  {
+    kanji: '袋',
+    def: 'bag, sack',
+    romaji: '[fukuro]',
+    speech_part: 'NOUN',
+    id:1791
+  },
+  {
+    kanji: '風呂屋',
+    def: 'bathhouse, public bath',
+    romaji: '[furoya]',
+    speech_part: 'NOUN',
+    id:1792
+  },
+  {
+    kanji: '骨',
+    def: 'bone',
+    romaji: '[hone]',
+    speech_part: 'NOUN',
+    id:1793
+  },
+  {
+    kanji: '汚れ',
+    def: 'dirt, blot',
+    romaji: '[yogore]',
+    speech_part: 'NOUN',
+    id:1794
+  },
+  {
+    kanji: '間',
+    def: 'interval, space between things',
+    romaji: '[aida]',
+    speech_part: 'NOUN',
+    id:1795
+  },
+  {
+    kanji: '顎',
+    def: 'jaw, chin',
+    romaji: '[ago]',
+    speech_part: 'NOUN',
+    id:1796
+  },
+  {
+    kanji: '暖まる',
+    def: 'get warm (air, atmosphere, etc.)',
+    romaji: '[atata-maru]',
+    speech_part: 'VERB',
+    id:1797
+  },
+  {
+    kanji: '表',
+    def: 'front, outside',
+    romaji: '[omote]',
+    speech_part: 'NOUN',
+    id:1798
+  },
+  {
+    kanji: '書き取る',
+    def: 'write down, note down',
+    romaji: '[kaki-toru]',
+    speech_part: 'VERB',
+    id:1799
+  },
+  {
+    kanji: '泊める',
+    def: 'let (someone) stay over',
+    romaji: '[tomeru] (2)',
+    speech_part: 'VERB',
+    id:1800
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:176
+  //   id:180
   // },
 ];
 
