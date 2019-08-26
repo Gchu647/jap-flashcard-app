@@ -279,12 +279,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1840
   },
+  {
+    kanji: '姪',
+    def: 'niece',
+    romaji: '[mei]',
+    speech_part: 'NOUN',
+    id:1841
+  },
+  {
+    kanji: '行き',
+    def: 'bound for (a destination)',
+    romaji: '[yuki]',
+    speech_part: 'NOUN',
+    id:1842
+  },
+  {
+    kanji: '細か',
+    def: 'fine, detailed',
+    romaji: '[komaga]',
+    speech_part: 'ADJ. NOUN',
+    id:1843
+  },
+  {
+    kanji: '始めに',
+    def: 'in the beginning',
+    romaji: '[haji-meni]',
+    speech_part: 'ADV.',
+    id:1844
+  },
+  {
+    kanji: '不動産屋',
+    def: 'real estate agent',
+    romaji: '[fudō-sanya]',
+    speech_part: 'NOUN',
+    id:1845
+  },
+  {
+    kanji: '郵便屋さん',
+    def: 'postman',
+    romaji: '[yūbin-yasan]',
+    speech_part: 'NOUN',
+    id:1846
+  },
+  {
+    kanji: '最大',
+    def: 'biggest, largest',
+    romaji: '[saidai]',
+    speech_part: 'NOUN',
+    id:1847
+  },
+  {
+    kanji: '会長',
+    def: 'president, chairperson',
+    romaji: '[kaichō]',
+    speech_part: 'NOUN',
+    id:1848
+  },
+  {
+    kanji: '開発',
+    def: 'development',
+    romaji: '[kaihatsu]',
+    speech_part: 'VERBAL NOUN',
+    id:1849
+  },
+  {
+    kanji: '動き',
+    def: 'movement, motion',
+    romaji: '[ugoki]',
+    speech_part: 'NOUN',
+    id:1850
+  },
+  {
+    kanji: '事件',
+    def: 'affair, incident',
+    romaji: '[jiken]',
+    speech_part: 'NOUN',
+    id:1851
+  },
+  {
+    kanji: '提供',
+    def: 'offer, provide',
+    romaji: '[teikyō]',
+    speech_part: 'VERBAL NOUN',
+    id:1852
+  },
+  {
+    kanji: '移る',
+    def: 'move to, transfer to',
+    romaji: '[utsuru] (2)',
+    speech_part: 'VERB',
+    id:1853
+  },
+  {
+    kanji: '過去',
+    def: 'the past',
+    romaji: '[kako]',
+    speech_part: 'NOUN',
+    id:1854
+  },
+  {
+    kanji: '患者',
+    def: 'patient',
+    romaji: '[kanja]',
+    speech_part: 'NOUN',
+    id:1855
+  },
+  {
+    kanji: '協力',
+    def: 'cooperation',
+    romaji: '[kyō-ryoku]',
+    speech_part: 'VERBAL NOUN',
+    id:1856
+  },
+  {
+    kanji: '個人',
+    def: 'indvidual person',
+    romaji: '[kojin]',
+    speech_part: 'NOUN',
+    id:1857
+  },
+  {
+    kanji: '異なる',
+    def: 'differ',
+    romaji: '[kotonaru]',
+    speech_part: 'VERB',
+    id:1858
+  },
+  {
+    kanji: '時期',
+    def: 'time, season',
+    romaji: '[jiki]',
+    speech_part: 'NOUN',
+    id:1859
+  },
+  {
+    kanji: '市民',
+    def: 'citizen',
+    romaji: '[shimin]',
+    speech_part: 'NOUN',
+    id:1860
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:184
+  //   id:186
   // },
 ];
 
