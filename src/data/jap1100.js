@@ -569,7 +569,7 @@ const JapData = [
   {
     kanji: '建つ',
     def: 'be built, be erected',
-    romaji: '[tatsu]',
+    romaji: '[tatsu] (2)',
     speech_part: 'VERB',
     id:1082
   },

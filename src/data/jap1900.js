@@ -419,12 +419,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1860
   },
+  {
+    kanji: '社員',
+    def: 'staff member',
+    romaji: '[shayin]',
+    speech_part: 'NOUN',
+    id:1861
+  },
+  {
+    kanji: '経つ',
+    def: 'pass, elapse',
+    romaji: '[tatsu]',
+    speech_part: 'VERB',
+    id:1862
+  },
+  {
+    kanji: '責任',
+    def: 'responsibility',
+    romaji: '[sekin-in]',
+    speech_part: 'NOUN',
+    id:1863
+  },
+  {
+    kanji: '願う',
+    def: 'wish, desire',
+    romaji: '[negau]',
+    speech_part: 'VERB',
+    id:1864
+  },
+  {
+    kanji: '発見',
+    def: 'discovery, revelation',
+    romaji: '[hakken]',
+    speech_part: 'VERBAL NOUN',
+    id:1865
+  },
+  {
+    kanji: '美容院',
+    def: 'hair salon',
+    romaji: '[mi-yō-in]',
+    speech_part: 'NOUN',
+    id:1866
+  },
+  {
+    kanji: '状況',
+    def: 'situation, surrounding conditions',
+    romaji: '[jōkyō]',
+    speech_part: 'NOUN',
+    id:1867
+  },
+  {
+    kanji: '目的',
+    def: 'objective, purpose',
+    romaji: '[moku-teki]',
+    speech_part: 'NOUN',
+    id:1868
+  },
+  {
+    kanji: '企業',
+    def: 'corporation, business',
+    romaji: '[kigyō]',
+    speech_part: 'NOUN',
+    id:1869
+  },
+  {
+    kanji: '釣り',
+    def: 'fishing',
+    romaji: '[tsuri]',
+    speech_part: 'NOUN',
+    id:1870
+  },
+  {
+    kanji: '漫画',
+    def: 'comics, cartoon',
+    romaji: '[manga]',
+    speech_part: 'NOUN',
+    id:1871
+  },
+  {
+    kanji: 'いきなり',
+    def: 'all of a sudden, abruptly',
+    romaji: '[iki-nari]',
+    speech_part: 'ADV.',
+    id:1872
+  },
+  {
+    kanji: '温泉',
+    def: 'hot spring',
+    romaji: '[onsen]',
+    speech_part: 'NOUN',
+    id:1873
+  },
+  {
+    kanji: 'あんまり',
+    def: 'not really',
+    romaji: '[anmari]',
+    speech_part: 'ADV.',
+    id:1874
+  },
+  {
+    kanji: 'トレーニング',
+    def: 'training, workout',
+    romaji: '[torē-ningu]',
+    speech_part: 'VERBAL NOUN',
+    id:1875
+  },
+  {
+    kanji: '噂',
+    def: 'gossip, rumor',
+    romaji: '[uwasa]',
+    speech_part: 'VERBAL NOUN',
+    id:1876
+  },
+  {
+    kanji: '本物',
+    def: 'real, truly worthy',
+    romaji: '[hon-mono]',
+    speech_part: 'NOUN',
+    id:1877
+  },
+  {
+    kanji: 'アイデア',
+    def: 'idea',
+    romaji: '[aidea]',
+    speech_part: 'NOUN',
+    id:1878
+  },
+  {
+    kanji: '地下',
+    def: 'underground, basement',
+    romaji: '[chika]',
+    speech_part: 'NOUN',
+    id:1879
+  },
+  {
+    kanji: 'マーケット',
+    def: 'market',
+    romaji: '[māketto]',
+    speech_part: 'NOUN',
+    id:1880
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:186
+  //   id:188
   // },
 ];
 
