@@ -559,13 +559,146 @@ const JapData = [
     speech_part: 'NOUN',
     id:1880
   },
-  // {
-  //   kanji: '',
-  //   def: '',
-  //   romaji: '',
-  //   speech_part: '',
-  //   id:188
-  // },
+  {
+    kanji: 'スケジュール',
+    def: 'schedule (loan word)',
+    romaji: '[sukejūru]',
+    speech_part: 'NOUN',
+    id:1881
+  },
+  {
+    kanji: '歓迎',
+    def: 'welcome, greet',
+    romaji: '[kangei]',
+    speech_part: 'VERBAL NOUN',
+    id:1882
+  },
+  {
+    kanji: '出張',
+    def: 'business trip',
+    romaji: '[shutchō]',
+    speech_part: 'VERBAL NOUN',
+    id:1883
+  },
+  {
+    kanji: 'コック',
+    def: 'cook, chef',
+    romaji: '[kokku]',
+    speech_part: 'NOUN',
+    id:1884
+  },
+  {
+    kanji: '正午',
+    def: 'noon',
+    romaji: '[shōgo]',
+    speech_part: 'NOUN',
+    id:1885
+  },
+  {
+    kanji: 'ブラシ',
+    def: 'brush',
+    romaji: '[burashi]',
+    speech_part: 'NOUN',
+    id:1886
+  },
+  {
+    kanji: '主に',
+    def: 'mostly, predominantly',
+    romaji: '[omoni]',
+    speech_part: 'ADV.',
+    id:1887
+  },
+  {
+    kanji: 'お世辞',
+    def: 'compliment, flattery',
+    romaji: '[oseji]',
+    speech_part: 'NOUN',
+    id:1888
+  },
+  {
+    kanji: '政府',
+    def: 'government, administration',
+    romaji: '[seifu]',
+    speech_part: 'NOUN',
+    id:1889
+  },
+  {
+    kanji: 'より',
+    def: 'even more/even less',
+    romaji: '[yori]',
+    speech_part: 'ADV.',
+    id:1890
+  },
+  {
+    kanji: '情報',
+    def: 'information',
+    romaji: '[jōhō]',
+    speech_part: 'NOUN',
+    id:1891
+  },
+  {
+    kanji: '示す',
+    def: 'show, indicate',
+    romaji: '[shimesu]',
+    speech_part: 'VERB',
+    id:1892
+  },
+  {
+    kanji: '建設',
+    def: 'construction',
+    romaji: '[kensetsu]',
+    speech_part: 'VERBAL NOUN',
+    id:1893
+  },
+  {
+    kanji: '販売',
+    def: 'sale, selling',
+    romaji: '[hanbai]',
+    speech_part: 'VERBAL NOUN',
+    id:1894
+  },
+  {
+    kanji: '機能',
+    def: 'function, feature',
+    romaji: '[kinō]',
+    speech_part: 'VERBAL NOUN',
+    id:1895
+  },
+  {
+    kanji: '頃',
+    def: 'time, the time when ~',
+    romaji: '[koro]',
+    speech_part: 'NOUN',
+    id:1896
+  },
+  {
+    kanji: '対する',
+    def: 'face, be in response to',
+    romaji: '[taisuru]',
+    speech_part: 'VERB',
+    id:1897
+  },
+  {
+    kanji: '今後',
+    def: 'in the future, from now on',
+    romaji: '[kongo]',
+    speech_part: 'NOUN',
+    id:1898
+  },
+  {
+    kanji: '影響',
+    def: 'influence, effect',
+    romaji: '[eikyō]',
+    speech_part: 'VERBAL NOUN',
+    id:1899
+  },
+  {
+    kanji: '分野',
+    def: 'field, area',
+    romaji: '[bun-ya]',
+    speech_part: 'NOUN',
+    id:1900
+  }
 ];
 
 export default JapData;
