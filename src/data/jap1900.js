@@ -666,7 +666,7 @@ const JapData = [
   },
   {
     kanji: '頃',
-    def: 'time, the time when ~',
+    def: 'the time when ~',
     romaji: '[koro]',
     speech_part: 'NOUN',
     id:1896

@@ -139,12 +139,152 @@ const JapData = [
     speech_part: 'NOUN',
     id:1920
   },
+  {
+    kanji: '決定',
+    def: 'decision',
+    romaji: '[kettei]',
+    speech_part: 'VERBAL NOUN',
+    id:1921
+  },
+  {
+    kanji: '住宅',
+    def: 'housing, residence',
+    romaji: '[jūtaku]',
+    speech_part: 'NOUN',
+    id:1922
+  },
+  {
+    kanji: '代表',
+    def: 'representative',
+    romaji: '[daihyō]',
+    speech_part: 'VERBAL NOUN',
+    id:1923
+  },
+  {
+    kanji: '結果',
+    def: 'result, outcome',
+    romaji: '[kekka]',
+    speech_part: 'NOUN',
+    id:1924
+  },
+  {
+    kanji: '命令',
+    def: 'command, order',
+    romaji: '[meirei]',
+    speech_part: 'VERBAL NOUN',
+    id:1925
+  },
+  {
+    kanji: '立場',
+    def: 'standpoint, position',
+    romaji: '[tachiba]',
+    speech_part: 'ADV.',
+    id:1926
+  },
+  {
+    kanji: 'なお',
+    def: 'in addition, still',
+    romaji: '[nao]',
+    speech_part: 'ADV.',
+    id:1927
+  },
+  {
+    kanji: '計算',
+    def: 'calculation',
+    romaji: '[kesan]',
+    speech_part: 'VERBAL NOUN',
+    id:1928
+  },
+  {
+    kanji: '可能',
+    def: 'possible, potential',
+    romaji: '[kanō]',
+    speech_part: 'ADJ. NOUN',
+    id:1929
+  },
+  {
+    kanji: '報告',
+    def: 'report',
+    romaji: '[hōkoku]',
+    speech_part: 'VERBAL NOUN',
+    id:1930
+  },
+  {
+    kanji: '都市',
+    def: 'city, urban city',
+    romaji: '[toshi]',
+    speech_part: 'NOUN',
+    id:1931
+  },
+  {
+    kanji: '政治',
+    def: 'politics',
+    romaji: '[seiji]',
+    speech_part: 'NOUN',
+    id:1932
+  },
+  {
+    kanji: '競争',
+    def: 'competition',
+    romaji: 'kyōsō',
+    speech_part: 'VERBAL NOUN',
+    id:1933
+  },
+  {
+    kanji: '原因',
+    def: 'cause, origin',
+    romaji: '[gen-in]',
+    speech_part: '',
+    id:1934
+  },
+  {
+    kanji: '活動',
+    def: 'activity',
+    romaji: '[katsudō]',
+    speech_part: 'VERBAL NOUN',
+    id:1935
+  },
+  {
+    kanji: '歴史',
+    def: 'history',
+    romaji: '[rekishi]',
+    speech_part: 'NOUN',
+    id:1936
+  },
+  {
+    kanji: '教会',
+    def: 'church',
+    romaji: '[kyōkai]',
+    speech_part: 'NOUN',
+    id:1937
+  },
+  {
+    kanji: '表',
+    def: 'table, list',
+    romaji: '[hyō]',
+    speech_part: 'NOUN',
+    id:1938
+  },
+  {
+    kanji: 'サイト',
+    def: 'website',
+    romaji: '[saito]',
+    speech_part: '[NOUN}',
+    id:1939
+  },
+  {
+    kanji: '柔らかい',
+    def: 'soft, gentle',
+    romaji: '[yawa-rakai]',
+    speech_part: 'ADJ.',
+    id:1940
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:192
+  //   id:194
   // },
 ];
 
