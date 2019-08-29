@@ -279,12 +279,152 @@ const JapData = [
     speech_part: 'ADJ.',
     id:1940
   },
+  {
+    kanji: 'ぴったり',
+    def: 'exactly right, perfect',
+    romaji: '[pittari]',
+    speech_part: 'ADJ. NOUN',
+    id:1941
+  },
+  {
+    kanji: '似合う',
+    def: 'suit, match well',
+    romaji: '[niau]',
+    speech_part: 'VERB',
+    id:1942
+  },
+  {
+    kanji: 'もったいない',
+    def: 'wasteful, a shame',
+    romaji: '[mottai-nai]',
+    speech_part: 'ADJ.',
+    id:1943
+  },
+  {
+    kanji: '怪しい',
+    def: 'suspicious, dubious',
+    romaji: '[ayashī]',
+    speech_part: 'ADJ.',
+    id:1944
+  },
+  {
+    kanji: '土産',
+    def: 'souvenir',
+    romaji: '[miyage]',
+    speech_part: 'NOUN',
+    id:1945
+  },
+  {
+    kanji: 'きつい',
+    def: 'hard, strict',
+    romaji: '[kitsui]',
+    speech_part: 'ADJ.',
+    id:1946
+  },
+  {
+    kanji: '親切',
+    def: 'kindness',
+    romaji: '[shin-setsu]',
+    speech_part: 'NOUN',
+    id:1947
+  },
+  {
+    kanji: '順番',
+    def: 'order, turn',
+    romaji: '[junban]',
+    speech_part: 'NOUN',
+    id:1948
+  },
+  {
+    kanji: '確かめる',
+    def: 'check, confirm',
+    romaji: '[tashi-kameru]',
+    speech_part: 'VERB',
+    id:1949
+  },
+  {
+    kanji: '臭い',
+    def: '(bad) smell',
+    romaji: '[nioi]',
+    speech_part: 'NOUN',
+    id:1950
+  },
+  {
+    kanji: '背中',
+    def: '(ones) back',
+    romaji: '[senaka]',
+    speech_part: 'NOUN',
+    id:1951
+  },
+  {
+    kanji: '現金',
+    def: 'cash',
+    romaji: '[genkin]',
+    speech_part: 'NOUN',
+    id:1952
+  },
+  {
+    kanji: '虫',
+    def: 'insect, bug',
+    romaji: '[mushi]',
+    speech_part: 'NOUN',
+    id:1953
+  },
+  {
+    kanji: '諦める',
+    def: 'abandon, give up',
+    romaji: '[akira-meru]',
+    speech_part: 'VERB',
+    id:1954
+  },
+  {
+    kanji: '思わず',
+    def: 'unintentionally, unconciously',
+    romaji: '[omo-wazu]',
+    speech_part: 'ADV.',
+    id:1955
+  },
+  {
+    kanji: '傷',
+    def: 'wound, scar',
+    romaji: '[kizu]',
+    speech_part: 'NOUN',
+    id:1956
+  },
+  {
+    kanji: 'たっぷり',
+    def: 'fully, plentifully',
+    romaji: '[tappuri]',
+    speech_part: 'ADV.',
+    id:1957
+  },
+  {
+    kanji: '寄る',
+    def: 'stop by, stop off',
+    romaji: '[yoru]',
+    speech_part: 'VERB',
+    id:1958
+  },
+  {
+    kanji: '続き',
+    def: 'continuation, sequal',
+    romaji: '[tsuzuki]',
+    speech_part: 'NOUN',
+    id:1959
+  },
+  {
+    kanji: '懐かしい',
+    def: 'nostalgic, long-forgotten',
+    romaji: '[natsu-kashī]',
+    speech_part: 'ADJ.',
+    id:1960
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:194
+  //   id:196
   // },
 ];
 
