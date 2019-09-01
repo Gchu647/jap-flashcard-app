@@ -419,12 +419,292 @@ const JapData = [
     speech_part: 'ADJ.',
     id:1960
   },
+  {
+    kanji: '田舎',
+    def: 'hometown, countryside',
+    romaji: '[inaka]',
+    speech_part: 'NOUN',
+    id:1961
+  },
+  {
+    kanji: '日中',
+    def: 'during the day',
+    romaji: '[nitchū]',
+    speech_part: 'NOUN',
+    id:1962
+  },
+  {
+    kanji: '帰宅',
+    def: 'return home, come home',
+    romaji: '[kitaku]',
+    speech_part: 'VERBAL NOUN',
+    id:1963
+  },
+  {
+    kanji: '重大',
+    def: 'important, serious',
+    romaji: '[jūdai]',
+    speech_part: 'ADJ. NOUN',
+    id:1964
+  },
+  {
+    kanji: '手続き',
+    def: 'procedure, proceeding',
+    romaji: '[tetsu-dzuki]',
+    speech_part: 'VERBAL NOUN',
+    id:1965
+  },
+  {
+    kanji: '合計',
+    def: 'sum, total',
+    romaji: '[gōkei]',
+    speech_part: 'NOUN',
+    id:1966
+  },
+  {
+    kanji: '早速',
+    def: 'immediately, right away',
+    romaji: '[sassoku]',
+    speech_part: 'ADV>',
+    id:1967
+  },
+  {
+    kanji: 'マイナス',
+    def: 'minus, below zero',
+    romaji: '[mainasu]',
+    speech_part: 'VERBAL NOUN',
+    id:1968
+  },
+  {
+    kanji: '稼ぐ',
+    def: 'earn, make money',
+    romaji: '[kasegu]',
+    speech_part: 'VERB',
+    id:1969
+  },
+  {
+    kanji: '左右',
+    def: 'left and right',
+    romaji: '[sayū]',
+    speech_part: 'NOUN',
+    id:1970
+  },
+  {
+    kanji: '面倒',
+    def: 'troublesome, difficult',
+    romaji: '[mendō]',
+    speech_part: 'ADJ. NOUN',
+    id:1971
+  },
+  {
+    kanji: '痛み',
+    def: 'pain, ache',
+    romaji: '[itami]',
+    speech_part: 'NOUN',
+    id:1972
+  },
+  {
+    kanji: '偶然',
+    def: 'by chance, coincidence',
+    romaji: '[gūzen]',
+    speech_part: 'ADJ. NOUN',
+    id:1973
+  },
+  {
+    kanji: '誤解',
+    def: 'misunderstanding',
+    romaji: '[gokai]',
+    speech_part: 'VERBAL NOUN',
+    id:1974
+  },
+  {
+    kanji: '文句',
+    def: 'complaint, grumble',
+    romaji: '[monku]',
+    speech_part: 'NOUN',
+    id:1975
+  },
+  {
+    kanji: '欧米',
+    def: 'Europe and America',
+    romaji: '[Ōbei]',
+    speech_part: 'NOUN',
+    id:1976
+  },
+  {
+    kanji: '肌',
+    def: 'human skin, surface',
+    romaji: '[hada]',
+    speech_part: 'NOUN',
+    id:1977
+  },
+  {
+    kanji: '面接',
+    def: 'interview',
+    romaji: '[men-setsu]',
+    speech_part: 'VERBAL NOUN',
+    id:1978
+  },
+  {
+    kanji: 'サイン',
+    def: 'signature, autograph',
+    romaji: '[sain]',
+    speech_part: 'VERBAL NOUN',
+    id:1979
+  },
+  {
+    kanji: '中止',
+    def: 'suspension, cancellation',
+    romaji: '[chūshi]',
+    speech_part: '[VERBAL NOUN]',
+    id:1980
+  },
+  {
+    kanji: '年中',
+    def: 'all year',
+    romaji: '[nenjū]',
+    speech_part: 'ADV.',
+    id:1981
+  },
+  {
+    kanji: '機嫌',
+    def: 'mood, health',
+    romaji: '[kigen]',
+    speech_part: 'NOUN',
+    id:1982
+  },
+  {
+    kanji: '居間',
+    def: 'living room',
+    romaji: '[ima] (2)',
+    speech_part: 'NOUN',
+    id:1983
+  },
+  {
+    kanji: '度々',
+    def: 'often',
+    romaji: '[tabi-tabi]',
+    speech_part: 'ADV.',
+    id:1984
+  },
+  {
+    kanji: '具合',
+    def: 'condition, health',
+    romaji: '[guai]',
+    speech_part: 'NOUN',
+    id:1985
+  },
+  {
+    kanji: '例文',
+    def: 'example sentence',
+    romaji: '[reibun]',
+    speech_part: 'NOUN',
+    id:1986
+  },
+  {
+    kanji: '怠ける',
+    def: 'be lazy, slack off',
+    romaji: '[namakeru]',
+    speech_part: 'VERB',
+    id:1987
+  },
+  {
+    kanji: '転勤',
+    def: 'change of job location',
+    romaji: '[tenkin]',
+    speech_part: 'VERBAL NOUN',
+    id:1988
+  },
+  {
+    kanji: 'ご存知',
+    def: 'know (honorific)',
+    romaji: '[gozonji]',
+    speech_part: 'NOUN',
+    id:1989
+  },
+  {
+    kanji: '雀',
+    def: 'sparrow',
+    romaji: '[suzume]',
+    speech_part: 'NOUN',
+    id:1990
+  },
+  {
+    kanji: '適当',
+    def: 'proper, adequate',
+    romaji: '[tekitō]',
+    speech_part: 'ADJ. NOUN',
+    id:1991
+  },
+  {
+    kanji: '残り',
+    def: 'rest, leftover',
+    romaji: '[nokori]',
+    speech_part: 'NOUN',
+    id:1992
+  },
+  {
+    kanji: '戻す',
+    def: 'put (something) back',
+    romaji: '[modosu]',
+    speech_part: 'VERB',
+    id:1993
+  },
+  {
+    kanji: '体重',
+    def: 'body weight',
+    romaji: '[taijū]',
+    speech_part: 'NOUN',
+    id:1994
+  },
+  {
+    kanji: 'どうせ',
+    def: 'anyway',
+    romaji: '[dōse]',
+    speech_part: 'ADV.',
+    id:1995
+  },
+  {
+    kanji: 'あれこれ',
+    def: 'this and that, one thing or another',
+    romaji: '[are-kore]',
+    speech_part: 'NOUN',
+    id:1996
+  },
+  {
+    kanji: '湖',
+    def: 'lake',
+    romaji: '[mizūmi]',
+    speech_part: 'NOUN',
+    id:1997
+  },
+  {
+    kanji: 'とうとう',
+    def: 'finally, in the end',
+    romaji: '[tōtō]',
+    speech_part: 'ADV.',
+    id:1998
+  },
+  {
+    kanji: '負け',
+    def: 'defeat, loss',
+    romaji: '[make]',
+    speech_part: 'NOUN',
+    id:1999
+  },
+  {
+    kanji: '悔しい',
+    def: 'frustrating, regrettable',
+    romaji: '[kuyashī]',
+    speech_part: 'ADJ.',
+    id:2000
+  },
   // {
   //   kanji: '',
   //   def: '',
   //   romaji: '',
   //   speech_part: '',
-  //   id:196
+  //   id:199
   // },
 ];
 
